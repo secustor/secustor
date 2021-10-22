@@ -2,6 +2,8 @@
 
 I’ m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in Distributed Systems.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
+
 My favorite technologies are:
  - Kubernetes
  - Typescript
@@ -10,7 +12,6 @@ My favorite technologies are:
  - Prometheus
  - Loki
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
 
 
 
@@ -28,13 +29,13 @@ My favorite technologies are:
 
 #### ⭐ Latest projects I've starred
 
-- [muesli/markscribe](https://github.com/muesli/markscribe}) 163
-- [rs/cors](https://github.com/rs/cors}) 1949
-- [grafana/helm-charts](https://github.com/grafana/helm-charts}) 454
-- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib}) 162
-- [m3o/m3o](https://github.com/m3o/m3o}) 1579
-- [grafana/loki](https://github.com/grafana/loki}) 14025
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector}) 1408
-- [antonmedv/expr](https://github.com/antonmedv/expr}) 1995
-- [stakater/Forecastle](https://github.com/stakater/Forecastle}) 241
-- [minio/direct-csi](https://github.com/minio/direct-csi}) 118
+- [muesli/markscribe](https://github.com/muesli/markscribe}) 163⭐
+- [rs/cors](https://github.com/rs/cors}) 1949⭐
+- [grafana/helm-charts](https://github.com/grafana/helm-charts}) 454⭐
+- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib}) 162⭐
+- [m3o/m3o](https://github.com/m3o/m3o}) 1579⭐
+- [grafana/loki](https://github.com/grafana/loki}) 14025⭐
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector}) 1408⭐
+- [antonmedv/expr](https://github.com/antonmedv/expr}) 1995⭐
+- [stakater/Forecastle](https://github.com/stakater/Forecastle}) 241⭐
+- [minio/direct-csi](https://github.com/minio/direct-csi}) 118⭐
