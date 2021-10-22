@@ -2,6 +2,8 @@
 
 I’ m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in Distributed Systems.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
+
 My favorite technologies are:
  - Kubernetes
  - Typescript
@@ -10,7 +12,6 @@ My favorite technologies are:
  - Prometheus
  - Loki
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
 
 
 
@@ -21,5 +22,5 @@ My favorite technologies are:
 
 #### ⭐ Latest projects I've starred
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}}) {{.Repo.Stargazers}}
+- [{{.Repo.Name}}]({{.Repo.URL}}}) {{.Repo.Stargazers}}⭐
 {{- end}}
