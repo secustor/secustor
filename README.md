@@ -17,10 +17,10 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([28.21.0](https://github.com/renovatebot/renovate/releases/tag/28.21.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.3.0), 3 days ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.4.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.4.0), 3 days ago) - OpenTelemetry Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.9.17](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.9.17), 4 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([28.21.2](https://github.com/renovatebot/renovate/releases/tag/28.21.2), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.3.0), 4 days ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.4.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.4.0), 4 days ago) - OpenTelemetry Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.9.17](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.9.17), 5 days ago)
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.2.2](https://github.com/grafana/grafana/releases/tag/v8.2.2), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.0), 2 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.0.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.0.4), 2 weeks ago) - NGINX Ingress Controller for Kubernetes
@@ -31,15 +31,15 @@ My favorite technologies are:
 #### ⭐ Latest projects I've starred
 
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee}) 1346⭐
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm}) 2925⭐
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm}) 2926⭐
 - [fwupd/firmware-lenovo-thinkpad](https://github.com/fwupd/firmware-lenovo-thinkpad}) 38⭐
 - [muesli/markscribe](https://github.com/muesli/markscribe}) 170⭐
 - [rs/cors](https://github.com/rs/cors}) 1953⭐
 - [grafana/helm-charts](https://github.com/grafana/helm-charts}) 462⭐
-- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib}) 164⭐
-- [m3o/m3o](https://github.com/m3o/m3o}) 1723⭐
-- [grafana/loki](https://github.com/grafana/loki}) 14096⭐
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector}) 1434⭐
+- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib}) 165⭐
+- [m3o/m3o](https://github.com/m3o/m3o}) 1727⭐
+- [grafana/loki](https://github.com/grafana/loki}) 14097⭐
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector}) 1435⭐
 
 
 
