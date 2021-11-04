@@ -11,6 +11,7 @@ My favorite technologies are:
  - Golang
  - Prometheus
  - Loki
+ - OpenTelemetry
 
 
 
