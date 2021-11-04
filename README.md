@@ -17,29 +17,29 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([28.22.3](https://github.com/renovatebot/renovate/releases/tag/28.22.3), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.13.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.8.1](https://github.com/grafana/helm-charts/releases/tag/tempo-0.8.1), 1 day ago)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.4.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.4.0), 5 days ago) - OpenTelemetry Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.83.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana](https://github.com/grafana/grafana) ([v8.2.2](https://github.com/grafana/grafana/releases/tag/v8.2.2), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.0), 2 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([28.23.2](https://github.com/renovatebot/renovate/releases/tag/28.23.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.1.2), 1 day ago)
+- [grafana/grafana](https://github.com/grafana/grafana) ([v8.2.3](https://github.com/grafana/grafana/releases/tag/v8.2.3), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.2](https://github.com/sachaos/viddy/releases/tag/v0.3.2), 1 day ago) - 👀 A modern watch command. Time machine and pager etc.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.13.0), 2 days ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.4.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.4.0), 6 days ago) - OpenTelemetry Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.83.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.0), 3 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.0.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.0.4), 3 weeks ago) - NGINX Ingress Controller for Kubernetes
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.1](https://github.com/sachaos/viddy/releases/tag/v0.3.1), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 - [camaoag/cert-manager-webhook-project-pinto](https://github.com/camaoag/cert-manager-webhook-project-pinto) ([v0.4.1](https://github.com/camaoag/cert-manager-webhook-project-pinto/releases/tag/v0.4.1), 1 month ago)
 
 #### ⭐ Latest projects I've starred
 
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee}) 1347⭐
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm}) 2927⭐
+- [apache/apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller}) 348⭐
+- [apache/apisix](https://github.com/apache/apisix}) 7294⭐
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee}) 1351⭐
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm}) 2933⭐
 - [fwupd/firmware-lenovo-thinkpad](https://github.com/fwupd/firmware-lenovo-thinkpad}) 39⭐
 - [muesli/markscribe](https://github.com/muesli/markscribe}) 170⭐
 - [rs/cors](https://github.com/rs/cors}) 1955⭐
-- [grafana/helm-charts](https://github.com/grafana/helm-charts}) 463⭐
-- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib}) 166⭐
-- [m3o/m3o](https://github.com/m3o/m3o}) 1732⭐
-- [grafana/loki](https://github.com/grafana/loki}) 14106⭐
-- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector}) 1440⭐
+- [grafana/helm-charts](https://github.com/grafana/helm-charts}) 466⭐
+- [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib}) 168⭐
+- [m3o/m3o](https://github.com/m3o/m3o}) 1734⭐
 
 
 
