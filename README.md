@@ -11,13 +11,14 @@ My favorite technologies are:
  - Golang
  - Prometheus
  - Loki
+ - OpenTelemetry
 
 
 
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([28.23.2](https://github.com/renovatebot/renovate/releases/tag/28.23.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([28.23.6](https://github.com/renovatebot/renovate/releases/tag/28.23.6), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.1.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.1.2), 1 day ago)
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.2.3](https://github.com/grafana/grafana/releases/tag/v8.2.3), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.2](https://github.com/sachaos/viddy/releases/tag/v0.3.2), 1 day ago) - 👀 A modern watch command. Time machine and pager etc.
@@ -31,15 +32,15 @@ My favorite technologies are:
 #### ⭐ Latest projects I've starred
 
 - [apache/apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller}) 348⭐
-- [apache/apisix](https://github.com/apache/apisix}) 7294⭐
+- [apache/apisix](https://github.com/apache/apisix}) 7307⭐
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee}) 1351⭐
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm}) 2933⭐
 - [fwupd/firmware-lenovo-thinkpad](https://github.com/fwupd/firmware-lenovo-thinkpad}) 39⭐
 - [muesli/markscribe](https://github.com/muesli/markscribe}) 170⭐
-- [rs/cors](https://github.com/rs/cors}) 1955⭐
+- [rs/cors](https://github.com/rs/cors}) 1956⭐
 - [grafana/helm-charts](https://github.com/grafana/helm-charts}) 466⭐
 - [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib}) 168⭐
-- [m3o/m3o](https://github.com/m3o/m3o}) 1734⭐
+- [m3o/m3o](https://github.com/m3o/m3o}) 1737⭐
 
 
 
