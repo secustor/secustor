@@ -18,29 +18,29 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([29.2.6](https://github.com/renovatebot/renovate/releases/tag/29.2.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.17.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.39.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.39.0), 3 days ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.84.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.84.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana](https://github.com/grafana/grafana) ([v8.2.3](https://github.com/grafana/grafana/releases/tag/v8.2.3), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.2](https://github.com/sachaos/viddy/releases/tag/v0.3.2), 5 days ago) - 👀 A modern watch command. Time machine and pager etc.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.39.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.39.2), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([29.3.1](https://github.com/renovatebot/renovate/releases/tag/29.3.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.17.0), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.84.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.84.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/grafana](https://github.com/grafana/grafana) ([v8.2.3](https://github.com/grafana/grafana/releases/tag/v8.2.3), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.2](https://github.com/sachaos/viddy/releases/tag/v0.3.2), 6 days ago) - 👀 A modern watch command. Time machine and pager etc.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.4.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.4.0), 1 week ago) - OpenTelemetry Helm Charts
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.0), 3 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.0.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.0.4), 3 weeks ago) - NGINX Ingress Controller for Kubernetes
-- [camaoag/cert-manager-webhook-project-pinto](https://github.com/camaoag/cert-manager-webhook-project-pinto) ([v0.4.1](https://github.com/camaoag/cert-manager-webhook-project-pinto/releases/tag/v0.4.1), 1 month ago)
+- [camaoag/cert-manager-webhook-project-pinto](https://github.com/camaoag/cert-manager-webhook-project-pinto) ([v0.4.1](https://github.com/camaoag/cert-manager-webhook-project-pinto/releases/tag/v0.4.1), 2 months ago)
 
 #### ⭐ Latest projects I've starred
 
-- [slidevjs/slidev](https://github.com/slidevjs/slidev}) 16280⭐
-- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib}) 275⭐
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec}) 3940⭐
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome}) 174763⭐
+- [slidevjs/slidev](https://github.com/slidevjs/slidev}) 16293⭐
+- [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib}) 277⭐
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec}) 3947⭐
 - [apache/apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller}) 349⭐
-- [apache/apisix](https://github.com/apache/apisix}) 7335⭐
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee}) 1357⭐
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm}) 2941⭐
+- [apache/apisix](https://github.com/apache/apisix}) 7347⭐
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee}) 1365⭐
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm}) 2944⭐
 - [fwupd/firmware-lenovo-thinkpad](https://github.com/fwupd/firmware-lenovo-thinkpad}) 39⭐
 - [muesli/markscribe](https://github.com/muesli/markscribe}) 170⭐
-- [rs/cors](https://github.com/rs/cors}) 1957⭐
 
 
 
