@@ -18,12 +18,12 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([29.27.0](https://github.com/renovatebot/renovate/releases/tag/29.27.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.8.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.17.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.17.8), 2 days ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.11](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.11), 2 days ago) - NGINX Ingress Controller for Kubernetes
-- [grafana/grafana](https://github.com/grafana/grafana) ([v8.3.0-beta2](https://github.com/grafana/grafana/releases/tag/v8.3.0-beta2), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.87.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.0.1), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([29.27.0](https://github.com/renovatebot/renovate/releases/tag/29.27.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.17.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.17.8), 3 days ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.11](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.11), 3 days ago) - NGINX Ingress Controller for Kubernetes
+- [grafana/grafana](https://github.com/grafana/grafana) ([v8.3.0-beta2](https://github.com/grafana/grafana/releases/tag/v8.3.0-beta2), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.87.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.3](https://github.com/sachaos/viddy/releases/tag/v0.3.3), 2 weeks ago) - 👀 A modern watch command. Time machine and pager etc.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.8.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.8.0), 2 weeks ago) - OpenTelemetry Helm Charts
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.0), 1 month ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -33,14 +33,14 @@ My favorite technologies are:
 
 - [pavius/impi](https://github.com/pavius/impi}) 23⭐
 - [openapm/landscape-model](https://github.com/openapm/landscape-model}) 127⭐
-- [earthly/earthly](https://github.com/earthly/earthly}) 5568⭐
+- [earthly/earthly](https://github.com/earthly/earthly}) 5574⭐
 - [aws-observability/aws-otel-community](https://github.com/aws-observability/aws-otel-community}) 17⭐
-- [krallin/tini](https://github.com/krallin/tini}) 6772⭐
+- [krallin/tini](https://github.com/krallin/tini}) 6774⭐
 - [jormaechea/open-api-mocker](https://github.com/jormaechea/open-api-mocker}) 41⭐
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome}) 176739⭐
-- [slidevjs/slidev](https://github.com/slidevjs/slidev}) 16480⭐
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome}) 176968⭐
+- [slidevjs/slidev](https://github.com/slidevjs/slidev}) 16492⭐
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib}) 289⭐
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec}) 4041⭐
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec}) 4046⭐
 
 
 
