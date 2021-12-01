@@ -39,7 +39,7 @@ My favorite technologies are:
 - [aws-observability/aws-otel-community](https://github.com/aws-observability/aws-otel-community}) 17⭐
 - [krallin/tini](https://github.com/krallin/tini}) 6783⭐
 - [jormaechea/open-api-mocker](https://github.com/jormaechea/open-api-mocker}) 42⭐
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome}) 177729⭐
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome}) 177730⭐
 - [slidevjs/slidev](https://github.com/slidevjs/slidev}) 16538⭐
 
 
