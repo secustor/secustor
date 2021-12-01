@@ -18,9 +18,9 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([29.29.1](https://github.com/renovatebot/renovate/releases/tag/29.29.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.12.0](https://github.com/grafana/helm-charts/releases/tag/tempo-0.12.0), 1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.9.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([29.28.2](https://github.com/renovatebot/renovate/releases/tag/29.28.2), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.12](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.12), 2 days ago) - NGINX Ingress Controller for Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.3.0-beta2](https://github.com/grafana/grafana/releases/tag/v8.3.0-beta2), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.87.0), 5 days ago) - Terraform provider for Azure Resource Manager
@@ -32,15 +32,15 @@ My favorite technologies are:
 #### ⭐ Latest projects I've starred
 
 - [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 567⭐
-- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 35547⭐
+- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 35573⭐
 - [pavius/impi](https://github.com/pavius/impi}) 23⭐
 - [openapm/landscape-model](https://github.com/openapm/landscape-model}) 127⭐
-- [earthly/earthly](https://github.com/earthly/earthly}) 5585⭐
+- [earthly/earthly](https://github.com/earthly/earthly}) 5589⭐
 - [aws-observability/aws-otel-community](https://github.com/aws-observability/aws-otel-community}) 17⭐
-- [krallin/tini](https://github.com/krallin/tini}) 6782⭐
+- [krallin/tini](https://github.com/krallin/tini}) 6783⭐
 - [jormaechea/open-api-mocker](https://github.com/jormaechea/open-api-mocker}) 42⭐
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome}) 177562⭐
-- [slidevjs/slidev](https://github.com/slidevjs/slidev}) 16530⭐
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome}) 177729⭐
+- [slidevjs/slidev](https://github.com/slidevjs/slidev}) 16538⭐
 
 
 
