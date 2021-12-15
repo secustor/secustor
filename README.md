@@ -18,11 +18,11 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.0.0](https://github.com/renovatebot/renovate/releases/tag/31.0.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.1.2), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.1), 1 day ago)
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.89.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.3.1), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.2.0](https://github.com/renovatebot/renovate/releases/tag/31.2.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.2), 1 day ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.89.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.13](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.13), 1 week ago) - NGINX Ingress Controller for Kubernetes
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.8.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.8.1), 1 week ago) - OpenTelemetry Helm Charts
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 week ago) - 👀 A modern watch command. Time machine and pager etc.
@@ -31,16 +31,16 @@ My favorite technologies are:
 
 #### ⭐ Latest projects I've starred
 
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 931⭐
-- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce}) 2195⭐
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19229⭐
-- [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 573⭐
-- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 35828⭐
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 937⭐
+- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce}) 2382⭐
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19255⭐
+- [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 574⭐
+- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 35844⭐
 - [pavius/impi](https://github.com/pavius/impi}) 23⭐
 - [openapm/landscape-model](https://github.com/openapm/landscape-model}) 127⭐
-- [earthly/earthly](https://github.com/earthly/earthly}) 5772⭐
+- [earthly/earthly](https://github.com/earthly/earthly}) 5774⭐
 - [aws-observability/aws-otel-community](https://github.com/aws-observability/aws-otel-community}) 17⭐
-- [krallin/tini](https://github.com/krallin/tini}) 6825⭐
+- [krallin/tini](https://github.com/krallin/tini}) 6830⭐
 
 
 
