@@ -18,10 +18,10 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.1), 2 days ago) - OpenTelemetry Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.13.1](https://github.com/renovatebot/renovate/releases/tag/31.13.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.4.0), 2 days ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.1), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.1), 3 days ago) - OpenTelemetry Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.13.1](https://github.com/renovatebot/renovate/releases/tag/31.13.1), 3 days ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.4.0), 3 days ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.1), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.8.4](https://github.com/grafana/helm-charts/releases/tag/loki-2.8.4), 1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.90.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.13](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.13), 2 weeks ago) - NGINX Ingress Controller for Kubernetes
@@ -31,15 +31,15 @@ My favorite technologies are:
 
 #### ⭐ Latest projects I've starred
 
-- [google/zx](https://github.com/google/zx}) 24144⭐
+- [google/zx](https://github.com/google/zx}) 24169⭐
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 155⭐
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1018⭐
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19434⭐
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1021⭐
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19440⭐
 - [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 574⭐
-- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 36061⭐
+- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 36076⭐
 - [pavius/impi](https://github.com/pavius/impi}) 23⭐
 - [openapm/landscape-model](https://github.com/openapm/landscape-model}) 127⭐
-- [earthly/earthly](https://github.com/earthly/earthly}) 5825⭐
+- [earthly/earthly](https://github.com/earthly/earthly}) 5831⭐
 - [aws-observability/aws-otel-community](https://github.com/aws-observability/aws-otel-community}) 17⭐
 
 
