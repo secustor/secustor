@@ -18,10 +18,10 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.13.3](https://github.com/renovatebot/renovate/releases/tag/31.13.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-25.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-25.2.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.1), 4 days ago) - OpenTelemetry Helm Charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.1), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.13.6](https://github.com/renovatebot/renovate/releases/tag/31.13.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-25.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-25.2.0), 2 days ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.1), 5 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.1), 6 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.8.4](https://github.com/grafana/helm-charts/releases/tag/loki-2.8.4), 1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.90.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.13](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.13), 3 weeks ago) - NGINX Ingress Controller for Kubernetes
@@ -31,16 +31,16 @@ My favorite technologies are:
 
 #### ⭐ Latest projects I've starred
 
-- [nicolasgere/go-underscore](https://github.com/nicolasgere/go-underscore}) 7⭐
-- [google/zx](https://github.com/google/zx}) 24183⭐
+- [nicolasgere/go-underscore](https://github.com/nicolasgere/go-underscore}) 13⭐
+- [google/zx](https://github.com/google/zx}) 24217⭐
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 156⭐
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1022⭐
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19448⭐
-- [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 574⭐
-- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 36087⭐
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1025⭐
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19460⭐
+- [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 575⭐
+- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 36098⭐
 - [pavius/impi](https://github.com/pavius/impi}) 23⭐
 - [openapm/landscape-model](https://github.com/openapm/landscape-model}) 127⭐
-- [earthly/earthly](https://github.com/earthly/earthly}) 5834⭐
+- [earthly/earthly](https://github.com/earthly/earthly}) 5835⭐
 
 
 
