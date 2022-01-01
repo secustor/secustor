@@ -18,27 +18,27 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-27.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-27.0.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-metrics-1.7.2](https://github.com/grafana/helm-charts/releases/tag/enterprise-metrics-1.7.2), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.14.0](https://github.com/renovatebot/renovate/releases/tag/31.14.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-27.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-27.0.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-metrics-1.7.2](https://github.com/grafana/helm-charts/releases/tag/enterprise-metrics-1.7.2), 2 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.14.0](https://github.com/renovatebot/renovate/releases/tag/31.14.0), 3 days ago) - Universal dependency update tool that fits into your workflows.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.1), 1 week ago) - OpenTelemetry Helm Charts
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.1), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.90.0), 2 weeks ago) - Terraform provider for Azure Resource Manager
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.41.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.41.0), 3 weeks ago) - Contrib repository for the OpenTelemetry Collector
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.13](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.13), 3 weeks ago) - NGINX Ingress Controller for Kubernetes
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 4 weeks ago) - 👀 A modern watch command. Time machine and pager etc.
+- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.0), 2 months ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 
 #### ⭐ Latest projects I've starred
 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus}) 3653⭐
 - [nicolasgere/go-underscore](https://github.com/nicolasgere/go-underscore}) 15⭐
-- [google/zx](https://github.com/google/zx}) 24258⭐
+- [google/zx](https://github.com/google/zx}) 24268⭐
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 157⭐
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1032⭐
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19515⭐
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1034⭐
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19523⭐
 - [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 580⭐
-- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 36157⭐
+- [caddyserver/caddy](https://github.com/caddyserver/caddy}) 36183⭐
 - [pavius/impi](https://github.com/pavius/impi}) 23⭐
 - [openapm/landscape-model](https://github.com/openapm/landscape-model}) 127⭐
 
