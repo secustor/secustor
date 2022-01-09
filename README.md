@@ -18,11 +18,11 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-29.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-29.0.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.42.0), 1 day ago) - Contrib repository for the OpenTelemetry Collector
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.5), 1 day ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.91.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.21.0](https://github.com/renovatebot/renovate/releases/tag/31.21.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), 1 day ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.42.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.5), 2 days ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.91.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.21.0](https://github.com/renovatebot/renovate/releases/tag/31.21.0), 3 days ago) - Universal dependency update tool that fits into your workflows.
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.1), 2 weeks ago) - OpenTelemetry Helm Charts
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.41.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.41.1), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.13](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.13), 1 month ago) - NGINX Ingress Controller for Kubernetes
@@ -31,16 +31,16 @@ My favorite technologies are:
 
 #### ⭐ Latest projects I've starred
 
-- [grafana/grizzly](https://github.com/grafana/grizzly}) 211⭐
+- [grafana/grizzly](https://github.com/grafana/grizzly}) 212⭐
 - [JetBrains/golandtipsandtricks](https://github.com/JetBrains/golandtipsandtricks}) 102⭐
-- [google/gops](https://github.com/google/gops}) 5429⭐
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus}) 3673⭐
+- [google/gops](https://github.com/google/gops}) 5430⭐
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus}) 3676⭐
 - [nicolasgere/go-underscore](https://github.com/nicolasgere/go-underscore}) 17⭐
-- [google/zx](https://github.com/google/zx}) 25021⭐
-- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 167⭐
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1039⭐
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19660⭐
-- [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 582⭐
+- [google/zx](https://github.com/google/zx}) 25189⭐
+- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 169⭐
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1041⭐
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19666⭐
+- [weaveworks-experiments/kspan](https://github.com/weaveworks-experiments/kspan}) 583⭐
 
 
 
