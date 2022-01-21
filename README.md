@@ -18,15 +18,15 @@ My favorite technologies are:
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.1.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.36.0](https://github.com/renovatebot/renovate/releases/tag/31.36.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.6](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.6), 1 day ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.16](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.16), 3 days ago) - NGINX Ingress Controller for Kubernetes
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.2), 5 days ago) - OpenTelemetry Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.92.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.9.1](https://github.com/grafana/helm-charts/releases/tag/loki-2.9.1), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.38.4](https://github.com/renovatebot/renovate/releases/tag/31.38.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.1.1), 1 day ago) - Prometheus community Helm charts
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.16](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.16), 4 days ago) - NGINX Ingress Controller for Kubernetes
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.2), 6 days ago) - OpenTelemetry Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.92.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.42.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.1), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.42.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.42.0), 2 weeks ago) - Contrib repository for the OpenTelemetry Collector
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### ⭐ Latest projects I've starred
@@ -34,13 +34,13 @@ My favorite technologies are:
 - [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes}) 260⭐
 - [grafana/grizzly](https://github.com/grafana/grizzly}) 214⭐
 - [JetBrains/golandtipsandtricks](https://github.com/JetBrains/golandtipsandtricks}) 103⭐
-- [google/gops](https://github.com/google/gops}) 5443⭐
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus}) 3711⭐
+- [google/gops](https://github.com/google/gops}) 5448⭐
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus}) 3717⭐
 - [nicolasgere/go-underscore](https://github.com/nicolasgere/go-underscore}) 18⭐
-- [google/zx](https://github.com/google/zx}) 26671⭐
-- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 186⭐
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1054⭐
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 19968⭐
+- [google/zx](https://github.com/google/zx}) 26771⭐
+- [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 188⭐
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1058⭐
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX}) 20006⭐
 
 
 
