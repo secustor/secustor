@@ -12,29 +12,29 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.53.0](https://github.com/renovatebot/renovate/releases/tag/31.53.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.2.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.2.0), 1 day ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.93.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.93.1), 1 day ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.1), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([31.56.0](https://github.com/renovatebot/renovate/releases/tag/31.56.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.42.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.42.0), 1 day ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.93.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.93.1), 2 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.0.16](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.0.16), 1 week ago) - NGINX Ingress Controller for Kubernetes
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.5.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.5.2), 1 week ago) - OpenTelemetry Helm Charts
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.42.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.1), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.1), 2 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.42.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.42.0), 2 weeks ago) - Contrib repository for the OpenTelemetry Collector
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 1 month ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### ⭐ Latest projects I've starred
 
-- [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs}) 10829⭐
-- [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes}) 261⭐
+- [tonglil/gokitlogr](https://github.com/tonglil/gokitlogr}) 1⭐
+- [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs}) 10832⭐
+- [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes}) 262⭐
 - [grafana/grizzly](https://github.com/grafana/grizzly}) 214⭐
 - [JetBrains/golandtipsandtricks](https://github.com/JetBrains/golandtipsandtricks}) 104⭐
 - [google/gops](https://github.com/google/gops}) 5450⭐
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus}) 3730⭐
 - [nicolasgere/go-underscore](https://github.com/nicolasgere/go-underscore}) 18⭐
-- [google/zx](https://github.com/google/zx}) 27053⭐
+- [google/zx](https://github.com/google/zx}) 27104⭐
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer}) 188⭐
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper}) 1062⭐
 
 
 
