@@ -12,12 +12,12 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.1.6](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.1.6), 1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.6.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.0.2](https://github.com/renovatebot/renovate/releases/tag/32.0.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.1.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.1.2), 2 days ago) - NGINX Ingress Controller for Kubernetes
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.9.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.9.4), 3 days ago) - OpenTelemetry Helm Charts
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.46.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.46.0), 6 days ago) - Contrib repository for the OpenTelemetry Collector
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.24.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.24.1), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.0.4](https://github.com/renovatebot/renovate/releases/tag/32.0.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.9.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.9.5), 1 day ago) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.6.0), 2 days ago) - Prometheus community Helm charts
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.1.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.1.2), 3 days ago) - NGINX Ingress Controller for Kubernetes
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.46.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.46.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.45.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.45.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.98.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.1), 1 month ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -25,16 +25,16 @@ Working mostly right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine}) 26068⭐
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine}) 26073⭐
 - [ncruces/go-gcp](https://github.com/ncruces/go-gcp}) 6⭐
-- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework}) 231⭐
-- [hashicorp/memberlist](https://github.com/hashicorp/memberlist}) 2730⭐
-- [mozilla/sops](https://github.com/mozilla/sops}) 9252⭐
-- [faker-js/faker](https://github.com/faker-js/faker}) 4000⭐
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring}) 12318⭐
-- [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch}) 5704⭐
-- [profclems/glab](https://github.com/profclems/glab}) 1768⭐
-- [weaveworks/kured](https://github.com/weaveworks/kured}) 1385⭐
+- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework}) 233⭐
+- [hashicorp/memberlist](https://github.com/hashicorp/memberlist}) 2731⭐
+- [mozilla/sops](https://github.com/mozilla/sops}) 9257⭐
+- [faker-js/faker](https://github.com/faker-js/faker}) 4021⭐
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring}) 12327⭐
+- [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch}) 5710⭐
+- [profclems/glab](https://github.com/profclems/glab}) 1770⭐
+- [weaveworks/kured](https://github.com/weaveworks/kured}) 1386⭐
 
 
 
