@@ -12,10 +12,10 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-simple-1.0.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-simple-1.0.0), 1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.0.1), 2 days ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.10.3](https://github.com/renovatebot/renovate/releases/tag/32.10.3), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.48.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.25.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.25.0), 1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.7.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.10.4](https://github.com/renovatebot/renovate/releases/tag/32.10.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.48.0), 3 days ago) - Contrib repository for the OpenTelemetry Collector
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.0.2](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.0.2), 1 week ago) - Terraform provider for Azure Resource Manager
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.12.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.12.1), 1 week ago) - OpenTelemetry Helm Charts
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.1.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.1.1), 1 week ago) - OpenTelemetry JavaScript Client
@@ -25,14 +25,14 @@ Working mostly right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch}) 194⭐
-- [kyverno/kyverno](https://github.com/kyverno/kyverno}) 2112⭐
-- [grafana/dskit](https://github.com/grafana/dskit}) 176⭐
-- [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere}) 185⭐
-- [grafana/mimir](https://github.com/grafana/mimir}) 1120⭐
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch}) 210⭐
+- [kyverno/kyverno](https://github.com/kyverno/kyverno}) 2116⭐
+- [grafana/dskit](https://github.com/grafana/dskit}) 177⭐
+- [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere}) 186⭐
+- [grafana/mimir](https://github.com/grafana/mimir}) 1330⭐
 - [vitabaks/postgresql_cluster](https://github.com/vitabaks/postgresql_cluster}) 504⭐
 - [kedacore/keda-olm-operator](https://github.com/kedacore/keda-olm-operator}) 18⭐
-- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core}) 5365⭐
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core}) 5397⭐
 - [neuvector/neuvector-helm](https://github.com/neuvector/neuvector-helm}) 42⭐
 - [mnadeem/nodejs-opentelemetry-tempo](https://github.com/mnadeem/nodejs-opentelemetry-tempo}) 67⭐
 
