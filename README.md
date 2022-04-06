@@ -12,29 +12,29 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.11.3](https://github.com/renovatebot/renovate/releases/tag/32.11.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.2](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.2), 1 day ago)
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.48.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.8.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.48.0), 5 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.6.6](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.6.6), 1 day ago) - OpenTelemetry Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.12.0](https://github.com/renovatebot/renovate/releases/tag/32.12.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.4](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.4), 1 day ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.48.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.8.0), 2 days ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.48.0), 6 days ago) - Contrib repository for the OpenTelemetry Collector
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.0.2](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.0.2), 1 week ago) - Terraform provider for Azure Resource Manager
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.12.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.12.1), 1 week ago) - OpenTelemetry Helm Charts
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.1.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.1.1), 2 weeks ago) - OpenTelemetry JavaScript Client
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.2), 3 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 4 months ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### ⭐ Latest projects I've starred
 
-- [anchore/grype](https://github.com/anchore/grype}) 3322⭐
-- [dagger/dagger](https://github.com/dagger/dagger}) 3227⭐
-- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch}) 218⭐
-- [kyverno/kyverno](https://github.com/kyverno/kyverno}) 2123⭐
+- [vmware/govmomi](https://github.com/vmware/govmomi}) 1863⭐
+- [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2}) 39⭐
+- [anchore/grype](https://github.com/anchore/grype}) 3329⭐
+- [dagger/dagger](https://github.com/dagger/dagger}) 3369⭐
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch}) 221⭐
+- [kyverno/kyverno](https://github.com/kyverno/kyverno}) 2131⭐
 - [grafana/dskit](https://github.com/grafana/dskit}) 177⭐
-- [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere}) 187⭐
-- [grafana/mimir](https://github.com/grafana/mimir}) 1554⭐
-- [vitabaks/postgresql_cluster](https://github.com/vitabaks/postgresql_cluster}) 504⭐
-- [kedacore/keda-olm-operator](https://github.com/kedacore/keda-olm-operator}) 18⭐
-- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core}) 5441⭐
+- [vmware-samples/packer-examples-for-vsphere](https://github.com/vmware-samples/packer-examples-for-vsphere}) 189⭐
+- [grafana/mimir](https://github.com/grafana/mimir}) 1594⭐
+- [vitabaks/postgresql_cluster](https://github.com/vitabaks/postgresql_cluster}) 505⭐
 
 
 
