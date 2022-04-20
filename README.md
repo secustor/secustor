@@ -12,12 +12,12 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.4](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.4), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.26.1](https://github.com/renovatebot/renovate/releases/tag/32.26.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.4), 3 days ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.14.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.14.1), 4 days ago) - OpenTelemetry Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.49.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.49.0), 5 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.14.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.14.2), 1 day ago) - OpenTelemetry Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.26.3](https://github.com/renovatebot/renovate/releases/tag/32.26.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.48.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.48.2), 1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.7.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.49.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.49.0), 6 days ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.48.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.1.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.1.1), 4 weeks ago) - OpenTelemetry JavaScript Client
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.2), 1 month ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
@@ -26,15 +26,15 @@ Working mostly right now on:
 #### ⭐ Latest projects I've starred
 
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer}) 35⭐
-- [Unleash/unleash](https://github.com/Unleash/unleash}) 5439⭐
+- [Unleash/unleash](https://github.com/Unleash/unleash}) 5447⭐
 - [helm/chart-testing](https://github.com/helm/chart-testing}) 780⭐
 - [plexsystems/konstraint](https://github.com/plexsystems/konstraint}) 266⭐
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper}) 2472⭐
-- [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library}) 396⭐
-- [nginxinc/nginx-kubernetes-gateway](https://github.com/nginxinc/nginx-kubernetes-gateway}) 9⭐
-- [crossplane/crossplane](https://github.com/crossplane/crossplane}) 4996⭐
-- [harvester/harvester](https://github.com/harvester/harvester}) 2068⭐
-- [networkop/k8s-networking-guide](https://github.com/networkop/k8s-networking-guide}) 60⭐
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper}) 2474⭐
+- [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library}) 397⭐
+- [nginxinc/nginx-kubernetes-gateway](https://github.com/nginxinc/nginx-kubernetes-gateway}) 10⭐
+- [crossplane/crossplane](https://github.com/crossplane/crossplane}) 5010⭐
+- [harvester/harvester](https://github.com/harvester/harvester}) 2072⭐
+- [networkop/k8s-networking-guide](https://github.com/networkop/k8s-networking-guide}) 61⭐
 
 
 
