@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’ m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in Distributed Systems.
+I’ m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in distributed systems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
 
