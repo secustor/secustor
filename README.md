@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’ m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in Distributed Systems.
+I’ m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in distributed systems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
 
@@ -12,10 +12,10 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.27.2](https://github.com/renovatebot/renovate/releases/tag/32.27.2), today) - Universal dependency update tool that fits into your workflows.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.3.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.3.0), today) - Terraform provider for Azure Resource Manager
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.6.7](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.6.7), 1 day ago) - OpenTelemetry Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.7](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.7), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.27.0](https://github.com/renovatebot/renovate/releases/tag/32.27.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.49.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.49.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.48.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.1.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.1.1), 1 month ago) - OpenTelemetry JavaScript Client
@@ -28,7 +28,7 @@ Working mostly right now on:
 - [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb}) 187⭐
 - [keyval-dev/opentelemetry-go-instrumentation](https://github.com/keyval-dev/opentelemetry-go-instrumentation}) 12⭐
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer}) 35⭐
-- [Unleash/unleash](https://github.com/Unleash/unleash}) 5458⭐
+- [Unleash/unleash](https://github.com/Unleash/unleash}) 5459⭐
 - [helm/chart-testing](https://github.com/helm/chart-testing}) 781⭐
 - [plexsystems/konstraint](https://github.com/plexsystems/konstraint}) 267⭐
 - [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper}) 2477⭐
