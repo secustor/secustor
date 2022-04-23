@@ -12,12 +12,12 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.27.2](https://github.com/renovatebot/renovate/releases/tag/32.27.2), today) - Universal dependency update tool that fits into your workflows.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.3.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.3.0), today) - Terraform provider for Azure Resource Manager
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.6.7](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.6.7), 1 day ago) - OpenTelemetry Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.7](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.7), 1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.2.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.2.0), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.27.4](https://github.com/renovatebot/renovate/releases/tag/32.27.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.49.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.49.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.3.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.3.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.6.7](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.6.7), 2 days ago) - OpenTelemetry Helm Charts
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.49.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.49.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.48.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.48.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.1.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.1.1), 1 month ago) - OpenTelemetry JavaScript Client
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.2](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.2), 1 month ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 4 months ago) - 👀 A modern watch command. Time machine and pager etc.
@@ -25,16 +25,16 @@ Working mostly right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb}) 187⭐
-- [keyval-dev/opentelemetry-go-instrumentation](https://github.com/keyval-dev/opentelemetry-go-instrumentation}) 12⭐
-- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer}) 35⭐
-- [Unleash/unleash](https://github.com/Unleash/unleash}) 5459⭐
+- [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb}) 188⭐
+- [keyval-dev/opentelemetry-go-instrumentation](https://github.com/keyval-dev/opentelemetry-go-instrumentation}) 17⭐
+- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer}) 34⭐
+- [Unleash/unleash](https://github.com/Unleash/unleash}) 5467⭐
 - [helm/chart-testing](https://github.com/helm/chart-testing}) 781⭐
-- [plexsystems/konstraint](https://github.com/plexsystems/konstraint}) 267⭐
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper}) 2477⭐
+- [plexsystems/konstraint](https://github.com/plexsystems/konstraint}) 268⭐
+- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper}) 2478⭐
 - [open-policy-agent/gatekeeper-library](https://github.com/open-policy-agent/gatekeeper-library}) 398⭐
 - [nginxinc/nginx-kubernetes-gateway](https://github.com/nginxinc/nginx-kubernetes-gateway}) 10⭐
-- [crossplane/crossplane](https://github.com/crossplane/crossplane}) 5028⭐
+- [crossplane/crossplane](https://github.com/crossplane/crossplane}) 5033⭐
 
 
 
