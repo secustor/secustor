@@ -12,7 +12,7 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.39.0](https://github.com/renovatebot/renovate/releases/tag/32.39.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.41.2](https://github.com/renovatebot/renovate/releases/tag/32.41.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.17.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-simple-1.2.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-simple-1.2.0), 2 days ago)
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.6.9](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.6.9), 2 days ago) - OpenTelemetry Helm Charts
@@ -25,16 +25,16 @@ Working mostly right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator}) 510⭐
-- [rancher/rancher](https://github.com/rancher/rancher}) 19090⭐
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint}) 10100⭐
-- [jcchavezs/porto](https://github.com/jcchavezs/porto}) 30⭐
-- [miekg/dns](https://github.com/miekg/dns}) 6252⭐
-- [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb}) 190⭐
-- [keyval-dev/opentelemetry-go-instrumentation](https://github.com/keyval-dev/opentelemetry-go-instrumentation}) 81⭐
-- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer}) 34⭐
-- [Unleash/unleash](https://github.com/Unleash/unleash}) 5547⭐
-- [helm/chart-testing](https://github.com/helm/chart-testing}) 784⭐
+- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) 510⭐
+- [rancher/rancher](https://github.com/rancher/rancher) 19091⭐
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) 10106⭐
+- [jcchavezs/porto](https://github.com/jcchavezs/porto) 30⭐
+- [miekg/dns](https://github.com/miekg/dns) 6252⭐
+- [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) 190⭐
+- [keyval-dev/opentelemetry-go-instrumentation](https://github.com/keyval-dev/opentelemetry-go-instrumentation) 82⭐
+- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer) 34⭐
+- [Unleash/unleash](https://github.com/Unleash/unleash) 5547⭐
+- [helm/chart-testing](https://github.com/helm/chart-testing) 785⭐
 
 
 
