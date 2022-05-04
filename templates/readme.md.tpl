@@ -17,7 +17,7 @@ Working mostly right now on:
 
 #### ⭐ Latest projects I've starred
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}}) {{.Repo.Stargazers}}⭐
+- [{{.Repo.Name}}]({{.Repo.URL}}) {{.Repo.Stargazers}}⭐
 {{- end}}
 
 
