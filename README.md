@@ -12,24 +12,24 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.52.1](https://github.com/renovatebot/renovate/releases/tag/32.52.1), today) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.16.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.16.4), 1 day ago) - OpenTelemetry Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.6.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.51.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.51.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7), 3 days ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.50.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.50.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.29.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.29.2), 5 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.52.2](https://github.com/renovatebot/renovate/releases/tag/32.52.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.16.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.16.4), 2 days ago) - OpenTelemetry Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.6.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.51.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.51.0), 3 days ago) - Contrib repository for the OpenTelemetry Collector
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7), 4 days ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.50.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.50.0), 6 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.29.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.29.2), 6 days ago)
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.3](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.3), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.28.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.28.0), 2 weeks ago) - OpenTelemetry JavaScript Client
 - [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 5 months ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### ⭐ Latest projects I've starred
 
-- [kubevious/kubevious](https://github.com/kubevious/kubevious) 1210⭐
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) 576⭐
+- [kubevious/kubevious](https://github.com/kubevious/kubevious) 1211⭐
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) 582⭐
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) 518⭐
-- [rancher/rancher](https://github.com/rancher/rancher) 19146⭐
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) 10234⭐
+- [rancher/rancher](https://github.com/rancher/rancher) 19149⭐
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) 10239⭐
 - [jcchavezs/porto](https://github.com/jcchavezs/porto) 30⭐
 - [miekg/dns](https://github.com/miekg/dns) 6265⭐
 - [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) 195⭐
