@@ -12,29 +12,29 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.17.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.17.0), 1 day ago) - OpenTelemetry Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.1.12](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.1.12), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.60.0](https://github.com/renovatebot/renovate/releases/tag/32.60.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.1), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.6.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.51.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.51.0), 6 days ago) - Contrib repository for the OpenTelemetry Collector
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.50.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.50.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.3](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.3), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.1.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-2.1.0-rc.1), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.63.1](https://github.com/renovatebot/renovate/releases/tag/32.63.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v1.51.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v1.51.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.2.1](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.2.1), 1 day ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.17.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.17.0), 2 days ago) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.1), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.6.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.51.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.51.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.4.3](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.4.3), 2 weeks ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v0.28.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v0.28.0), 3 weeks ago) - OpenTelemetry JavaScript Client
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.4](https://github.com/sachaos/viddy/releases/tag/v0.3.4), 5 months ago) - 👀 A modern watch command. Time machine and pager etc.
 
 #### ⭐ Latest projects I've starred
 
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) 1698⭐
+- [apache/pinot](https://github.com/apache/pinot) 3961⭐
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) 1699⭐
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) 1211⭐
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) 585⭐
-- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) 521⭐
-- [rancher/rancher](https://github.com/rancher/rancher) 19170⭐
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) 10264⭐
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) 587⭐
+- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) 522⭐
+- [rancher/rancher](https://github.com/rancher/rancher) 19173⭐
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) 10283⭐
 - [jcchavezs/porto](https://github.com/jcchavezs/porto) 30⭐
 - [miekg/dns](https://github.com/miekg/dns) 6269⭐
-- [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) 197⭐
-- [keyval-dev/opentelemetry-go-instrumentation](https://github.com/keyval-dev/opentelemetry-go-instrumentation) 96⭐
+- [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) 198⭐
 
 
 
