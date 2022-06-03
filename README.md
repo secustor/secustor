@@ -12,11 +12,11 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.71.3](https://github.com/renovatebot/renovate/releases/tag/32.71.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.29.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.29.1), 1 day ago) - OpenTelemetry JavaScript Client
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-5.0.0](https://github.com/grafana/helm-charts/releases/tag/promtail-5.0.0), 1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.1), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.8.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.1.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.1.0), 1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.10.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.71.3](https://github.com/renovatebot/renovate/releases/tag/32.71.3), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.29.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.29.1), 2 days ago) - OpenTelemetry JavaScript Client
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.8.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.1.0](https://github.com/grafana/mimir/releases/tag/mimir-2.1.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.52.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.52.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.7.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.7.0), 1 week ago) - OpenTelemetry Helm Charts
@@ -25,16 +25,16 @@ Working mostly right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [open-feature/spec](https://github.com/open-feature/spec) 194⭐
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) 10295⭐
-- [apache/pinot](https://github.com/apache/pinot) 3991⭐
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) 1715⭐
-- [kubevious/kubevious](https://github.com/kubevious/kubevious) 1218⭐
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) 608⭐
+- [kubecost/opencost](https://github.com/kubecost/opencost) 1922⭐
+- [kiegroup/kogito-runtimes](https://github.com/kiegroup/kogito-runtimes) 341⭐
+- [backstage/backstage](https://github.com/backstage/backstage) 16639⭐
+- [open-feature/spec](https://github.com/open-feature/spec) 197⭐
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) 10298⭐
+- [apache/pinot](https://github.com/apache/pinot) 3992⭐
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) 1716⭐
+- [kubevious/kubevious](https://github.com/kubevious/kubevious) 1220⭐
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) 609⭐
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) 528⭐
-- [rancher/rancher](https://github.com/rancher/rancher) 19235⭐
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) 10392⭐
-- [jcchavezs/porto](https://github.com/jcchavezs/porto) 30⭐
 
 
 
