@@ -12,29 +12,29 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.12.1](https://github.com/grafana/helm-charts/releases/tag/loki-2.12.1), today)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.85.0](https://github.com/renovatebot/renovate/releases/tag/32.85.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.13.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.10.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.36.1](https://github.com/prometheus/prometheus/releases/tag/v2.36.1), 5 days ago) - The Prometheus monitoring system and time series database.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.20.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.20.0), 5 days ago) - OpenTelemetry Helm Charts
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.53.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.53.0), 6 days ago) - Contrib repository for the OpenTelemetry Collector
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.52.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.52.0), 6 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.29.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.29.1), 1 week ago) - OpenTelemetry JavaScript Client
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.1.0](https://github.com/grafana/mimir/releases/tag/mimir-2.1.0), 2 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.5.0-rc1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.5.0-rc1), today) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-4.8.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.87.0](https://github.com/renovatebot/renovate/releases/tag/32.87.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.0), 1 day ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.10.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.36.1](https://github.com/prometheus/prometheus/releases/tag/v2.36.1), 6 days ago) - The Prometheus monitoring system and time series database.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.20.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.20.0), 6 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.53.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.53.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.52.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.52.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.29.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.29.1), 2 weeks ago) - OpenTelemetry JavaScript Client
 
 #### ⭐ Latest projects I've starred
 
+- [plexsystems/sinker](https://github.com/plexsystems/sinker) 512⭐
 - [rancher/fleet-examples](https://github.com/rancher/fleet-examples) 98⭐
-- [magefile/mage](https://github.com/magefile/mage) 3036⭐
-- [rancher/fleet](https://github.com/rancher/fleet) 1140⭐
-- [rancher/opni](https://github.com/rancher/opni) 170⭐
+- [magefile/mage](https://github.com/magefile/mage) 3035⭐
+- [rancher/fleet](https://github.com/rancher/fleet) 1141⭐
+- [rancher/opni](https://github.com/rancher/opni) 172⭐
 - [ddosify/go-faker](https://github.com/ddosify/go-faker) 128⭐
-- [kubecost/opencost](https://github.com/kubecost/opencost) 2275⭐
+- [kubecost/opencost](https://github.com/kubecost/opencost) 2288⭐
 - [kiegroup/kogito-runtimes](https://github.com/kiegroup/kogito-runtimes) 344⭐
-- [backstage/backstage](https://github.com/backstage/backstage) 16827⭐
-- [open-feature/spec](https://github.com/open-feature/spec) 203⭐
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) 10407⭐
+- [backstage/backstage](https://github.com/backstage/backstage) 16845⭐
+- [open-feature/spec](https://github.com/open-feature/spec) 205⭐
 
 
 
