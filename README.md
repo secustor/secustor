@@ -12,12 +12,12 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.8.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.8.1), 1 day ago) - OpenTelemetry Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.9.2), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.5](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.5), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.89.1](https://github.com/renovatebot/renovate/releases/tag/32.89.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.53.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.53.0), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.5.0-rc1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.5.0-rc1), 3 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.1), today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.90.0](https://github.com/renovatebot/renovate/releases/tag/32.90.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.8.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.8.1), 2 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.53.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.53.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.5.0-rc1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.5.0-rc1), 4 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.10.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.36.1](https://github.com/prometheus/prometheus/releases/tag/v2.36.1), 1 week ago) - The Prometheus monitoring system and time series database.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.53.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.53.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
@@ -28,12 +28,12 @@ Working mostly right now on:
 - [plexsystems/sinker](https://github.com/plexsystems/sinker) 513⭐
 - [rancher/fleet-examples](https://github.com/rancher/fleet-examples) 98⭐
 - [magefile/mage](https://github.com/magefile/mage) 3037⭐
-- [rancher/fleet](https://github.com/rancher/fleet) 1142⭐
+- [rancher/fleet](https://github.com/rancher/fleet) 1143⭐
 - [rancher/opni](https://github.com/rancher/opni) 172⭐
-- [ddosify/go-faker](https://github.com/ddosify/go-faker) 130⭐
-- [kubecost/opencost](https://github.com/kubecost/opencost) 2338⭐
+- [ddosify/go-faker](https://github.com/ddosify/go-faker) 134⭐
+- [kubecost/opencost](https://github.com/kubecost/opencost) 2344⭐
 - [kiegroup/kogito-runtimes](https://github.com/kiegroup/kogito-runtimes) 344⭐
-- [backstage/backstage](https://github.com/backstage/backstage) 16925⭐
+- [backstage/backstage](https://github.com/backstage/backstage) 16939⭐
 - [open-feature/spec](https://github.com/open-feature/spec) 207⭐
 
 
