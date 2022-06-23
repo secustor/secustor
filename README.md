@@ -12,11 +12,11 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.2), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.92.0](https://github.com/renovatebot/renovate/releases/tag/32.92.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.8.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.8.2), 2 days ago) - OpenTelemetry Helm Charts
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.36.2](https://github.com/prometheus/prometheus/releases/tag/v2.36.2), 2 days ago) - The Prometheus monitoring system and time series database.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-36.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.3), 2 days ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.94.0](https://github.com/renovatebot/renovate/releases/tag/32.94.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.20.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.20.2), 1 day ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.8.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.8.2), 3 days ago) - OpenTelemetry Helm Charts
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.36.2](https://github.com/prometheus/prometheus/releases/tag/v2.36.2), 3 days ago) - The Prometheus monitoring system and time series database.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-36.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.3), 3 days ago) - Prometheus community Helm charts
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.53.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.53.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.5.0-rc1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.5.0-rc1), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.10.0), 1 week ago) - Terraform provider for Azure Resource Manager
@@ -27,14 +27,14 @@ Working mostly right now on:
 
 - [plexsystems/sinker](https://github.com/plexsystems/sinker) 513⭐
 - [rancher/fleet-examples](https://github.com/rancher/fleet-examples) 98⭐
-- [magefile/mage](https://github.com/magefile/mage) 3041⭐
-- [rancher/fleet](https://github.com/rancher/fleet) 1145⭐
-- [rancher/opni](https://github.com/rancher/opni) 172⭐
+- [magefile/mage](https://github.com/magefile/mage) 3043⭐
+- [rancher/fleet](https://github.com/rancher/fleet) 1146⭐
+- [rancher/opni](https://github.com/rancher/opni) 173⭐
 - [ddosify/go-faker](https://github.com/ddosify/go-faker) 139⭐
-- [kubecost/opencost](https://github.com/kubecost/opencost) 2370⭐
+- [kubecost/opencost](https://github.com/kubecost/opencost) 2376⭐
 - [kiegroup/kogito-runtimes](https://github.com/kiegroup/kogito-runtimes) 344⭐
-- [backstage/backstage](https://github.com/backstage/backstage) 17005⭐
-- [open-feature/spec](https://github.com/open-feature/spec) 210⭐
+- [backstage/backstage](https://github.com/backstage/backstage) 17024⭐
+- [open-feature/spec](https://github.com/open-feature/spec) 211⭐
 
 
 
