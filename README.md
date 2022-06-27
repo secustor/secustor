@@ -12,29 +12,29 @@ Working mostly right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.99.2](https://github.com/renovatebot/renovate/releases/tag/32.99.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.5](https://github.com/sachaos/viddy/releases/tag/v0.3.5), 1 day ago) - 👀 A modern watch command. Time machine and pager etc.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.8.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.8.5), 1 day ago) - OpenTelemetry Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-simple-scalable-1.4.3](https://github.com/grafana/helm-charts/releases/tag/loki-simple-scalable-1.4.3), 2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.0.2), 2 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.11.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.54.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.54.0), 3 days ago) - Contrib repository for the OpenTelemetry Collector
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.36.2](https://github.com/prometheus/prometheus/releases/tag/v2.36.2), 6 days ago) - The Prometheus monitoring system and time series database.
+- [sachaos/viddy](https://github.com/sachaos/viddy) ([v0.3.6](https://github.com/sachaos/viddy/releases/tag/v0.3.6), 1 day ago) - 👀 A modern watch command. Time machine and pager etc.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.99.5](https://github.com/renovatebot/renovate/releases/tag/32.99.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.8.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.8.5), 2 days ago) - OpenTelemetry Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-simple-scalable-1.4.3](https://github.com/grafana/helm-charts/releases/tag/loki-simple-scalable-1.4.3), 3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.0.2), 3 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.11.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.54.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.54.0), 4 days ago) - Contrib repository for the OpenTelemetry Collector
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.36.2](https://github.com/prometheus/prometheus/releases/tag/v2.36.2), 1 week ago) - The Prometheus monitoring system and time series database.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.53.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.53.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.5.0-rc1](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.5.0-rc1), 1 week ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 
 #### ⭐ Latest projects I've starred
 
+- [polarsignals/frostdb](https://github.com/polarsignals/frostdb) 651⭐
 - [plexsystems/sinker](https://github.com/plexsystems/sinker) 513⭐
 - [rancher/fleet-examples](https://github.com/rancher/fleet-examples) 99⭐
-- [magefile/mage](https://github.com/magefile/mage) 3046⭐
+- [magefile/mage](https://github.com/magefile/mage) 3047⭐
 - [rancher/fleet](https://github.com/rancher/fleet) 1150⭐
 - [rancher/opni](https://github.com/rancher/opni) 173⭐
 - [ddosify/go-faker](https://github.com/ddosify/go-faker) 139⭐
-- [kubecost/opencost](https://github.com/kubecost/opencost) 2434⭐
+- [kubecost/opencost](https://github.com/kubecost/opencost) 2448⭐
 - [kiegroup/kogito-runtimes](https://github.com/kiegroup/kogito-runtimes) 345⭐
-- [backstage/backstage](https://github.com/backstage/backstage) 17068⭐
-- [open-feature/spec](https://github.com/open-feature/spec) 214⭐
+- [backstage/backstage](https://github.com/backstage/backstage) 17076⭐
 
 
 
