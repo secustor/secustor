@@ -12,15 +12,15 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.5.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-simple-scalable-1.7.5](https://github.com/grafana/helm-charts/releases/tag/loki-simple-scalable-1.7.5), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.115.0](https://github.com/renovatebot/renovate/releases/tag/32.115.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.37.0](https://github.com/prometheus/prometheus/releases/tag/v2.37.0), 1 day ago) - The Prometheus monitoring system and time series database.
-- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.5.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.5.0), 2 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.9.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.9.2), 3 days ago) - OpenTelemetry Helm Charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.55.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.55.0), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.2.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-2.2.0-rc.1), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.13.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.13.0), 1 week ago) - Terraform provider for Azure Resource Manager
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.117.1](https://github.com/renovatebot/renovate/releases/tag/32.117.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.14.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.5.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-simple-scalable-1.7.5](https://github.com/grafana/helm-charts/releases/tag/loki-simple-scalable-1.7.5), 2 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.37.0](https://github.com/prometheus/prometheus/releases/tag/v2.37.0), 2 days ago) - The Prometheus monitoring system and time series database.
+- [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) ([v0.5.0](https://github.com/kubernetes-sigs/gateway-api/releases/tag/v0.5.0), 3 days ago) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.9.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.9.2), 4 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.55.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.55.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.2.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-2.2.0-rc.1), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.55.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.55.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 
 #### ⭐ Latest projects I've starred
@@ -28,13 +28,13 @@ Mostly working right now on:
 - [loft-sh/vcluster-plugins](https://github.com/loft-sh/vcluster-plugins) 4⭐
 - [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) 165⭐
 - [krzko/opentelemetry-shell](https://github.com/krzko/opentelemetry-shell) 8⭐
-- [k3d-io/k3d](https://github.com/k3d-io/k3d) 3687⭐
-- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) 2722⭐
-- [cloudflare/gokey](https://github.com/cloudflare/gokey) 1190⭐
-- [google/re2](https://github.com/google/re2) 7011⭐
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) 1759⭐
+- [k3d-io/k3d](https://github.com/k3d-io/k3d) 3692⭐
+- [Qovery/Replibyte](https://github.com/Qovery/Replibyte) 2761⭐
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) 1233⭐
+- [google/re2](https://github.com/google/re2) 7013⭐
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) 1764⭐
 - [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) 240⭐
-- [rook/rook](https://github.com/rook/rook) 10126⭐
+- [rook/rook](https://github.com/rook/rook) 10130⭐
 
 
 
