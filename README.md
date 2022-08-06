@@ -12,12 +12,12 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.145.0](https://github.com/renovatebot/renovate/releases/tag/32.145.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.14.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.25.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.25.0), 1 day ago) - OpenTelemetry Helm Charts
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.57.2](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.57.2), 1 day ago) - Contrib repository for the OpenTelemetry Collector
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.32.11](https://github.com/grafana/helm-charts/releases/tag/grafana-6.32.11), 1 day ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.16.0), 1 week ago) - Terraform provider for Azure Resource Manager
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.150.0](https://github.com/renovatebot/renovate/releases/tag/32.150.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.4.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.4.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.4.0), 1 day ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.17.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.25.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.25.0), 2 days ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.57.2](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.57.2), 2 days ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.31.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.31.0), 1 week ago) - OpenTelemetry JavaScript Client
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.56.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.56.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.2.0](https://github.com/grafana/mimir/releases/tag/mimir-2.2.0), 2 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -26,14 +26,14 @@ Mostly working right now on:
 #### ⭐ Latest projects I've starred
 
 - [mikeroyal/eBPF-Guide](https://github.com/mikeroyal/eBPF-Guide) 88⭐
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) 7803⭐
-- [nearform/lyra](https://github.com/nearform/lyra) 2155⭐
-- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) 1347⭐
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) 4027⭐
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) 8365⭐
+- [nearform/lyra](https://github.com/nearform/lyra) 2352⭐
+- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) 1348⭐
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) 4030⭐
 - [prometheus/procfs](https://github.com/prometheus/procfs) 553⭐
 - [nginxinc/kic-reference-architectures](https://github.com/nginxinc/kic-reference-architectures) 382⭐
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) 1466⭐
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) 410⭐
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) 412⭐
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) 881⭐
 
 
