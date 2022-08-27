@@ -12,29 +12,29 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.20.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.20.0), today) - Terraform provider for Azure Resource Manager
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.177.1](https://github.com/renovatebot/renovate/releases/tag/32.177.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.3.0-rc0](https://github.com/grafana/mimir/releases/tag/mimir-2.3.0-rc0), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.56.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.56.1), 1 day ago)
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.6.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.6.0), 2 days ago) - OpenTelemetry JavaScript Client
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.2.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.2.1), 2 days ago) - OpenTelemetry Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.2.0), 2 days ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.58.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.58.0), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.17.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.17.0), 3 days ago) - Prometheus exporter for Fortigate firewalls
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.56.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.56.2), 1 day ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.29.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.29.0), 1 day ago) - OpenTelemetry Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.179.1](https://github.com/renovatebot/renovate/releases/tag/32.179.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.20.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.20.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.3.0-rc0](https://github.com/grafana/mimir/releases/tag/mimir-2.3.0-rc0), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.6.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.6.0), 3 days ago) - OpenTelemetry JavaScript Client
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.58.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.58.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.17.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.17.0), 4 days ago) - Prometheus exporter for Fortigate firewalls
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.38.0](https://github.com/prometheus/prometheus/releases/tag/v2.38.0), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### ⭐ Latest projects I've starred
 
 - [open-telemetry/opentelemetry-js-api](https://github.com/open-telemetry/opentelemetry-js-api) 75⭐
-- [open-telemetry/community](https://github.com/open-telemetry/community) 516⭐
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) 5394⭐
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) 2810⭐
-- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) 81⭐
-- [mikeroyal/eBPF-Guide](https://github.com/mikeroyal/eBPF-Guide) 117⭐
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) 9649⭐
-- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) 3192⭐
-- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) 1367⭐
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) 4102⭐
+- [open-telemetry/community](https://github.com/open-telemetry/community) 517⭐
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) 5395⭐
+- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) 2811⭐
+- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) 84⭐
+- [mikeroyal/eBPF-Guide](https://github.com/mikeroyal/eBPF-Guide) 118⭐
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) 9665⭐
+- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) 3201⭐
+- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) 1369⭐
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) 4108⭐
 
 
 
