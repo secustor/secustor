@@ -12,29 +12,29 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.38.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.38.5), 1 day ago)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.3.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.3.0), 1 day ago) - OpenTelemetry Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.199.1](https://github.com/renovatebot/renovate/releases/tag/32.199.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.33.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.33.0), 4 days ago) - OpenTelemetry JavaScript Client
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.60.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.60.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.23.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.60.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.60.0), 5 days ago) - Contrib repository for the OpenTelemetry Collector
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.3.0-rc.2](https://github.com/grafana/mimir/releases/tag/mimir-2.3.0-rc.2), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-3.0.8](https://github.com/grafana/helm-charts/releases/tag/helm-loki-3.0.8), 1 day ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.31.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.31.2), 1 day ago) - OpenTelemetry Helm Charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.3.0](https://github.com/grafana/mimir/releases/tag/mimir-2.3.0), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.201.1](https://github.com/renovatebot/renovate/releases/tag/32.201.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.33.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.33.0), 5 days ago) - OpenTelemetry JavaScript Client
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.60.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.60.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.23.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.60.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.60.0), 6 days ago) - Contrib repository for the OpenTelemetry Collector
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.37.1](https://github.com/prometheus/prometheus/releases/tag/v2.37.1), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### ⭐ Latest projects I've starred
 
 - [youniqx/heist](https://github.com/youniqx/heist) 12⭐
 - [ccremer/fronius-exporter](https://github.com/ccremer/fronius-exporter) 9⭐
-- [akavel/up](https://github.com/akavel/up) 7765⭐
+- [akavel/up](https://github.com/akavel/up) 7775⭐
 - [renovatebot/tutorial](https://github.com/renovatebot/tutorial) 17⭐
 - [coguardio/coguard-cli](https://github.com/coguardio/coguard-cli) 52⭐
-- [grafana/k6](https://github.com/grafana/k6) 17899⭐
+- [grafana/k6](https://github.com/grafana/k6) 17921⭐
 - [open-telemetry/opentelemetry-js-api](https://github.com/open-telemetry/opentelemetry-js-api) 78⭐
 - [open-telemetry/community](https://github.com/open-telemetry/community) 521⭐
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) 5524⭐
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) 2858⭐
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) 5535⭐
+- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) 2861⭐
 
 
 
