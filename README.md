@@ -12,25 +12,25 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.34.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.34.0), 1 day ago) - OpenTelemetry JavaScript Client
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.0.11](https://github.com/grafana/helm-charts/releases/tag/oncall-1.0.11), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.21.4](https://github.com/renovatebot/renovate/releases/tag/34.21.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.40.1](https://github.com/prometheus/prometheus/releases/tag/v2.40.1), 1 day ago) - The Prometheus monitoring system and time series database.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.64.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.64.0), 1 day ago) - Contrib repository for the OpenTelemetry Collector
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.0), 2 days ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.38.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.38.2), 2 days ago) - OpenTelemetry Helm Charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.62.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.62.1), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.4.0](https://github.com/grafana/mimir/releases/tag/mimir-2.4.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.22.1](https://github.com/renovatebot/renovate/releases/tag/34.22.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.39.1](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.39.1), 1 day ago) - OpenTelemetry Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.23.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.27.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.27.6), 1 day ago)
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.34.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental%2Fv0.34.0), 2 days ago) - OpenTelemetry JavaScript Client
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.40.1](https://github.com/prometheus/prometheus/releases/tag/v2.40.1), 2 days ago) - The Prometheus monitoring system and time series database.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.64.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.64.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.62.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.62.1), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.4.0](https://github.com/grafana/mimir/releases/tag/mimir-2.4.0), 2 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.17.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.17.0), 2 months ago) - Prometheus exporter for Fortigate firewalls
 
 #### ⭐ Latest projects I've starred
 
-- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) 20849⭐
-- [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) 269⭐
-- [grafana/phlare](https://github.com/grafana/phlare) 1626⭐
-- [apache/nifi](https://github.com/apache/nifi) 3497⭐
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) 20856⭐
+- [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) 282⭐
+- [grafana/phlare](https://github.com/grafana/phlare) 1657⭐
+- [apache/nifi](https://github.com/apache/nifi) 3498⭐
 - [Sebberh/RenovateTutorial](https://github.com/Sebberh/RenovateTutorial) 5⭐
-- [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) 1778⭐
+- [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) 1779⭐
 - [riok/Kreya](https://github.com/riok/Kreya) 195⭐
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) 9⭐
 - [observIQ/bindplane-op](https://github.com/observIQ/bindplane-op) 78⭐
