@@ -12,29 +12,29 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-collector-0.42.0](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-collector-0.42.0), 1 day ago) - OpenTelemetry Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.8.8](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.8.8), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.55.0](https://github.com/renovatebot/renovate/releases/tag/34.55.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0), 3 days ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.67.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.67.0), 4 days ago) - Contrib repository for the OpenTelemetry Collector
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.40.6](https://github.com/prometheus/prometheus/releases/tag/v2.40.6), 4 days ago) - The Prometheus monitoring system and time series database.
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([v1.2.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/v1.2.1), 4 days ago) - OpenTelemetry Community Demo Application
-- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 5 days ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.5.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-2.5.0-rc.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.66.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.66.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.14.4](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.14.4), 1 day ago) - OpenTelemetry Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-3.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-3.7.0), 1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.55.0](https://github.com/renovatebot/renovate/releases/tag/34.55.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.67.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.67.0), 5 days ago) - Contrib repository for the OpenTelemetry Collector
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.40.6](https://github.com/prometheus/prometheus/releases/tag/v2.40.6), 5 days ago) - The Prometheus monitoring system and time series database.
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([v1.2.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/v1.2.1), 5 days ago) - OpenTelemetry Community Demo Application
+- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 6 days ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.5.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-2.5.0-rc.0), 2 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.66.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.66.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 
 #### ⭐ Latest projects I've starred
 
-- [cilium/cilium](https://github.com/cilium/cilium) 13744⭐
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 1045⭐
+- [cilium/cilium](https://github.com/cilium/cilium) 13750⭐
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 1089⭐
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) 118⭐
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) 8024⭐
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 6123⭐
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) 8028⭐
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 6134⭐
 - [opensearch-project/terraform-provider-opensearch](https://github.com/opensearch-project/terraform-provider-opensearch) 7⭐
-- [buraksezer/olric](https://github.com/buraksezer/olric) 2655⭐
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) 5587⭐
-- [golang/mock](https://github.com/golang/mock) 8294⭐
-- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) 21048⭐
+- [buraksezer/olric](https://github.com/buraksezer/olric) 2657⭐
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) 5590⭐
+- [golang/mock](https://github.com/golang/mock) 8299⭐
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) 21053⭐
 
 
 
