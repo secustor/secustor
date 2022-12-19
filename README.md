@@ -12,12 +12,12 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.63.0](https://github.com/renovatebot/renovate/releases/tag/34.63.0), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.0.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.0.0), 2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.23.0), 2 days ago) - Prometheus community Helm charts
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.41.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.41.0-rc.0), 3 days ago) - The Prometheus monitoring system and time series database.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.15.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.15.2), 3 days ago) - OpenTelemetry Helm Charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.5.0](https://github.com/grafana/mimir/releases/tag/mimir-2.5.0), 4 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.63.1](https://github.com/renovatebot/renovate/releases/tag/34.63.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.0.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.0.0), 3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.23.0), 3 days ago) - Prometheus community Helm charts
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.41.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.41.0-rc.0), 4 days ago) - The Prometheus monitoring system and time series database.
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.15.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.15.2), 4 days ago) - OpenTelemetry Helm Charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.5.0](https://github.com/grafana/mimir/releases/tag/mimir-2.5.0), 5 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.67.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.67.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([v1.2.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/v1.2.1), 1 week ago) - OpenTelemetry Community Demo Application
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 1 week ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
@@ -25,16 +25,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [snowplow/snowplow](https://github.com/snowplow/snowplow) 6293⭐
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) 6294⭐
 - [oklog/run](https://github.com/oklog/run) 1250⭐
-- [cilium/cilium](https://github.com/cilium/cilium) 13800⭐
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 1432⭐
+- [cilium/cilium](https://github.com/cilium/cilium) 13804⭐
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 1551⭐
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) 118⭐
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) 8047⭐
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 6158⭐
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) 8052⭐
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 6159⭐
 - [opensearch-project/terraform-provider-opensearch](https://github.com/opensearch-project/terraform-provider-opensearch) 8⭐
-- [buraksezer/olric](https://github.com/buraksezer/olric) 2663⭐
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) 5606⭐
+- [buraksezer/olric](https://github.com/buraksezer/olric) 2664⭐
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) 5607⭐
 
 
 
