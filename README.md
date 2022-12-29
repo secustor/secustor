@@ -12,28 +12,28 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.74.2](https://github.com/renovatebot/renovate/releases/tag/34.74.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.48.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.48.2), 1 day ago)
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.22.0-pre.20221226](https://github.com/runatlantis/atlantis/releases/tag/v0.22.0-pre.20221226), 2 days ago) - Terraform Pull Request Automation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.2.1), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.2.2), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.74.2](https://github.com/renovatebot/renovate/releases/tag/34.74.2), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.48.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.48.2), 2 days ago)
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.22.0-pre.20221226](https://github.com/runatlantis/atlantis/releases/tag/v0.22.0-pre.20221226), 3 days ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.68.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.68.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.41.0](https://github.com/prometheus/prometheus/releases/tag/v2.41.0), 1 week ago) - The Prometheus monitoring system and time series database.
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.15.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.15.2), 1 week ago) - OpenTelemetry Helm Charts
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.15.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.15.2), 2 weeks ago) - OpenTelemetry Helm Charts
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.5.0](https://github.com/grafana/mimir/releases/tag/mimir-2.5.0), 2 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([v1.2.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/v1.2.1), 2 weeks ago) - OpenTelemetry Community Demo Application
-- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 2 weeks ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
+- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 3 weeks ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
 - [benc-uk/hcl2-parser](https://github.com/benc-uk/hcl2-parser) 12⭐
-- [actions/typescript-action](https://github.com/actions/typescript-action) 1279⭐
-- [snowplow/snowplow](https://github.com/snowplow/snowplow) 6296⭐
+- [actions/typescript-action](https://github.com/actions/typescript-action) 1282⭐
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) 6297⭐
 - [oklog/run](https://github.com/oklog/run) 1253⭐
-- [cilium/cilium](https://github.com/cilium/cilium) 13895⭐
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 3224⭐
+- [cilium/cilium](https://github.com/cilium/cilium) 13908⭐
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 3289⭐
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) 119⭐
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) 8073⭐
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 6196⭐
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) 6203⭐
 - [opensearch-project/terraform-provider-opensearch](https://github.com/opensearch-project/terraform-provider-opensearch) 8⭐
 
 
