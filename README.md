@@ -12,29 +12,29 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.0.0), 1 day ago)
-- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-demo-0.15.5](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-demo-0.15.5), 1 day ago) - OpenTelemetry Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.3](https://github.com/renovatebot/renovate/releases/tag/34.105.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.1), 1 day ago) - Prometheus community Helm charts
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.22.3-pre.20230111](https://github.com/runatlantis/atlantis/releases/tag/v0.22.3-pre.20230111), 6 days ago) - Terraform Pull Request Automation
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.22.3](https://github.com/runatlantis/atlantis/releases/tag/v0.22.3), 1 day ago) - Terraform Pull Request Automation
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.3.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.3.0), 1 day ago)
+- [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) ([opentelemetry-operator-0.21.2](https://github.com/open-telemetry/opentelemetry-helm-charts/releases/tag/opentelemetry-operator-0.21.2), 1 day ago) - OpenTelemetry Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.5](https://github.com/renovatebot/renovate/releases/tag/34.105.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.1), 2 days ago) - Prometheus community Helm charts
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([api/v1.4.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/api/v1.4.0), 1 week ago) - OpenTelemetry JavaScript Client
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.69.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.69.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.67.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.67.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.41.0](https://github.com/prometheus/prometheus/releases/tag/v2.41.0), 4 weeks ago) - The Prometheus monitoring system and time series database.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.41.0](https://github.com/prometheus/prometheus/releases/tag/v2.41.0), 1 month ago) - The Prometheus monitoring system and time series database.
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.5.0](https://github.com/grafana/mimir/releases/tag/mimir-2.5.0), 1 month ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### ⭐ Latest projects I've starred
 
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) 199⭐
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) 1253⭐
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) 1255⭐
 - [comradequinn/hflow](https://github.com/comradequinn/hflow) 62⭐
-- [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) 458⭐
+- [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) 459⭐
 - [benc-uk/hcl2-parser](https://github.com/benc-uk/hcl2-parser) 13⭐
 - [actions/typescript-action](https://github.com/actions/typescript-action) 1300⭐
-- [snowplow/snowplow](https://github.com/snowplow/snowplow) 6312⭐
-- [oklog/run](https://github.com/oklog/run) 1261⭐
-- [cilium/cilium](https://github.com/cilium/cilium) 14080⭐
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 8675⭐
+- [snowplow/snowplow](https://github.com/snowplow/snowplow) 6315⭐
+- [oklog/run](https://github.com/oklog/run) 1260⭐
+- [cilium/cilium](https://github.com/cilium/cilium) 14090⭐
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) 8827⭐
 
 
 
