@@ -12,11 +12,11 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.71.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.71.0), 1 day ago) - Contrib repository for the OpenTelemetry Collector
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.5.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.5.0), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.1](https://github.com/renovatebot/renovate/releases/tag/34.128.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.23.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.69.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.69.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.11](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.11), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.3](https://github.com/renovatebot/renovate/releases/tag/34.128.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-2.0.0), 1 day ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.71.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.71.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.69.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.69.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.6.0](https://github.com/grafana/mimir/releases/tag/mimir-2.6.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.42.0](https://github.com/prometheus/prometheus/releases/tag/v2.42.0), 1 week ago) - The Prometheus monitoring system and time series database.
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.3.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.3.0), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
@@ -25,13 +25,13 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 13181⭐
-- [google/osv.dev](https://github.com/google/osv.dev) 970⭐
-- [colinhacks/zod](https://github.com/colinhacks/zod) 18376⭐
-- [probot/probot](https://github.com/probot/probot) 8180⭐
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) 20630⭐
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 13252⭐
+- [google/osv.dev](https://github.com/google/osv.dev) 971⭐
+- [colinhacks/zod](https://github.com/colinhacks/zod) 18420⭐
+- [probot/probot](https://github.com/probot/probot) 8183⭐
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) 20640⭐
 - [microlinkhq/keyv](https://github.com/microlinkhq/keyv) 203⭐
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) 1301⭐
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) 1306⭐
 - [comradequinn/hflow](https://github.com/comradequinn/hflow) 64⭐
 - [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) 468⭐
 - [benc-uk/hcl2-parser](https://github.com/benc-uk/hcl2-parser) 13⭐
