@@ -12,28 +12,28 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.3](https://github.com/runatlantis/atlantis/releases/tag/v0.23.3), 1 day ago) - Terraform Pull Request Automation
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.74.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.74.0), 1 day ago) - Contrib repository for the OpenTelemetry Collector
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.3](https://github.com/renovatebot/renovate/releases/tag/35.14.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.3](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.3), 1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.26.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.26.1), 1 day ago) - Prometheus community Helm charts
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.43.0-rc.1&#43;stringlabels](https://github.com/prometheus/prometheus/releases/tag/v2.43.0-rc.1%2Bstringlabels), 5 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.7.1](https://github.com/grafana/mimir/releases/tag/mimir-2.7.1), 5 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.72.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.72.0), 6 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.3.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.3.1), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.17.0](https://github.com/renovatebot/renovate/releases/tag/35.17.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.0.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.41](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.41), 1 day ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.43.0](https://github.com/prometheus/prometheus/releases/tag/v2.43.0), 1 day ago) - The Prometheus monitoring system and time series database.
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.3](https://github.com/runatlantis/atlantis/releases/tag/v0.23.3), 2 days ago) - Terraform Pull Request Automation
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.74.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.74.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.7.1](https://github.com/grafana/mimir/releases/tag/mimir-2.7.1), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.72.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.72.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.3.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.3.1), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 3 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) 7438⭐
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) 12170⭐
-- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) 539⭐
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) 7445⭐
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) 12177⭐
+- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) 541⭐
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) 1119⭐
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) 86⭐
-- [minio/minio](https://github.com/minio/minio) 38075⭐
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 14409⭐
-- [google/osv.dev](https://github.com/google/osv.dev) 1049⭐
-- [colinhacks/zod](https://github.com/colinhacks/zod) 20144⭐
+- [minio/minio](https://github.com/minio/minio) 38092⭐
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 14424⭐
+- [google/osv.dev](https://github.com/google/osv.dev) 1050⭐
+- [colinhacks/zod](https://github.com/colinhacks/zod) 20198⭐
 - [probot/probot](https://github.com/probot/probot) 8251⭐
 
 
