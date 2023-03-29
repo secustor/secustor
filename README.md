@@ -12,29 +12,29 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.24.2](https://github.com/renovatebot/renovate/releases/tag/35.24.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.2), 1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.8.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.73.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.73.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.24.5](https://github.com/renovatebot/renovate/releases/tag/35.24.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.7.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.3), 1 day ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.73.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.73.0), 6 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.43.0](https://github.com/prometheus/prometheus/releases/tag/v2.43.0), 1 week ago) - The Prometheus monitoring system and time series database.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.3](https://github.com/runatlantis/atlantis/releases/tag/v0.23.3), 1 week ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.74.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.74.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.7.1](https://github.com/grafana/mimir/releases/tag/mimir-2.7.1), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.3.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.3.1), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.3.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.3.1), 3 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 3 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
-- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) 325⭐
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) 7488⭐
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) 12251⭐
-- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) 546⭐
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) 1120⭐
+- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) 327⭐
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) 7496⭐
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) 12263⭐
+- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) 547⭐
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) 1122⭐
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) 89⭐
-- [minio/minio](https://github.com/minio/minio) 38202⭐
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 14691⭐
-- [google/osv.dev](https://github.com/google/osv.dev) 1066⭐
-- [colinhacks/zod](https://github.com/colinhacks/zod) 20468⭐
+- [minio/minio](https://github.com/minio/minio) 38219⭐
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 14749⭐
+- [google/osv.dev](https://github.com/google/osv.dev) 1068⭐
+- [colinhacks/zod](https://github.com/colinhacks/zod) 20518⭐
 
 
 
