@@ -12,10 +12,10 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.0.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.0.3), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.30.0](https://github.com/renovatebot/renovate/releases/tag/35.30.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.3.0), 1 day ago) - Prometheus community Helm charts
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.74.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.74.0), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.31.1](https://github.com/renovatebot/renovate/releases/tag/35.31.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.10](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.10), 1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.3.0), 2 days ago) - Prometheus community Helm charts
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.74.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.74.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.43.0](https://github.com/prometheus/prometheus/releases/tag/v2.43.0), 1 week ago) - The Prometheus monitoring system and time series database.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.3](https://github.com/runatlantis/atlantis/releases/tag/v0.23.3), 1 week ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.74.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.74.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
@@ -25,16 +25,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) 14771⭐
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) 8184⭐
-- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) 329⭐
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) 7512⭐
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) 12296⭐
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) 16323⭐
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) 8187⭐
+- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) 330⭐
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) 7516⭐
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) 12304⭐
 - [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) 554⭐
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) 1126⭐
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) 1127⭐
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) 92⭐
-- [minio/minio](https://github.com/minio/minio) 38270⭐
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 14917⭐
+- [minio/minio](https://github.com/minio/minio) 38283⭐
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) 14962⭐
 
 
 
