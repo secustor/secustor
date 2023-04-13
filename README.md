@@ -12,29 +12,29 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.28.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.233](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.233), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.41.0](https://github.com/renovatebot/renovate/releases/tag/35.41.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.4](https://github.com/runatlantis/atlantis/releases/tag/v0.23.4), 2 days ago) - Terraform Pull Request Automation
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0-beta](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0-beta), 5 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.46.0](https://github.com/renovatebot/renovate/releases/tag/35.46.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 1 day ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.1.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.4.2), 1 day ago)
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.4](https://github.com/runatlantis/atlantis/releases/tag/v0.23.4), 3 days ago) - Terraform Pull Request Automation
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0-beta](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0-beta), 6 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.75.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.75.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.74.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.74.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.43.0](https://github.com/prometheus/prometheus/releases/tag/v2.43.0), 3 weeks ago) - The Prometheus monitoring system and time series database.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.7.1](https://github.com/grafana/mimir/releases/tag/mimir-2.7.1), 3 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.4](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.4), 4 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.7.1](https://github.com/grafana/mimir/releases/tag/mimir-2.7.1), 4 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 #### ⭐ Latest projects I've starred
 
-- [aquaproj/aqua](https://github.com/aquaproj/aqua) 301⭐
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) 950⭐
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) 21881⭐
-- [nomic-ai/pyllamacpp](https://github.com/nomic-ai/pyllamacpp) 527⭐
-- [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) 212⭐
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) 13220⭐
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) 12064⭐
-- [github/advisory-database](https://github.com/github/advisory-database) 1346⭐
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4293⭐
+- [aquaproj/aqua](https://github.com/aquaproj/aqua) 304⭐
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) 955⭐
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) 22206⭐
+- [nomic-ai/pyllamacpp](https://github.com/nomic-ai/pyllamacpp) 550⭐
+- [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) 222⭐
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) 13234⭐
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) 12244⭐
+- [github/advisory-database](https://github.com/github/advisory-database) 1348⭐
 - [inovintell/py-template](https://github.com/inovintell/py-template) 93⭐
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) 27562⭐
 
 
 
