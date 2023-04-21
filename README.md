@@ -12,11 +12,11 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.15.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.55.0](https://github.com/renovatebot/renovate/releases/tag/35.55.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0-rc.0](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0-rc.0), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.5](https://github.com/runatlantis/atlantis/releases/tag/v0.23.5), 3 days ago) - Terraform Pull Request Automation
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 4 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.7.2](https://github.com/grafana/mimir/releases/tag/mimir-2.7.2), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.55.1](https://github.com/renovatebot/renovate/releases/tag/35.55.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.17.0), 1 day ago) - Prometheus community Helm charts
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.5](https://github.com/runatlantis/atlantis/releases/tag/v0.23.5), 4 days ago) - Terraform Pull Request Automation
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 5 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.75.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.75.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 1 week ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.75.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.75.0), 2 weeks ago) - Contrib repository for the OpenTelemetry Collector
@@ -25,16 +25,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [google/osv-scanner](https://github.com/google/osv-scanner) 4751⭐
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 537⭐
+- [google/osv-scanner](https://github.com/google/osv-scanner) 4753⭐
 - [guitmz/n26](https://github.com/guitmz/n26) 142⭐
-- [microsoft/LoRA](https://github.com/microsoft/LoRA) 2851⭐
-- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 680⭐
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4324⭐
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) 2918⭐
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 712⭐
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4333⭐
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) 307⭐
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) 976⭐
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) 23688⭐
-- [nomic-ai/pyllamacpp](https://github.com/nomic-ai/pyllamacpp) 684⭐
-- [nomic-ai/gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) 273⭐
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) 982⭐
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) 23874⭐
+- [nomic-ai/pyllamacpp](https://github.com/nomic-ai/pyllamacpp) 697⭐
 
 
 
