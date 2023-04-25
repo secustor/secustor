@@ -12,9 +12,9 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.0](https://github.com/renovatebot/renovate/releases/tag/35.58.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.2.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.6.1](https://github.com/grafana/mimir/releases/tag/mimir-2.6.1), 3 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0-rc.1](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0-rc.1), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.2](https://github.com/renovatebot/renovate/releases/tag/35.58.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.5](https://github.com/runatlantis/atlantis/releases/tag/v0.23.5), 1 week ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.75.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.75.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
@@ -26,15 +26,15 @@ Mostly working right now on:
 #### ⭐ Latest projects I've starred
 
 - [googleforgames/agones](https://github.com/googleforgames/agones) 5220⭐
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 540⭐
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 542⭐
 - [google/osv-scanner](https://github.com/google/osv-scanner) 4757⭐
 - [guitmz/n26](https://github.com/guitmz/n26) 142⭐
-- [microsoft/LoRA](https://github.com/microsoft/LoRA) 3049⭐
-- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 766⭐
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4350⭐
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) 3097⭐
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 782⭐
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4372⭐
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) 308⭐
-- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) 1002⭐
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) 24294⭐
+- [openrewrite/rewrite](https://github.com/openrewrite/rewrite) 1004⭐
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) 24464⭐
 
 
 
