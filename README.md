@@ -12,12 +12,12 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.19.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.19.0), 1 day ago) - Prometheus exporter for Fortigate firewalls
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.0](https://github.com/renovatebot/renovate/releases/tag/35.71.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.1), 1 day ago) - Prometheus community Helm charts
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.44.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0), 1 day ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.76.3](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.76.3), 6 days ago) - Contrib repository for the OpenTelemetry Collector
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.0.2), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.3](https://github.com/renovatebot/renovate/releases/tag/35.71.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.19.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.19.0), 2 days ago) - Prometheus exporter for Fortigate firewalls
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.44.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0), 2 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.76.3](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.76.3), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.5](https://github.com/runatlantis/atlantis/releases/tag/v0.23.5), 2 weeks ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.75.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.75.0), 3 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
@@ -27,13 +27,13 @@ Mostly working right now on:
 
 - [sindresorhus/is](https://github.com/sindresorhus/is) 1477⭐
 - [open-feature/flagd](https://github.com/open-feature/flagd) 142⭐
-- [googleforgames/agones](https://github.com/googleforgames/agones) 5254⭐
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 556⭐
-- [google/osv-scanner](https://github.com/google/osv-scanner) 4766⭐
+- [googleforgames/agones](https://github.com/googleforgames/agones) 5257⭐
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 557⭐
+- [google/osv-scanner](https://github.com/google/osv-scanner) 4769⭐
 - [guitmz/n26](https://github.com/guitmz/n26) 143⭐
-- [microsoft/LoRA](https://github.com/microsoft/LoRA) 3284⭐
-- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 893⭐
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4460⭐
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) 3325⭐
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 907⭐
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4466⭐
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) 311⭐
 
 
