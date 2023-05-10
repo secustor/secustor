@@ -12,27 +12,27 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.74.1](https://github.com/renovatebot/renovate/releases/tag/35.74.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0-rc.2](https://github.com/prometheus/prometheus/releases/tag/v2.44.0-rc.2), 1 day ago) - The Prometheus monitoring system and time series database.
-- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.19.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.19.0), 6 days ago) - Prometheus exporter for Fortigate firewalls
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0), 6 days ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.76.3](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.76.3), 1 week ago) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.77.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.77.0), 1 day ago) - Contrib repository for the OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.75.0](https://github.com/renovatebot/renovate/releases/tag/35.75.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.76.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.76.1), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0-rc.2](https://github.com/prometheus/prometheus/releases/tag/v2.44.0-rc.2), 2 days ago) - The Prometheus monitoring system and time series database.
+- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.19.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.19.0), 1 week ago) - Prometheus exporter for Fortigate firewalls
+- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0), 1 week ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.23.5](https://github.com/runatlantis/atlantis/releases/tag/v0.23.5), 3 weeks ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 3 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.75.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.75.0), 3 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
-- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 3 weeks ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
+- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 4 weeks ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
 - [sindresorhus/is](https://github.com/sindresorhus/is) 1480⭐
 - [open-feature/flagd](https://github.com/open-feature/flagd) 142⭐
-- [googleforgames/agones](https://github.com/googleforgames/agones) 5260⭐
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 562⭐
-- [google/osv-scanner](https://github.com/google/osv-scanner) 4790⭐
-- [guitmz/n26](https://github.com/guitmz/n26) 143⭐
-- [microsoft/LoRA](https://github.com/microsoft/LoRA) 3622⭐
-- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 969⭐
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4496⭐
+- [googleforgames/agones](https://github.com/googleforgames/agones) 5263⭐
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 565⭐
+- [google/osv-scanner](https://github.com/google/osv-scanner) 4800⭐
+- [guitmz/n26](https://github.com/guitmz/n26) 144⭐
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) 3675⭐
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) 987⭐
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) 4503⭐
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) 315⭐
 
 
