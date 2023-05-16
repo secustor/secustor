@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’ m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in distributed systems.
+I’m Sebastian, a software engineer and opensource enthusiast specializing in developing, monitoring and managing releases in distributed systems.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
 
@@ -12,7 +12,7 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.86.2](https://github.com/renovatebot/renovate/releases/tag/35.86.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.87.3](https://github.com/renovatebot/renovate/releases/tag/35.87.3), today) - Universal dependency update tool that fits into your workflows.
 - [containerbase/base](https://github.com/containerbase/base) ([7.10.0](https://github.com/containerbase/base/releases/tag/7.10.0), 2 days ago) - The containerbase project&#39;s base image source
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0](https://github.com/prometheus/prometheus/releases/tag/v2.44.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.77.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.77.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
@@ -25,11 +25,11 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 4363⭐
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) 38863⭐
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) 2220⭐
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) 2236⭐
-- [sindresorhus/is](https://github.com/sindresorhus/is) 1480⭐
+- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 4402⭐
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) 39179⭐
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) 2250⭐
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) 2247⭐
+- [sindresorhus/is](https://github.com/sindresorhus/is) 1481⭐
 - [open-feature/flagd](https://github.com/open-feature/flagd) 145⭐
 - [googleforgames/agones](https://github.com/googleforgames/agones) 5273⭐
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 568⭐
