@@ -12,10 +12,10 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.95.1](https://github.com/renovatebot/renovate/releases/tag/35.95.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.77.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.77.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
-- [containerbase/base](https://github.com/containerbase/base) ([7.10.0](https://github.com/containerbase/base/releases/tag/7.10.0), 5 days ago) - The containerbase project&#39;s base image source
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0](https://github.com/prometheus/prometheus/releases/tag/v2.44.0), 5 days ago) - The Prometheus monitoring system and time series database.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.96.3](https://github.com/renovatebot/renovate/releases/tag/35.96.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.77.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.77.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [containerbase/base](https://github.com/containerbase/base) ([7.10.0](https://github.com/containerbase/base/releases/tag/7.10.0), 6 days ago) - The containerbase project&#39;s base image source
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0](https://github.com/prometheus/prometheus/releases/tag/v2.44.0), 6 days ago) - The Prometheus monitoring system and time series database.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.77.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.77.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.19.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.19.0), 2 weeks ago) - Prometheus exporter for Fortigate firewalls
 - [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0), 2 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
@@ -25,16 +25,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 4536⭐
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) 39943⭐
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) 2313⭐
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) 2272⭐
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) 9843⭐
+- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 4603⭐
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) 40263⭐
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) 2348⭐
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) 2281⭐
 - [sindresorhus/is](https://github.com/sindresorhus/is) 1481⭐
 - [open-feature/flagd](https://github.com/open-feature/flagd) 146⭐
-- [googleforgames/agones](https://github.com/googleforgames/agones) 5282⭐
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 570⭐
-- [google/osv-scanner](https://github.com/google/osv-scanner) 4828⭐
-- [guitmz/n26](https://github.com/guitmz/n26) 144⭐
+- [googleforgames/agones](https://github.com/googleforgames/agones) 5284⭐
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 571⭐
+- [google/osv-scanner](https://github.com/google/osv-scanner) 4831⭐
 
 
 
