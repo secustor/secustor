@@ -13,7 +13,7 @@ jobs:
 
       - uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           template: "templates/readme.md.tpl"
           writeTo: "README.md"
