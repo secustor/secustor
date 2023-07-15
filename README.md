@@ -12,29 +12,28 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.4](https://github.com/renovatebot/renovate/releases/tag/35.98.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.24.0](https://github.com/runatlantis/atlantis/releases/tag/v0.24.0), 1 day ago) - Terraform Pull Request Automation
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.77.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.77.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [containerbase/base](https://github.com/containerbase/base) ([7.10.0](https://github.com/containerbase/base/releases/tag/7.10.0), 1 week ago) - The containerbase project&#39;s base image source
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.44.0](https://github.com/prometheus/prometheus/releases/tag/v2.44.0), 1 week ago) - The Prometheus monitoring system and time series database.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.77.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.77.0), 2 weeks ago) - Contrib repository for the OpenTelemetry Collector
-- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.19.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.19.0), 2 weeks ago) - Prometheus exporter for Fortigate firewalls
-- [grafana/mimir](https://github.com/grafana/mimir) ([mimir-2.8.0](https://github.com/grafana/mimir/releases/tag/mimir-2.8.0), 2 weeks ago) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 1 month ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.11](https://github.com/renovatebot/renovate/releases/tag/36.8.11), today) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.5.2](https://github.com/containerbase/base/releases/tag/9.5.2), 1 day ago) - The containerbase project&#39;s base image source
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.24.4](https://github.com/runatlantis/atlantis/releases/tag/v0.24.4), 3 days ago) - Terraform Pull Request Automation
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.81.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.81.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.81.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.81.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.50.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.50.0), 3 weeks ago) - Terraform Exoscale provider
+- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.19.0](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.19.0), 2 months ago) - Prometheus exporter for Fortigate firewalls
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 3 months ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 3 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) 9905⭐
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 4781⭐
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) 41033⭐
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) 2410⭐
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) 2294⭐
-- [sindresorhus/is](https://github.com/sindresorhus/is) 1482⭐
-- [open-feature/flagd](https://github.com/open-feature/flagd) 147⭐
-- [googleforgames/agones](https://github.com/googleforgames/agones) 5286⭐
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) 575⭐
-- [google/osv-scanner](https://github.com/google/osv-scanner) 4838⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6703⭐
+- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 225⭐
+- [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 49⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 489⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2210⭐
+- [grafana/grafonnet](https://github.com/grafana/grafonnet) 119⭐
+- [jestjs/jest](https://github.com/jestjs/jest) 42264⭐
+- [agardnerIT/tracepusher](https://github.com/agardnerIT/tracepusher) 21⭐
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) 10640⭐
+- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 7076⭐
 
 
 
