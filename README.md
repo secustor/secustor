@@ -12,9 +12,9 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.11](https://github.com/renovatebot/renovate/releases/tag/36.8.11), today) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.5.2](https://github.com/containerbase/base/releases/tag/9.5.2), 1 day ago) - The containerbase project&#39;s base image source
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.24.4](https://github.com/runatlantis/atlantis/releases/tag/v0.24.4), 3 days ago) - Terraform Pull Request Automation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.11](https://github.com/renovatebot/renovate/releases/tag/36.8.11), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.5.2](https://github.com/containerbase/base/releases/tag/9.5.2), 2 days ago) - The containerbase project&#39;s base image source
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.24.4](https://github.com/runatlantis/atlantis/releases/tag/v0.24.4), 4 days ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.81.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.81.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.81.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.81.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.50.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.50.0), 3 weeks ago) - Terraform Exoscale provider
@@ -24,16 +24,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6703⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6708⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 225⭐
-- [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 49⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 489⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2210⭐
+- [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 50⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 493⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2211⭐
 - [grafana/grafonnet](https://github.com/grafana/grafonnet) 119⭐
-- [jestjs/jest](https://github.com/jestjs/jest) 42264⭐
+- [jestjs/jest](https://github.com/jestjs/jest) 42272⭐
 - [agardnerIT/tracepusher](https://github.com/agardnerIT/tracepusher) 21⭐
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) 10640⭐
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 7076⭐
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) 10649⭐
+- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) 7092⭐
 
 
 
