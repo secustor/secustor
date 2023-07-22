@@ -12,9 +12,9 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.20.1](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.20.1), 1 day ago) - Prometheus exporter for Fortigate firewalls
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.17.0](https://github.com/renovatebot/renovate/releases/tag/36.17.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.6.2](https://github.com/containerbase/base/releases/tag/9.6.2), 2 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.18.4](https://github.com/renovatebot/renovate/releases/tag/36.18.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [bluecmd/fortigate_exporter](https://github.com/bluecmd/fortigate_exporter) ([v1.20.1](https://github.com/bluecmd/fortigate_exporter/releases/tag/v1.20.1), 2 days ago) - Prometheus exporter for Fortigate firewalls
+- [containerbase/base](https://github.com/containerbase/base) ([9.6.2](https://github.com/containerbase/base/releases/tag/9.6.2), 3 days ago) - The containerbase project&#39;s base image source
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.24.4](https://github.com/runatlantis/atlantis/releases/tag/v0.24.4), 1 week ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.81.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.81.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.81.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.81.0), 2 weeks ago) - Contrib repository for the OpenTelemetry Collector
@@ -24,16 +24,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 613⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6742⭐
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 615⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6744⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 227⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 51⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 530⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2231⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 533⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2235⭐
 - [grafana/grafonnet](https://github.com/grafana/grafonnet) 127⭐
-- [jestjs/jest](https://github.com/jestjs/jest) 42291⭐
+- [jestjs/jest](https://github.com/jestjs/jest) 42296⭐
 - [agardnerIT/tracepusher](https://github.com/agardnerIT/tracepusher) 22⭐
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) 10713⭐
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) 10721⭐
 
 
 
