@@ -12,27 +12,27 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.0](https://github.com/renovatebot/renovate/releases/tag/36.42.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.10.2](https://github.com/containerbase/base/releases/tag/9.10.2), 2 days ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.82.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.82.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.51.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.51.0), 2 days ago) - Terraform Exoscale provider
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 1 day ago) - Terraform Pull Request Automation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.3](https://github.com/renovatebot/renovate/releases/tag/36.42.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.10.2](https://github.com/containerbase/base/releases/tag/9.10.2), 3 days ago) - The containerbase project&#39;s base image source
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.82.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.82.0), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.51.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.51.0), 3 days ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.82.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.82.0), 1 week ago) - Contrib repository for the OpenTelemetry Collector
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.24.4](https://github.com/runatlantis/atlantis/releases/tag/v0.24.4), 1 month ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 3 months ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 4 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
-- [samber/lo](https://github.com/samber/lo) 12781⭐
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7663⭐
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 636⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6869⭐
+- [samber/lo](https://github.com/samber/lo) 12795⭐
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7673⭐
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 639⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6872⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 230⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 53⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 700⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2262⭐
-- [grafana/grafonnet](https://github.com/grafana/grafonnet) 138⭐
-- [jestjs/jest](https://github.com/jestjs/jest) 42477⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 702⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2264⭐
+- [grafana/grafonnet](https://github.com/grafana/grafonnet) 139⭐
+- [jestjs/jest](https://github.com/jestjs/jest) 42488⭐
 
 
 
