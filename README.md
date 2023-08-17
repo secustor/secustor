@@ -12,10 +12,10 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.46.0](https://github.com/renovatebot/renovate/releases/tag/36.46.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.83.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.83.0), 1 day ago) - Contrib repository for the OpenTelemetry Collector
-- [containerbase/base](https://github.com/containerbase/base) ([9.10.4](https://github.com/containerbase/base/releases/tag/9.10.4), 2 days ago) - The containerbase project&#39;s base image source
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 5 days ago) - Terraform Pull Request Automation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.49.0](https://github.com/renovatebot/renovate/releases/tag/36.49.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) ([v0.83.0](https://github.com/open-telemetry/opentelemetry-collector-contrib/releases/tag/v0.83.0), 2 days ago) - Contrib repository for the OpenTelemetry Collector
+- [containerbase/base](https://github.com/containerbase/base) ([9.10.4](https://github.com/containerbase/base/releases/tag/9.10.4), 3 days ago) - The containerbase project&#39;s base image source
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 6 days ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.82.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.82.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.51.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.51.0), 1 week ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 4 months ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
@@ -23,16 +23,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [samber/lo](https://github.com/samber/lo) 12820⭐
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7710⭐
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 640⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6906⭐
+- [samber/lo](https://github.com/samber/lo) 12839⭐
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7718⭐
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 643⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6917⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 229⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 53⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 726⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2269⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 736⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2272⭐
 - [grafana/grafonnet](https://github.com/grafana/grafonnet) 141⭐
-- [jestjs/jest](https://github.com/jestjs/jest) 42508⭐
+- [jestjs/jest](https://github.com/jestjs/jest) 42522⭐
 
 
 
