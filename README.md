@@ -12,8 +12,8 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.10](https://github.com/renovatebot/renovate/releases/tag/36.57.10), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.19.0](https://github.com/containerbase/base/releases/tag/9.19.0), 1 day ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.64.1](https://github.com/renovatebot/renovate/releases/tag/36.64.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.19.0](https://github.com/containerbase/base/releases/tag/9.19.0), 2 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.83.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.83.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 2 weeks ago) - Terraform Pull Request Automation
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.51.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.51.0), 2 weeks ago) - Terraform Exoscale provider
@@ -22,16 +22,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [samber/lo](https://github.com/samber/lo) 12935⭐
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7804⭐
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 665⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6962⭐
+- [samber/lo](https://github.com/samber/lo) 12950⭐
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7813⭐
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 667⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 6970⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 231⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 54⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 866⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2287⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 878⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2288⭐
 - [grafana/grafonnet](https://github.com/grafana/grafonnet) 144⭐
-- [jestjs/jest](https://github.com/jestjs/jest) 42560⭐
+- [jestjs/jest](https://github.com/jestjs/jest) 42563⭐
 
 
 
