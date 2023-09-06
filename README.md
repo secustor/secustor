@@ -12,25 +12,25 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.81.0](https://github.com/renovatebot/renovate/releases/tag/36.81.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.19.4](https://github.com/containerbase/base/releases/tag/9.19.4), 5 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.82.0](https://github.com/renovatebot/renovate/releases/tag/36.82.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.19.4](https://github.com/containerbase/base/releases/tag/9.19.4), 6 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.83.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.83.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 3 weeks ago) - Terraform Pull Request Automation
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.51.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.51.0), 3 weeks ago) - Terraform Exoscale provider
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.51.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.51.0), 4 weeks ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 4 months ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 4 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 33071⭐
-- [samber/lo](https://github.com/samber/lo) 13089⭐
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7896⭐
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 676⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7051⭐
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 33438⭐
+- [samber/lo](https://github.com/samber/lo) 13118⭐
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7912⭐
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 679⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7062⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 237⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 55⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 951⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2311⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 957⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2315⭐
 - [grafana/grafonnet](https://github.com/grafana/grafonnet) 154⭐
 
 
