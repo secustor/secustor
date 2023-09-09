@@ -12,26 +12,26 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.7](https://github.com/renovatebot/renovate/releases/tag/36.87.7), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.19.5](https://github.com/containerbase/base/releases/tag/9.19.5), 2 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.89.0](https://github.com/renovatebot/renovate/releases/tag/36.89.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.52.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.52.0), 1 day ago) - Terraform Exoscale provider
+- [containerbase/base](https://github.com/containerbase/base) ([9.19.5](https://github.com/containerbase/base/releases/tag/9.19.5), 3 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.83.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.83.0), 3 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 4 weeks ago) - Terraform Pull Request Automation
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.51.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.51.0), 1 month ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 4 months ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 4 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
+- [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 5 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
-- [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) 635⭐
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 34096⭐
-- [samber/lo](https://github.com/samber/lo) 13161⭐
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7928⭐
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 681⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7072⭐
+- [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) 695⭐
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 34395⭐
+- [samber/lo](https://github.com/samber/lo) 13175⭐
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7933⭐
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 682⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7074⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 237⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 55⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 975⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2318⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 981⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2319⭐
 
 
 
