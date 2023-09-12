@@ -12,9 +12,9 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.91.0](https://github.com/renovatebot/renovate/releases/tag/36.91.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.52.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.52.0), 3 days ago) - Terraform Exoscale provider
-- [containerbase/base](https://github.com/containerbase/base) ([9.19.5](https://github.com/containerbase/base/releases/tag/9.19.5), 5 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.92.1](https://github.com/renovatebot/renovate/releases/tag/36.92.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.20.0](https://github.com/containerbase/base/releases/tag/9.20.0), 1 day ago) - The containerbase project&#39;s base image source
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.52.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.52.0), 4 days ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.83.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.83.0), 3 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 1 month ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.4.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.4.0), 4 months ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
@@ -22,16 +22,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) 754⭐
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 34639⭐
-- [samber/lo](https://github.com/samber/lo) 13185⭐
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7944⭐
+- [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) 788⭐
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 34782⭐
+- [samber/lo](https://github.com/samber/lo) 13198⭐
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7952⭐
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 683⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7087⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7090⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 237⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 55⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 997⭐
-- [microsoft/presidio](https://github.com/microsoft/presidio) 2321⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 1006⭐
+- [microsoft/presidio](https://github.com/microsoft/presidio) 2324⭐
 
 
 
