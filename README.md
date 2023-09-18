@@ -12,26 +12,26 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.0](https://github.com/renovatebot/renovate/releases/tag/36.96.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.20.2](https://github.com/containerbase/base/releases/tag/9.20.2), 2 days ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.5.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.5.0), 2 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.52.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.52.1), 2 days ago) - Terraform Exoscale provider
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.84.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.84.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.3](https://github.com/renovatebot/renovate/releases/tag/36.96.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.20.2](https://github.com/containerbase/base/releases/tag/9.20.2), 3 days ago) - The containerbase project&#39;s base image source
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.5.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.5.0), 3 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.52.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.52.1), 3 days ago) - Terraform Exoscale provider
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.84.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.84.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.25.0](https://github.com/runatlantis/atlantis/releases/tag/v0.25.0), 1 month ago) - Terraform Pull Request Automation
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 5 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
 - [brocode/fblog](https://github.com/brocode/fblog) 322⭐
-- [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) 866⭐
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 35202⭐
-- [samber/lo](https://github.com/samber/lo) 13260⭐
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7985⭐
+- [RecipeUI/RecipeUI](https://github.com/RecipeUI/RecipeUI) 873⭐
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) 35239⭐
+- [samber/lo](https://github.com/samber/lo) 13266⭐
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) 7991⭐
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) 688⭐
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7120⭐
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) 7123⭐
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) 237⭐
 - [realaisles/BerlinSalaryTrends](https://github.com/realaisles/BerlinSalaryTrends) 55⭐
-- [marella/ctransformers](https://github.com/marella/ctransformers) 1031⭐
+- [marella/ctransformers](https://github.com/marella/ctransformers) 1034⭐
 
 
 
