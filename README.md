@@ -24,14 +24,14 @@ Mostly working right now on:
 #### ⭐ Latest projects I've starred
 
 - [typst/typst](https://github.com/typst/typst) 21329⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 14014⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 14020⭐
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3716⭐
 - [anthonyharrison/sbom4python](https://github.com/anthonyharrison/sbom4python) 18⭐
 - [vmware-labs/container-tracer](https://github.com/vmware-labs/container-tracer) 9⭐
 - [h-REA/hREA](https://github.com/h-REA/hREA) 123⭐
-- [holochain/holochain](https://github.com/holochain/holochain) 846⭐
+- [holochain/holochain](https://github.com/holochain/holochain) 847⭐
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) 1552⭐
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) 3987⭐
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) 3989⭐
 - [brocode/fblog](https://github.com/brocode/fblog) 328⭐
 
 
