@@ -12,26 +12,26 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.0](https://github.com/ossf/scorecard/releases/tag/v4.13.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.26.0](https://github.com/runatlantis/atlantis/releases/tag/v0.26.0), today) - Terraform Pull Request Automation
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.53.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.53.0), today) - Terraform Exoscale provider
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.3](https://github.com/renovatebot/renovate/releases/tag/37.6.3), today) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.20.8](https://github.com/containerbase/base/releases/tag/9.20.8), 4 days ago) - The containerbase project&#39;s base image source
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.0](https://github.com/ossf/scorecard/releases/tag/v4.13.0), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.26.0](https://github.com/runatlantis/atlantis/releases/tag/v0.26.0), 1 day ago) - Terraform Pull Request Automation
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.53.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.53.0), 1 day ago) - Terraform Exoscale provider
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.3](https://github.com/renovatebot/renovate/releases/tag/37.6.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.20.8](https://github.com/containerbase/base/releases/tag/9.20.8), 5 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.85.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.85.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.5.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.5.0), 3 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.5](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.5), 5 months ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 
 #### ⭐ Latest projects I've starred
 
-- [typst/typst](https://github.com/typst/typst) 21329⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 14020⭐
+- [typst/typst](https://github.com/typst/typst) 21330⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 14032⭐
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3716⭐
 - [anthonyharrison/sbom4python](https://github.com/anthonyharrison/sbom4python) 18⭐
 - [vmware-labs/container-tracer](https://github.com/vmware-labs/container-tracer) 9⭐
 - [h-REA/hREA](https://github.com/h-REA/hREA) 123⭐
 - [holochain/holochain](https://github.com/holochain/holochain) 847⭐
-- [bytecodealliance/javy](https://github.com/bytecodealliance/javy) 1552⭐
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) 3989⭐
+- [bytecodealliance/javy](https://github.com/bytecodealliance/javy) 1553⭐
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) 3991⭐
 - [brocode/fblog](https://github.com/brocode/fblog) 328⭐
 
 
