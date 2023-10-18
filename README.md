@@ -12,8 +12,8 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.23.0](https://github.com/renovatebot/renovate/releases/tag/37.23.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.23.4](https://github.com/containerbase/base/releases/tag/9.23.4), 3 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.27.0](https://github.com/renovatebot/renovate/releases/tag/37.27.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.23.4](https://github.com/containerbase/base/releases/tag/9.23.4), 4 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.86.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.86.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.0](https://github.com/ossf/scorecard/releases/tag/v4.13.0), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.26.0](https://github.com/runatlantis/atlantis/releases/tag/v0.26.0), 1 week ago) - Terraform Pull Request Automation
@@ -23,15 +23,15 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [typst/typst](https://github.com/typst/typst) 21540⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 14675⭐
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3735⭐
+- [typst/typst](https://github.com/typst/typst) 21565⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 14751⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3737⭐
 - [anthonyharrison/sbom4python](https://github.com/anthonyharrison/sbom4python) 18⭐
 - [vmware-labs/container-tracer](https://github.com/vmware-labs/container-tracer) 9⭐
 - [h-REA/hREA](https://github.com/h-REA/hREA) 124⭐
 - [holochain/holochain](https://github.com/holochain/holochain) 850⭐
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) 1573⭐
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) 4025⭐
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) 4027⭐
 - [brocode/fblog](https://github.com/brocode/fblog) 328⭐
 
 
