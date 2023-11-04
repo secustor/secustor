@@ -12,28 +12,28 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.43.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.43.0), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.43.1](https://github.com/renovatebot/renovate/releases/tag/37.43.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.23.11](https://github.com/containerbase/base/releases/tag/9.23.11), 1 day ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.88.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.88.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.44.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.44.0), 1 day ago)
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.6.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.6.0), 1 day ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.44.0](https://github.com/renovatebot/renovate/releases/tag/37.44.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.23.11](https://github.com/containerbase/base/releases/tag/9.23.11), 2 days ago) - The containerbase project&#39;s base image source
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.88.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.88.0), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.53.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.53.1), 1 week ago) - Terraform Exoscale provider
 - [cert-manager/aws-privateca-issuer](https://github.com/cert-manager/aws-privateca-issuer) ([v1.2.6](https://github.com/cert-manager/aws-privateca-issuer/releases/tag/v1.2.6), 1 week ago) - Addon for cert-manager that issues certificates using AWS ACM PCA.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.26.0](https://github.com/runatlantis/atlantis/releases/tag/v0.26.0), 4 weeks ago) - Terraform Pull Request Automation
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.5.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.5.0), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 
 #### ⭐ Latest projects I've starred
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 13523⭐
 - [ossf/allstar](https://github.com/ossf/allstar) 1141⭐
-- [Infisical/infisical](https://github.com/Infisical/infisical) 10106⭐
-- [typst/typst](https://github.com/typst/typst) 22133⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 15482⭐
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3776⭐
+- [Infisical/infisical](https://github.com/Infisical/infisical) 10113⭐
+- [typst/typst](https://github.com/typst/typst) 22156⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 15511⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3778⭐
 - [anthonyharrison/sbom4python](https://github.com/anthonyharrison/sbom4python) 18⭐
 - [vmware-labs/container-tracer](https://github.com/vmware-labs/container-tracer) 10⭐
 - [h-REA/hREA](https://github.com/h-REA/hREA) 125⭐
-- [holochain/holochain](https://github.com/holochain/holochain) 851⭐
-- [bytecodealliance/javy](https://github.com/bytecodealliance/javy) 1616⭐
+- [holochain/holochain](https://github.com/holochain/holochain) 850⭐
 
 
 
