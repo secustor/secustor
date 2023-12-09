@@ -12,27 +12,27 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.4](https://github.com/renovatebot/renovate/releases/tag/37.89.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.89.3](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.3), 1 day ago)
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.90.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.90.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 2 days ago) - Terraform Exoscale provider
-- [containerbase/base](https://github.com/containerbase/base) ([9.30.0](https://github.com/containerbase/base/releases/tag/9.30.0), 2 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.89.5](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.5), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.5](https://github.com/renovatebot/renovate/releases/tag/37.89.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.90.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.90.0), 3 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 3 days ago) - Terraform Exoscale provider
+- [containerbase/base](https://github.com/containerbase/base) ([9.30.0](https://github.com/containerbase/base/releases/tag/9.30.0), 3 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.6.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.6.0), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.26.0](https://github.com/runatlantis/atlantis/releases/tag/v0.26.0), 2 months ago) - Terraform Pull Request Automation
 
 #### ⭐ Latest projects I've starred
 
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 24124⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6245⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 24380⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6262⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2159⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14823⭐
-- [ossf/allstar](https://github.com/ossf/allstar) 1151⭐
-- [Infisical/infisical](https://github.com/Infisical/infisical) 10341⭐
-- [typst/typst](https://github.com/typst/typst) 23821⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16270⭐
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3846⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2164⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14842⭐
+- [ossf/allstar](https://github.com/ossf/allstar) 1152⭐
+- [Infisical/infisical](https://github.com/Infisical/infisical) 10346⭐
+- [typst/typst](https://github.com/typst/typst) 23848⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16293⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3848⭐
 
 
 
