@@ -12,26 +12,26 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.89.5](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.5), 2 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.5](https://github.com/renovatebot/renovate/releases/tag/37.89.5), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.90.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.90.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 4 days ago) - Terraform Exoscale provider
-- [containerbase/base](https://github.com/containerbase/base) ([9.30.0](https://github.com/containerbase/base/releases/tag/9.30.0), 4 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.7](https://github.com/renovatebot/renovate/releases/tag/37.89.7), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.89.6](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.6), 1 day ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.90.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.90.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 5 days ago) - Terraform Exoscale provider
+- [containerbase/base](https://github.com/containerbase/base) ([9.30.0](https://github.com/containerbase/base/releases/tag/9.30.0), 5 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.6.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.6.0), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.26.0](https://github.com/runatlantis/atlantis/releases/tag/v0.26.0), 2 months ago) - Terraform Pull Request Automation
 
 #### ⭐ Latest projects I've starred
 
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 24547⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6271⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 24717⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6276⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2164⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14849⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2165⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14865⭐
 - [ossf/allstar](https://github.com/ossf/allstar) 1152⭐
-- [Infisical/infisical](https://github.com/Infisical/infisical) 10363⭐
-- [typst/typst](https://github.com/typst/typst) 23871⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16329⭐
+- [Infisical/infisical](https://github.com/Infisical/infisical) 10388⭐
+- [typst/typst](https://github.com/typst/typst) 23894⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16349⭐
 - [ossf/scorecard](https://github.com/ossf/scorecard) 3848⭐
 
 
