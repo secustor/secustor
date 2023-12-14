@@ -23,16 +23,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 25308⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 25315⭐
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) 6326⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2171⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14970⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2172⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14971⭐
 - [ossf/allstar](https://github.com/ossf/allstar) 1154⭐
 - [Infisical/infisical](https://github.com/Infisical/infisical) 10437⭐
-- [typst/typst](https://github.com/typst/typst) 23997⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16446⭐
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3856⭐
+- [typst/typst](https://github.com/typst/typst) 23998⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16448⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3857⭐
 
 
 
