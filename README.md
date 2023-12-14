@@ -12,9 +12,9 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.93.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.93.1), today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.98.0](https://github.com/renovatebot/renovate/releases/tag/37.98.0), today) - Universal dependency update tool that fits into your workflows.
 - [containerbase/base](https://github.com/containerbase/base) ([9.30.4](https://github.com/containerbase/base/releases/tag/9.30.4), today) - The containerbase project&#39;s base image source
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.92.4](https://github.com/renovatebot/renovate/releases/tag/37.92.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.92.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.92.1), 1 day ago)
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.27.0](https://github.com/runatlantis/atlantis/releases/tag/v0.27.0), 2 days ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.90.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.90.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 1 week ago) - Terraform Exoscale provider
@@ -23,16 +23,16 @@ Mostly working right now on:
 
 #### ⭐ Latest projects I've starred
 
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 25200⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6314⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 25308⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6326⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2169⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14954⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2171⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 14970⭐
 - [ossf/allstar](https://github.com/ossf/allstar) 1154⭐
-- [Infisical/infisical](https://github.com/Infisical/infisical) 10434⭐
-- [typst/typst](https://github.com/typst/typst) 23971⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16435⭐
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3854⭐
+- [Infisical/infisical](https://github.com/Infisical/infisical) 10437⭐
+- [typst/typst](https://github.com/typst/typst) 23997⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16446⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3856⭐
 
 
 
