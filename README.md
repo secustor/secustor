@@ -12,27 +12,27 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.115.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.115.0), 2 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.115.0](https://github.com/renovatebot/renovate/releases/tag/37.115.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.115.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.115.0), 3 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.115.0](https://github.com/renovatebot/renovate/releases/tag/37.115.0), 3 days ago) - Universal dependency update tool that fits into your workflows.
 - [containerbase/base](https://github.com/containerbase/base) ([9.30.9](https://github.com/containerbase/base/releases/tag/9.30.9), 1 week ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.0), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.27.0](https://github.com/runatlantis/atlantis/releases/tag/v0.27.0), 2 weeks ago) - Terraform Pull Request Automation
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.27.0](https://github.com/runatlantis/atlantis/releases/tag/v0.27.0), 3 weeks ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.90.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.90.0), 3 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 3 weeks ago) - Terraform Exoscale provider
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
 #### ⭐ Latest projects I've starred
 
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 27134⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6486⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 27254⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6498⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2196⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15221⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2197⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15231⭐
 - [ossf/allstar](https://github.com/ossf/allstar) 1157⭐
-- [Infisical/infisical](https://github.com/Infisical/infisical) 10626⭐
-- [typst/typst](https://github.com/typst/typst) 24526⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16768⭐
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3876⭐
+- [Infisical/infisical](https://github.com/Infisical/infisical) 10630⭐
+- [typst/typst](https://github.com/typst/typst) 24555⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16775⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3878⭐
 
 
 
