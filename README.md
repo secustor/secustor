@@ -12,27 +12,26 @@ Mostly working right now on:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.117.1](https://github.com/renovatebot/renovate/releases/tag/37.117.1), today) - Universal dependency update tool that fits into your workflows.
-- [containerbase/base](https://github.com/containerbase/base) ([9.30.10](https://github.com/containerbase/base/releases/tag/9.30.10), 1 day ago) - The containerbase project&#39;s base image source
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.116.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.116.0), 1 day ago)
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.118.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.118.1), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.118.1](https://github.com/renovatebot/renovate/releases/tag/37.118.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [containerbase/base](https://github.com/containerbase/base) ([9.31.2](https://github.com/containerbase/base/releases/tag/9.31.2), 1 day ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) ([v0.27.0](https://github.com/runatlantis/atlantis/releases/tag/v0.27.0), 3 weeks ago) - Terraform Pull Request Automation
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.90.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.90.0), 4 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 4 weeks ago) - Terraform Exoscale provider
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
 #### ⭐ Latest projects I've starred
 
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 27382⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6510⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 27537⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6523⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2197⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15250⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2199⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15272⭐
 - [ossf/allstar](https://github.com/ossf/allstar) 1155⭐
-- [Infisical/infisical](https://github.com/Infisical/infisical) 10640⭐
-- [typst/typst](https://github.com/typst/typst) 24579⭐
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16794⭐
-- [ossf/scorecard](https://github.com/ossf/scorecard) 3878⭐
+- [Infisical/infisical](https://github.com/Infisical/infisical) 10652⭐
+- [typst/typst](https://github.com/typst/typst) 24605⭐
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) 16811⭐
+- [ossf/scorecard](https://github.com/ossf/scorecard) 3882⭐
 
 
 
