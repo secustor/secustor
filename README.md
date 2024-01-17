@@ -12,27 +12,28 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.134.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.134.0), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.134.0](https://github.com/renovatebot/renovate/releases/tag/37.134.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.92.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.92.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
-- [containerbase/base](https://github.com/containerbase/base) ([9.31.4](https://github.com/containerbase/base/releases/tag/9.31.4), 6 days ago) - The containerbase project&#39;s base image source
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.22.0-next.2), 1 week ago) - Backstage is an open platform for building developer portals
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.1), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.137.2](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.137.2), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.137.2](https://github.com/renovatebot/renovate/releases/tag/37.137.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.2](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.2), 1 day ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.0](https://github.com/backstage/backstage/releases/tag/v1.22.0), 1 day ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.92.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.92.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.47.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.47.0), 2 days ago) - OpenTelemetry JavaScript Client
+- [containerbase/base](https://github.com/containerbase/base) ([9.31.4](https://github.com/containerbase/base/releases/tag/9.31.4), 1 week ago) - The containerbase project&#39;s base image source
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.54.1](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.54.1), 1 month ago) - Terraform Exoscale provider
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
 #### ⭐ Latest projects I've starred
 
-- [tsconfig/bases](https://github.com/tsconfig/bases) 5122⭐
+- [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder) 41⭐
+- [tsconfig/bases](https://github.com/tsconfig/bases) 5129⭐
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2134⭐
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 28758⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6668⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 28860⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6671⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2223⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15495⭐
-- [ossf/allstar](https://github.com/ossf/allstar) 1156⭐
-- [Infisical/infisical](https://github.com/Infisical/infisical) 10766⭐
-- [typst/typst](https://github.com/typst/typst) 24938⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2227⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15512⭐
+- [ossf/allstar](https://github.com/ossf/allstar) 1157⭐
+- [Infisical/infisical](https://github.com/Infisical/infisical) 10773⭐
 
 
 
