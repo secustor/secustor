@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.151.0](https://github.com/renovatebot/renovate/releases/tag/37.151.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.150.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.150.1), 1 day ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.23.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.23.0-next.0), 2 days ago) - Backstage is an open platform for building developer portals
-- [containerbase/base](https://github.com/containerbase/base) ([9.31.5](https://github.com/containerbase/base/releases/tag/9.31.5), 5 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.152.1](https://github.com/renovatebot/renovate/releases/tag/37.152.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.2](https://github.com/backstage/backstage/releases/tag/v1.22.2), 1 day ago) - Backstage is an open platform for building developer portals
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.152.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.152.0), 1 day ago)
+- [containerbase/base](https://github.com/containerbase/base) ([9.31.5](https://github.com/containerbase/base/releases/tag/9.31.5), 6 days ago) - The containerbase project&#39;s base image source
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.92.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.92.1), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.2](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.2), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.47.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.47.0), 1 week ago) - OpenTelemetry JavaScript Client
@@ -26,13 +26,13 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 243⭐
 - [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder) 43⭐
-- [tsconfig/bases](https://github.com/tsconfig/bases) 5160⭐
+- [tsconfig/bases](https://github.com/tsconfig/bases) 5167⭐
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2138⭐
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 29496⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6755⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 29572⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6766⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2237⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15756⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2239⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15793⭐
 - [ossf/allstar](https://github.com/ossf/allstar) 1157⭐
 
 
