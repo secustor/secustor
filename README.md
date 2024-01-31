@@ -12,29 +12,29 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.158.2](https://github.com/renovatebot/renovate/releases/tag/37.158.2), 1 day ago) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.157.2](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.157.2), 1 day ago)
-- [containerbase/base](https://github.com/containerbase/base) ([9.31.6](https://github.com/containerbase/base/releases/tag/9.31.6), 1 day ago) - The containerbase project&#39;s base image source
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.93.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.93.0), 1 day ago)
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.55.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.55.0), 4 days ago) - Terraform Exoscale provider
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.48.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.48.0), 4 days ago) - OpenTelemetry JavaScript Client
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.2](https://github.com/backstage/backstage/releases/tag/v1.22.2), 5 days ago) - Backstage is an open platform for building developer portals
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.92.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.92.1), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.162.2](https://github.com/renovatebot/renovate/releases/tag/37.162.2), 1 day ago) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.162.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.162.1), 1 day ago)
+- [containerbase/base](https://github.com/containerbase/base) ([9.31.6](https://github.com/containerbase/base/releases/tag/9.31.6), 2 days ago) - The containerbase project&#39;s base image source
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.93.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.93.0), 2 days ago)
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.55.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.55.0), 5 days ago) - Terraform Exoscale provider
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.48.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.48.0), 5 days ago) - OpenTelemetry JavaScript Client
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.2](https://github.com/backstage/backstage/releases/tag/v1.22.2), 6 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.92.1](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.92.1), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.7.2](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.7.2), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
 #### ⭐ Latest projects I've starred
 
-- [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 243⭐
+- [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 242⭐
 - [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder) 45⭐
-- [tsconfig/bases](https://github.com/tsconfig/bases) 5184⭐
+- [tsconfig/bases](https://github.com/tsconfig/bases) 5187⭐
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2142⭐
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 29834⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6798⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 29905⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6808⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2243⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15881⭐
-- [ossf/allstar](https://github.com/ossf/allstar) 1158⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2244⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 15892⭐
+- [ossf/allstar](https://github.com/ossf/allstar) 1159⭐
 
 
 
