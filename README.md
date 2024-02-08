@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.174.6](https://github.com/renovatebot/renovate/releases/tag/37.174.6), 1 day ago) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.174.3](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.174.3), 1 day ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.23.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.23.0-next.2), 1 day ago) - Backstage is an open platform for building developer portals
-- [containerbase/base](https://github.com/containerbase/base) ([9.33.4](https://github.com/containerbase/base/releases/tag/9.33.4), 1 day ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.93.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.93.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.175.1](https://github.com/renovatebot/renovate/releases/tag/37.175.1), 1 day ago) - Universal dependency automation tool.
+- [containerbase/base](https://github.com/containerbase/base) ([9.33.5](https://github.com/containerbase/base/releases/tag/9.33.5), 1 day ago) - The containerbase project&#39;s base image source
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.175.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.175.0), 1 day ago)
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.23.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.23.0-next.2), 2 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.93.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.93.0), 6 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.93.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.93.0), 1 week ago)
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.55.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.55.0), 1 week ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.48.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.48.0), 1 week ago) - OpenTelemetry JavaScript Client
@@ -28,13 +28,13 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 - [benwilcock/backstage-plugin-backchat](https://github.com/benwilcock/backstage-plugin-backchat) 37⭐
 - [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 245⭐
 - [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder) 46⭐
-- [tsconfig/bases](https://github.com/tsconfig/bases) 5223⭐
+- [tsconfig/bases](https://github.com/tsconfig/bases) 5227⭐
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2144⭐
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 30344⭐
-- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6877⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 30419⭐
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) 6887⭐
 - [grafana/oats](https://github.com/grafana/oats) 3⭐
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2258⭐
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) 16026⭐
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) 2260⭐
+- [qdrant/qdrant](https://github.com/qdrant/qdrant) 16049⭐
 
 
 
