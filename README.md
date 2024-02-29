@@ -12,29 +12,29 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.217.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.217.0), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.218.0](https://github.com/renovatebot/renovate/releases/tag/37.218.0), 1 day ago) - Universal dependency automation tool.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.24.0-next.0), 1 day ago) - Backstage is an open platform for building developer portals
-- [containerbase/base](https://github.com/containerbase/base) ([10.1.4](https://github.com/containerbase/base/releases/tag/10.1.4), 5 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.219.7](https://github.com/renovatebot/renovate/releases/tag/37.219.7), today) - Universal dependency automation tool.
+- [containerbase/base](https://github.com/containerbase/base) ([10.2.1](https://github.com/containerbase/base/releases/tag/10.2.1), 1 day ago) - The containerbase project&#39;s base image source
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.219.5](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.219.5), 1 day ago)
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.56.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.56.0), 1 day ago) - Terraform Exoscale provider
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.24.0-next.0), 2 days ago) - Backstage is an open platform for building developer portals
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.8.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.8.0), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.94.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.94.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.93.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.93.0), 1 month ago)
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.55.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.55.0), 1 month ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.48.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.48.0), 1 month ago) - OpenTelemetry JavaScript Client
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 4 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
 #### ⭐ Latest projects I've starred
 
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 4569⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 4706⭐
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 11⭐
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) 20⭐
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32550⭐
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32565⭐
 - [benwilcock/backstage-plugin-backchat](https://github.com/benwilcock/backstage-plugin-backchat) 37⭐
 - [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 247⭐
 - [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder) 56⭐
-- [tsconfig/bases](https://github.com/tsconfig/bases) 5299⭐
-- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2158⭐
-- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 31765⭐
+- [tsconfig/bases](https://github.com/tsconfig/bases) 5298⭐
+- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2160⭐
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) 31830⭐
 
 
 
