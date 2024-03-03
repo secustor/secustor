@@ -12,12 +12,12 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.222.3](https://github.com/renovatebot/renovate/releases/tag/37.222.3), 1 day ago) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.222.2](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.222.2), 1 day ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.23.4](https://github.com/backstage/backstage/releases/tag/v1.23.4), 1 day ago) - Backstage is an open platform for building developer portals
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.49.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.49.1), 2 days ago) - OpenTelemetry JavaScript Client
-- [containerbase/base](https://github.com/containerbase/base) ([10.2.1](https://github.com/containerbase/base/releases/tag/10.2.1), 3 days ago) - The containerbase project&#39;s base image source
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.56.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.56.0), 3 days ago) - Terraform Exoscale provider
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.224.2](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.224.2), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.224.2](https://github.com/renovatebot/renovate/releases/tag/37.224.2), 1 day ago) - Universal dependency automation tool.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.23.4](https://github.com/backstage/backstage/releases/tag/v1.23.4), 2 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.49.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.49.1), 3 days ago) - OpenTelemetry JavaScript Client
+- [containerbase/base](https://github.com/containerbase/base) ([10.2.1](https://github.com/containerbase/base/releases/tag/10.2.1), 4 days ago) - The containerbase project&#39;s base image source
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.56.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.56.0), 4 days ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.8.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.8.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.94.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.94.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.93.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.93.0), 1 month ago)
@@ -25,15 +25,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 17930⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 4795⭐
-- [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 14⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 17999⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 4821⭐
+- [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 16⭐
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) 20⭐
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32590⭐
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32608⭐
 - [benwilcock/backstage-plugin-backchat](https://github.com/benwilcock/backstage-plugin-backchat) 37⭐
-- [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 247⭐
+- [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 246⭐
 - [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder) 57⭐
-- [tsconfig/bases](https://github.com/tsconfig/bases) 5302⭐
+- [tsconfig/bases](https://github.com/tsconfig/bases) 5306⭐
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2162⭐
 
 
