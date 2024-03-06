@@ -12,29 +12,29 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.227.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.227.0), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.227.0](https://github.com/renovatebot/renovate/releases/tag/37.227.0), 1 day ago) - Universal dependency automation tool.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.95.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.95.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
-- [containerbase/base](https://github.com/containerbase/base) ([10.2.3](https://github.com/containerbase/base/releases/tag/10.2.3), 1 day ago) - The containerbase project&#39;s base image source
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.23.4](https://github.com/backstage/backstage/releases/tag/v1.23.4), 4 days ago) - Backstage is an open platform for building developer portals
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.49.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.49.1), 5 days ago) - OpenTelemetry JavaScript Client
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.56.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.56.0), 6 days ago) - Terraform Exoscale provider
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.229.2](https://github.com/renovatebot/renovate/releases/tag/37.229.2), 1 day ago) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.229.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.229.0), 1 day ago)
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.24.0-next.1), 1 day ago) - Backstage is an open platform for building developer portals
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.96.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.96.0), 1 day ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.95.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.95.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [containerbase/base](https://github.com/containerbase/base) ([10.2.3](https://github.com/containerbase/base/releases/tag/10.2.3), 2 days ago) - The containerbase project&#39;s base image source
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.49.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.49.1), 6 days ago) - OpenTelemetry JavaScript Client
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.56.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.56.0), 1 week ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.8.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.8.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.93.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.93.0), 1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 4 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
 #### ⭐ Latest projects I've starred
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 18082⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 4901⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 18117⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 4919⭐
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 17⭐
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) 20⭐
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32637⭐
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32653⭐
 - [benwilcock/backstage-plugin-backchat](https://github.com/benwilcock/backstage-plugin-backchat) 37⭐
 - [zjedi/hugo-scroll](https://github.com/zjedi/hugo-scroll) 246⭐
 - [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder) 57⭐
-- [tsconfig/bases](https://github.com/tsconfig/bases) 5316⭐
-- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2162⭐
+- [tsconfig/bases](https://github.com/tsconfig/bases) 5317⭐
+- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) 2163⭐
 
 
 
