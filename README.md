@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.267.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.267.1), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.267.1](https://github.com/renovatebot/renovate/releases/tag/37.267.1), 1 day ago) - Universal dependency automation tool.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.2](https://github.com/backstage/backstage/releases/tag/v1.24.2), 2 days ago) - Backstage is an open platform for building developer portals
-- [containerbase/base](https://github.com/containerbase/base) ([10.3.5](https://github.com/containerbase/base/releases/tag/10.3.5), 2 days ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.96.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.96.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [containerbase/base](https://github.com/containerbase/base) ([10.3.6](https://github.com/containerbase/base/releases/tag/10.3.6), 1 day ago) - The containerbase project&#39;s base image source
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.269.3](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.269.3), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.269.3](https://github.com/renovatebot/renovate/releases/tag/37.269.3), 1 day ago) - Universal dependency automation tool.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.2](https://github.com/backstage/backstage/releases/tag/v1.24.2), 3 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.96.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.96.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.96.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.96.0), 2 weeks ago)
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.49.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.49.1), 3 weeks ago) - OpenTelemetry JavaScript Client
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.56.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.56.0), 3 weeks ago) - Terraform Exoscale provider
@@ -25,15 +25,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ollama/ollama](https://github.com/ollama/ollama) 49858⭐
+- [ollama/ollama](https://github.com/ollama/ollama) 50079⭐
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 213⭐
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 120⭐
-- [continuedev/continue](https://github.com/continuedev/continue) 9519⭐
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 18708⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5076⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 9539⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 18741⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5081⭐
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 22⭐
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) 29⭐
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32873⭐
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32885⭐
 - [benwilcock/backstage-plugin-backchat](https://github.com/benwilcock/backstage-plugin-backchat) 40⭐
 
 
