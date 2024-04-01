@@ -12,12 +12,12 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.278.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.278.0), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.278.0](https://github.com/renovatebot/renovate/releases/tag/37.278.0), 1 day ago) - Universal dependency automation tool.
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.97.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.97.0), 3 days ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.25.0](https://github.com/backstage/backstage/releases/tag/v1.25.0), 4 days ago) - Backstage is an open platform for building developer portals
-- [containerbase/base](https://github.com/containerbase/base) ([10.3.8](https://github.com/containerbase/base/releases/tag/10.3.8), 6 days ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.96.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.96.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
+- [containerbase/base](https://github.com/containerbase/base) ([10.3.9](https://github.com/containerbase/base/releases/tag/10.3.9), 1 day ago) - The containerbase project&#39;s base image source
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.278.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.278.0), 2 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.278.0](https://github.com/renovatebot/renovate/releases/tag/37.278.0), 2 days ago) - Universal dependency automation tool.
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.97.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.97.0), 4 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.25.0](https://github.com/backstage/backstage/releases/tag/v1.25.0), 5 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.96.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.96.0), 3 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.49.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.49.1), 1 month ago) - OpenTelemetry JavaScript Client
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.56.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.56.0), 1 month ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.8.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.8.0), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
@@ -25,16 +25,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) 3914⭐
-- [ollama/ollama](https://github.com/ollama/ollama) 51646⭐
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) 5014⭐
+- [ollama/ollama](https://github.com/ollama/ollama) 51799⭐
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 217⭐
-- [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 129⭐
-- [continuedev/continue](https://github.com/continuedev/continue) 9789⭐
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 18927⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5108⭐
+- [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 130⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 9804⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 18942⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5109⭐
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 24⭐
-- [backstage/community-plugins](https://github.com/backstage/community-plugins) 30⭐
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32950⭐
+- [backstage/community-plugins](https://github.com/backstage/community-plugins) 31⭐
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) 32951⭐
 
 
 
