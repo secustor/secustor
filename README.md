@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.306.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.306.1), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.306.1](https://github.com/renovatebot/renovate/releases/tag/37.306.1), 1 day ago) - Universal dependency automation tool.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.1](https://github.com/backstage/backstage/releases/tag/v1.26.1), 1 day ago) - Backstage is an open platform for building developer portals
-- [containerbase/base](https://github.com/containerbase/base) ([10.3.15](https://github.com/containerbase/base/releases/tag/10.3.15), 3 days ago) - The containerbase project&#39;s base image source
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.310.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.310.0), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.310.1](https://github.com/renovatebot/renovate/releases/tag/37.310.1), 1 day ago) - Universal dependency automation tool.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.3](https://github.com/backstage/backstage/releases/tag/v1.26.3), 1 day ago) - Backstage is an open platform for building developer portals
+- [containerbase/base](https://github.com/containerbase/base) ([10.3.15](https://github.com/containerbase/base/releases/tag/10.3.15), 4 days ago) - The containerbase project&#39;s base image source
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.98.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.98.0), 1 week ago)
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.98.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.98.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
@@ -25,15 +25,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [clastix/kamaji](https://github.com/clastix/kamaji) 811⭐
+- [clastix/kamaji](https://github.com/clastix/kamaji) 815⭐
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 36⭐
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) 11447⭐
-- [ollama/ollama](https://github.com/ollama/ollama) 55959⭐
-- [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 224⭐
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) 12012⭐
+- [ollama/ollama](https://github.com/ollama/ollama) 56542⭐
+- [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 225⭐
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 132⭐
-- [continuedev/continue](https://github.com/continuedev/continue) 10469⭐
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 19493⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5391⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 10500⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 19524⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5420⭐
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 25⭐
 
 
