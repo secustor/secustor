@@ -12,28 +12,28 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.321.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.321.1), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.321.1](https://github.com/renovatebot/renovate/releases/tag/37.321.1), 1 day ago) - Universal dependency automation tool.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.4](https://github.com/backstage/backstage/releases/tag/v1.26.4), 1 day ago) - Backstage is an open platform for building developer portals
-- [containerbase/base](https://github.com/containerbase/base) ([10.3.17](https://github.com/containerbase/base/releases/tag/10.3.17), 1 day ago) - The containerbase project&#39;s base image source
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.24.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.24.0), 1 day ago) - OpenTelemetry JavaScript Client
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.98.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.98.0), 1 week ago)
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.98.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.98.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.323.2](https://github.com/renovatebot/renovate/releases/tag/37.323.2), today) - Universal dependency automation tool.
+- [containerbase/base](https://github.com/containerbase/base) ([10.3.18](https://github.com/containerbase/base/releases/tag/10.3.18), 1 day ago) - The containerbase project&#39;s base image source
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.323.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.323.1), 1 day ago)
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.4](https://github.com/backstage/backstage/releases/tag/v1.26.4), 2 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.24.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.24.0), 2 days ago) - OpenTelemetry JavaScript Client
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.98.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.98.0), 2 weeks ago)
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.98.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.98.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.57.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.57.0), 3 weeks ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.9.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.9.0), 3 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 
 #### ⭐ Latest projects I've starred
 
-- [clastix/kamaji](https://github.com/clastix/kamaji) 838⭐
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 39⭐
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) 12687⭐
-- [ollama/ollama](https://github.com/ollama/ollama) 59659⭐
+- [clastix/kamaji](https://github.com/clastix/kamaji) 840⭐
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 40⭐
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) 12775⭐
+- [ollama/ollama](https://github.com/ollama/ollama) 60303⭐
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 226⭐
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 132⭐
-- [continuedev/continue](https://github.com/continuedev/continue) 10751⭐
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 19667⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5483⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 10892⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 19701⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5502⭐
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 25⭐
 
 
