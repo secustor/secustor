@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.325.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.325.1), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.325.1](https://github.com/renovatebot/renovate/releases/tag/37.325.1), 1 day ago) - Universal dependency automation tool.
-- [containerbase/base](https://github.com/containerbase/base) ([10.5.0](https://github.com/containerbase/base/releases/tag/10.5.0), 1 day ago) - The containerbase project&#39;s base image source
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.4](https://github.com/backstage/backstage/releases/tag/v1.26.4), 3 days ago) - Backstage is an open platform for building developer portals
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.24.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.24.0), 3 days ago) - OpenTelemetry JavaScript Client
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.326.1](https://github.com/renovatebot/renovate/releases/tag/37.326.1), 1 day ago) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.326.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.326.0), 1 day ago)
+- [containerbase/base](https://github.com/containerbase/base) ([10.5.0](https://github.com/containerbase/base/releases/tag/10.5.0), 2 days ago) - The containerbase project&#39;s base image source
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.4](https://github.com/backstage/backstage/releases/tag/v1.26.4), 4 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.24.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.24.0), 4 days ago) - OpenTelemetry JavaScript Client
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.98.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.98.0), 2 weeks ago)
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.98.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.98.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
@@ -27,13 +27,13 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [clastix/kamaji](https://github.com/clastix/kamaji) 840⭐
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 41⭐
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) 12846⭐
-- [ollama/ollama](https://github.com/ollama/ollama) 60828⭐
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) 12908⭐
+- [ollama/ollama](https://github.com/ollama/ollama) 61204⭐
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 226⭐
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 132⭐
-- [continuedev/continue](https://github.com/continuedev/continue) 10932⭐
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 19720⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5503⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 10969⭐
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 19749⭐
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5504⭐
 - [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 25⭐
 
 
