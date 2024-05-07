@@ -12,29 +12,29 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.342.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.342.1), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.342.1](https://github.com/renovatebot/renovate/releases/tag/37.342.1), 1 day ago) - Universal dependency automation tool.
-- [containerbase/base](https://github.com/containerbase/base) ([10.6.1](https://github.com/containerbase/base/releases/tag/10.6.1), 2 days ago) - The containerbase project&#39;s base image source
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.5](https://github.com/backstage/backstage/releases/tag/v1.26.5), 3 days ago) - Backstage is an open platform for building developer portals
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.99.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.99.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.347.2](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.347.2), today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.347.2](https://github.com/renovatebot/renovate/releases/tag/37.347.2), 1 day ago) - Universal dependency automation tool.
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-05-06](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-05-06), 1 day ago) - All Backstage plugins created by Roadie.
+- [containerbase/base](https://github.com/containerbase/base) ([10.6.4](https://github.com/containerbase/base/releases/tag/10.6.4), 1 day ago) - The containerbase project&#39;s base image source
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.26.5](https://github.com/backstage/backstage/releases/tag/v1.26.5), 4 days ago) - Backstage is an open platform for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.99.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.99.0), 6 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.58.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.58.0), 1 week ago) - Terraform Exoscale provider
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.24.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.24.0), 1 week ago) - OpenTelemetry JavaScript Client
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.98.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.98.0), 3 weeks ago)
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.9.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.9.0), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 
 #### ⭐ Latest projects I've starred
 
-- [clastix/kamaji](https://github.com/clastix/kamaji) 857⭐
+- [k0sproject/bootloose](https://github.com/k0sproject/bootloose) 19⭐
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) 2787⭐
+- [junegunn/fzf](https://github.com/junegunn/fzf) 60042⭐
+- [clastix/kamaji](https://github.com/clastix/kamaji) 860⭐
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 41⭐
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) 13367⭐
-- [ollama/ollama](https://github.com/ollama/ollama) 63839⭐
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) 13405⭐
+- [ollama/ollama](https://github.com/ollama/ollama) 64186⭐
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 225⭐
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 133⭐
-- [continuedev/continue](https://github.com/continuedev/continue) 11234⭐
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) 19964⭐
-- [google/gemma.cpp](https://github.com/google/gemma.cpp) 5535⭐
-- [seatgeek/backstage-plugins](https://github.com/seatgeek/backstage-plugins) 25⭐
+- [continuedev/continue](https://github.com/continuedev/continue) 11249⭐
 
 
 
