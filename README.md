@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.363.4](https://github.com/renovatebot/renovate/releases/tag/37.363.4), 1 day ago) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.363.3](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.363.3), 1 day ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.0](https://github.com/backstage/backstage/releases/tag/v1.27.0), 1 day ago) - Backstage is an open platform for building developer portals
-- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.59.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.59.0), 2 days ago) - Terraform Exoscale provider
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-05-08](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-05-08), 1 week ago) - All Backstage plugins created by Roadie.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.363.9](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.363.9), 1 day ago)
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-05-15](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-05-15), 1 day ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.363.9](https://github.com/renovatebot/renovate/releases/tag/37.363.9), 1 day ago) - Universal dependency automation tool.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.1](https://github.com/backstage/backstage/releases/tag/v1.27.1), 1 day ago) - Backstage is an open framework for building developer portals
+- [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) ([v0.59.0](https://github.com/exoscale/terraform-provider-exoscale/releases/tag/v0.59.0), 3 days ago) - Terraform Exoscale provider
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.51.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.51.1), 1 week ago) - OpenTelemetry JavaScript Client
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.100.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.100.0), 1 week ago)
@@ -27,12 +27,12 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [projectcontour/contour](https://github.com/projectcontour/contour) 3647⭐
 - [k0sproject/bootloose](https://github.com/k0sproject/bootloose) 20⭐
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) 2822⭐
-- [junegunn/fzf](https://github.com/junegunn/fzf) 60238⭐
-- [clastix/kamaji](https://github.com/clastix/kamaji) 864⭐
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 42⭐
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) 13661⭐
-- [ollama/ollama](https://github.com/ollama/ollama) 66549⭐
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) 2850⭐
+- [junegunn/fzf](https://github.com/junegunn/fzf) 60266⭐
+- [clastix/kamaji](https://github.com/clastix/kamaji) 865⭐
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 43⭐
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) 13690⭐
+- [ollama/ollama](https://github.com/ollama/ollama) 66814⭐
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) 228⭐
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) 133⭐
 
