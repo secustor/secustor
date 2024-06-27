@@ -12,28 +12,28 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.417.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.417.1), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.417.1](https://github.com/renovatebot/renovate/releases/tag/37.417.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.103.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.103.0), 1 day ago) - Kubernetes Operator for OpenTelemetry Collector
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.29.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-06-21](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-06-21), 5 days ago) - All Backstage plugins created by Roadie.
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.25.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.25.1), 6 days ago) - OpenTelemetry JavaScript Client
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.103.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.103.0), 6 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.420.0](https://github.com/renovatebot/renovate/releases/tag/37.420.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.419.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.419.1), 1 day ago)
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-06-26.4](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-06-26.4), 1 day ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.3](https://github.com/backstage/backstage/releases/tag/v1.28.3), 1 day ago) - Backstage is an open framework for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.103.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.103.0), 2 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.25.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.25.1), 1 week ago) - OpenTelemetry JavaScript Client
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.103.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.103.0), 1 week ago)
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.10.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.10.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
 #### ⭐ Latest projects I've starred
 
-- [radius-project/radius](https://github.com/radius-project/radius) 1423⭐
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16553⭐
+- [radius-project/radius](https://github.com/radius-project/radius) 1424⭐
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16568⭐
 - [shelmangroup/envoy-oidc-authserver](https://github.com/shelmangroup/envoy-oidc-authserver) 7⭐
-- [projectcontour/contour](https://github.com/projectcontour/contour) 3665⭐
+- [projectcontour/contour](https://github.com/projectcontour/contour) 3666⭐
 - [k0sproject/bootloose](https://github.com/k0sproject/bootloose) 22⭐
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) 3089⭐
-- [junegunn/fzf](https://github.com/junegunn/fzf) 61552⭐
-- [clastix/kamaji](https://github.com/clastix/kamaji) 909⭐
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 51⭐
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) 14458⭐
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) 3097⭐
+- [junegunn/fzf](https://github.com/junegunn/fzf) 61581⭐
+- [clastix/kamaji](https://github.com/clastix/kamaji) 910⭐
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) 52⭐
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) 14466⭐
 
 
 
