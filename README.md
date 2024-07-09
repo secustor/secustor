@@ -12,13 +12,13 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.425.1](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.425.1), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.425.1](https://github.com/renovatebot/renovate/releases/tag/37.425.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.4](https://github.com/backstage/backstage/releases/tag/v1.28.4), 4 days ago) - Backstage is an open framework for building developer portals
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.104.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.104.0), 6 days ago)
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.426.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.426.0), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.426.0](https://github.com/renovatebot/renovate/releases/tag/37.426.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.4](https://github.com/backstage/backstage/releases/tag/v1.28.4), 5 days ago) - Backstage is an open framework for building developer portals
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.104.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.104.0), 1 week ago)
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.11.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.11.0), 1 week ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-06-26.4](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-06-26.4), 1 week ago) - All Backstage plugins created by Roadie.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.103.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.103.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.103.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.103.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.25.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.25.1), 2 weeks ago) - OpenTelemetry JavaScript Client
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
@@ -26,14 +26,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [curl/trurl](https://github.com/curl/trurl) 3017⭐
 - [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) 11⭐
-- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) 826⭐
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) 827⭐
 - [radius-project/radius](https://github.com/radius-project/radius) 1429⭐
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16717⭐
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16736⭐
 - [shelmangroup/envoy-oidc-authserver](https://github.com/shelmangroup/envoy-oidc-authserver) 7⭐
 - [projectcontour/contour](https://github.com/projectcontour/contour) 3671⭐
 - [k0sproject/bootloose](https://github.com/k0sproject/bootloose) 22⭐
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) 3137⭐
-- [junegunn/fzf](https://github.com/junegunn/fzf) 61951⭐
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) 3143⭐
+- [junegunn/fzf](https://github.com/junegunn/fzf) 62003⭐
 
 
 
