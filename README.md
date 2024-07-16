@@ -12,13 +12,13 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.431.4](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.431.4), 2 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.4](https://github.com/renovatebot/renovate/releases/tag/37.431.4), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-07-12](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-07-12), 3 days ago) - All Backstage plugins created by Roadie.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.29.0-next.2), 6 days ago) - Backstage is an open framework for building developer portals
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.104.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.104.0), 1 week ago)
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.431.7](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.431.7), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.431.7](https://github.com/renovatebot/renovate/releases/tag/37.431.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-07-12](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-07-12), 4 days ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.29.0-next.2), 1 week ago) - Backstage is an open framework for building developer portals
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.104.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.104.0), 2 weeks ago)
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.11.0](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.11.0), 2 weeks ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.103.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.103.0), 2 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.103.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.103.0), 3 weeks ago) - Kubernetes Operator for OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([v1.25.1](https://github.com/open-telemetry/opentelemetry-js/releases/tag/v1.25.1), 3 weeks ago) - OpenTelemetry JavaScript Client
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 
@@ -29,11 +29,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 - [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) 11⭐
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) 829⭐
 - [radius-project/radius](https://github.com/radius-project/radius) 1431⭐
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16809⭐
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16812⭐
 - [shelmangroup/envoy-oidc-authserver](https://github.com/shelmangroup/envoy-oidc-authserver) 7⭐
 - [projectcontour/contour](https://github.com/projectcontour/contour) 3670⭐
 - [k0sproject/bootloose](https://github.com/k0sproject/bootloose) 22⭐
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) 3168⭐
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) 3172⭐
 
 
 
