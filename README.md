@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.9](https://github.com/renovatebot/renovate/releases/tag/38.18.9), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-08-01](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-08-01), 2 days ago) - All Backstage plugins created by Roadie.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.105.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.105.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
-- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.11.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.11.1), 4 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.12](https://github.com/renovatebot/renovate/releases/tag/38.18.12), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-08-01](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-08-01), 3 days ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.105.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.105.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.11.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.11.1), 5 days ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-37.440.7](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.440.7), 1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.104.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.104.0), 1 month ago)
@@ -24,14 +24,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 16455⭐
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 16520⭐
 - [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) 114⭐
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) 1523⭐
-- [curl/trurl](https://github.com/curl/trurl) 3037⭐
+- [curl/trurl](https://github.com/curl/trurl) 3036⭐
 - [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) 11⭐
-- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) 837⭐
-- [radius-project/radius](https://github.com/radius-project/radius) 1437⭐
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16960⭐
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) 838⭐
+- [radius-project/radius](https://github.com/radius-project/radius) 1438⭐
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 16964⭐
 - [shelmangroup/envoy-oidc-authserver](https://github.com/shelmangroup/envoy-oidc-authserver) 7⭐
 - [projectcontour/contour](https://github.com/projectcontour/contour) 3685⭐
 
