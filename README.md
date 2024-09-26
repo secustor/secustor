@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-09-24](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-09-24), 1 day ago) - All Backstage plugins created by Roadie.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.32.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-38.94.3](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.94.3), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.94.3](https://github.com/renovatebot/renovate/releases/tag/38.94.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.109.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.109.0), 4 days ago) - Kubernetes Operator for OpenTelemetry Collector
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-38.95.4](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.95.4), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.95.4](https://github.com/renovatebot/renovate/releases/tag/38.95.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-09-24](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-09-24), 2 days ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.32.0-next.0), 2 days ago) - Backstage is an open framework for building developer portals
+- [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.109.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.109.0), 5 days ago) - Kubernetes Operator for OpenTelemetry Collector
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.108.1](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.108.1), 2 weeks ago)
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([semconv/v1.27.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/semconv/v1.27.0), 4 weeks ago) - OpenTelemetry JavaScript Client
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ([1.11.1](https://github.com/open-telemetry/opentelemetry-demo/releases/tag/1.11.1), 1 month ago) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
@@ -24,16 +24,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
+- [guacsec/guac](https://github.com/guacsec/guac) 1261⭐
 - [Uberspace/manual](https://github.com/Uberspace/manual) 51⭐
-- [perses/perses](https://github.com/perses/perses) 770⭐
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 17868⭐
-- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) 203⭐
+- [perses/perses](https://github.com/perses/perses) 775⭐
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 17876⭐
+- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) 204⭐
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) 1563⭐
-- [curl/trurl](https://github.com/curl/trurl) 3157⭐
+- [curl/trurl](https://github.com/curl/trurl) 3158⭐
 - [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) 12⭐
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) 861⭐
 - [radius-project/radius](https://github.com/radius-project/radius) 1456⭐
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) 17237⭐
 
 
 
