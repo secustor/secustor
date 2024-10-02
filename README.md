@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.105.1](https://github.com/renovatebot/renovate/releases/tag/38.105.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-38.105.0](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.105.0), 1 day ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.2](https://github.com/backstage/backstage/releases/tag/v1.31.2), 4 days ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-09-26.1](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-09-26.1), 5 days ago) - All Backstage plugins created by Roadie.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-38.106.3](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.106.3), today)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.106.3](https://github.com/renovatebot/renovate/releases/tag/38.106.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.32.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-09-26.1](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-09-26.1), 6 days ago) - All Backstage plugins created by Roadie.
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) ([v0.109.0](https://github.com/open-telemetry/opentelemetry-operator/releases/tag/v0.109.0), 1 week ago) - Kubernetes Operator for OpenTelemetry Collector
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.108.1](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.108.1), 3 weeks ago)
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([semconv/v1.27.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/semconv/v1.27.0), 1 month ago) - OpenTelemetry JavaScript Client
@@ -24,14 +24,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2082⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2083⭐
 - [aboutcode-org/dejacode](https://github.com/aboutcode-org/dejacode) 22⭐
-- [guacsec/guac](https://github.com/guacsec/guac) 1261⭐
+- [guacsec/guac](https://github.com/guacsec/guac) 1262⭐
 - [Uberspace/manual](https://github.com/Uberspace/manual) 51⭐
-- [perses/perses](https://github.com/perses/perses) 793⭐
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 17922⭐
+- [perses/perses](https://github.com/perses/perses) 795⭐
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) 17925⭐
 - [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) 204⭐
-- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) 1569⭐
+- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) 1572⭐
 - [curl/trurl](https://github.com/curl/trurl) 3163⭐
 - [mscharley/dependency-changesets-action](https://github.com/mscharley/dependency-changesets-action) 12⭐
 
