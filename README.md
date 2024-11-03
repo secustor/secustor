@@ -12,20 +12,20 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-38.142.2](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.142.2), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.142.2](https://github.com/renovatebot/renovate/releases/tag/38.142.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.5](https://github.com/backstage/backstage/releases/tag/v1.32.5), 2 days ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-10-30](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-10-30), 3 days ago) - All Backstage plugins created by Roadie.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) ([renovate-38.142.3](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.142.3), 1 day ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.142.3](https://github.com/renovatebot/renovate/releases/tag/38.142.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.5](https://github.com/backstage/backstage/releases/tag/v1.32.5), 3 days ago) - Backstage is an open framework for building developer portals
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-10-30](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-10-30), 4 days ago) - All Backstage plugins created by Roadie.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.54.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.54.0), 1 week ago) - OpenTelemetry JavaScript Client
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.108.1](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.108.1), 1 month ago)
 
 #### ⭐ Latest projects I've starred
 
-- [dubinc/dub](https://github.com/dubinc/dub) 18669⭐
-- [raycast/extensions](https://github.com/raycast/extensions) 5343⭐
+- [dubinc/dub](https://github.com/dubinc/dub) 18679⭐
+- [raycast/extensions](https://github.com/raycast/extensions) 5347⭐
 - [apocas/dockerode](https://github.com/apocas/dockerode) 4371⭐
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) 1448⭐
-- [bloomberg/stricli](https://github.com/bloomberg/stricli) 654⭐
+- [bloomberg/stricli](https://github.com/bloomberg/stricli) 658⭐
 - [NodeSecure/ossf-scorecard-sdk](https://github.com/NodeSecure/ossf-scorecard-sdk) 6⭐
 - [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) 17⭐
 - [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2118⭐
