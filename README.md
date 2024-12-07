@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.51.0](https://github.com/renovatebot/renovate/releases/tag/39.51.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.56.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.56.0), 2 days ago) - OpenTelemetry JavaScript Client
-- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.115.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.115.0), 2 days ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.34.0-next.1), 3 days ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-11-29.1](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-11-29.1), 1 week ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.56.2](https://github.com/renovatebot/renovate/releases/tag/39.56.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-12-06](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-12-06), 1 day ago) - All Backstage plugins created by Roadie.
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.56.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.56.0), 3 days ago) - OpenTelemetry JavaScript Client
+- [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.115.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.115.0), 3 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.34.0-next.1), 4 days ago) - Backstage is an open framework for building developer portals
 
 #### ⭐ Latest projects I've starred
 
 - [grafana/backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) 10⭐
 - [procore-oss/backstage-plugin-announcements](https://github.com/procore-oss/backstage-plugin-announcements) 29⭐
-- [dubinc/dub](https://github.com/dubinc/dub) 19050⭐
-- [raycast/extensions](https://github.com/raycast/extensions) 5449⭐
+- [dubinc/dub](https://github.com/dubinc/dub) 19069⭐
+- [raycast/extensions](https://github.com/raycast/extensions) 5453⭐
 - [apocas/dockerode](https://github.com/apocas/dockerode) 4392⭐
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) 1476⭐
 - [bloomberg/stricli](https://github.com/bloomberg/stricli) 689⭐
 - [NodeSecure/ossf-scorecard-sdk](https://github.com/NodeSecure/ossf-scorecard-sdk) 6⭐
 - [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) 19⭐
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2148⭐
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) 2149⭐
 
 
 
