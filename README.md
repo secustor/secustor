@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.82.1](https://github.com/renovatebot/renovate/releases/tag/39.82.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.1](https://github.com/backstage/backstage/releases/tag/v1.34.1), 3 days ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-12-19.2](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-12-19.2), 4 days ago) - All Backstage plugins created by Roadie.
-- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.57.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.57.0), 5 days ago) - OpenTelemetry JavaScript Client
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.82.3](https://github.com/renovatebot/renovate/releases/tag/39.82.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-12-23](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-12-23), 1 day ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.34.1](https://github.com/backstage/backstage/releases/tag/v1.34.1), 4 days ago) - Backstage is an open framework for building developer portals
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.57.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.57.0), 6 days ago) - OpenTelemetry JavaScript Client
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.115.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.115.0), 2 weeks ago)
 
 #### ⭐ Latest projects I've starred
 
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 9208⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 26298⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 371⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 9329⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 26767⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 385⭐
 - [grafana/backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) 11⭐
 - [procore-oss/backstage-plugin-announcements](https://github.com/procore-oss/backstage-plugin-announcements) 29⭐
-- [dubinc/dub](https://github.com/dubinc/dub) 19289⭐
-- [raycast/extensions](https://github.com/raycast/extensions) 5493⭐
-- [apocas/dockerode](https://github.com/apocas/dockerode) 4413⭐
-- [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) 1490⭐
-- [bloomberg/stricli](https://github.com/bloomberg/stricli) 699⭐
+- [dubinc/dub](https://github.com/dubinc/dub) 19317⭐
+- [raycast/extensions](https://github.com/raycast/extensions) 5495⭐
+- [apocas/dockerode](https://github.com/apocas/dockerode) 4414⭐
+- [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) 1491⭐
+- [bloomberg/stricli](https://github.com/bloomberg/stricli) 701⭐
 
 
 
