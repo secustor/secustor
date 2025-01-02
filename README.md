@@ -12,21 +12,21 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.86.4](https://github.com/renovatebot/renovate/releases/tag/39.86.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-12-30](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-12-30), 2 days ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.87.0](https://github.com/renovatebot/renovate/releases/tag/39.87.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.1), 2 days ago) - Backstage is an open framework for building developer portals
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-12-30](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-12-30), 3 days ago) - All Backstage plugins created by Roadie.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.57.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.57.0), 2 weeks ago) - OpenTelemetry JavaScript Client
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.115.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.115.0), 4 weeks ago)
 
 #### ⭐ Latest projects I've starred
 
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 9996⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 29644⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 425⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10016⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 29896⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 428⭐
 - [grafana/backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) 11⭐
 - [procore-oss/backstage-plugin-announcements](https://github.com/procore-oss/backstage-plugin-announcements) 29⭐
-- [dubinc/dub](https://github.com/dubinc/dub) 19423⭐
-- [raycast/extensions](https://github.com/raycast/extensions) 5510⭐
+- [dubinc/dub](https://github.com/dubinc/dub) 19431⭐
+- [raycast/extensions](https://github.com/raycast/extensions) 5512⭐
 - [apocas/dockerode](https://github.com/apocas/dockerode) 4426⭐
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) 1494⭐
 - [bloomberg/stricli](https://github.com/bloomberg/stricli) 701⭐
