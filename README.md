@@ -12,23 +12,23 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.93.0](https://github.com/renovatebot/renovate/releases/tag/39.93.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.96.2](https://github.com/renovatebot/renovate/releases/tag/39.96.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.35.0-next.2), 2 days ago) - Backstage is an open framework for building developer portals
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2024-12-30](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2024-12-30), 1 week ago) - All Backstage plugins created by Roadie.
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) ([experimental/v0.57.0](https://github.com/open-telemetry/opentelemetry-js/releases/tag/experimental/v0.57.0), 3 weeks ago) - OpenTelemetry JavaScript Client
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.115.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.115.0), 1 month ago)
 
 #### ⭐ Latest projects I've starred
 
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21103⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27425⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10164⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 32814⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 441⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21116⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27428⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10175⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 33103⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 444⭐
 - [grafana/backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) 11⭐
 - [procore-oss/backstage-plugin-announcements](https://github.com/procore-oss/backstage-plugin-announcements) 29⭐
-- [dubinc/dub](https://github.com/dubinc/dub) 19507⭐
-- [raycast/extensions](https://github.com/raycast/extensions) 5536⭐
+- [dubinc/dub](https://github.com/dubinc/dub) 19521⭐
+- [raycast/extensions](https://github.com/raycast/extensions) 5544⭐
 - [apocas/dockerode](https://github.com/apocas/dockerode) 4429⭐
 
 
