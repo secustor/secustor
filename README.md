@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.116.0](https://github.com/renovatebot/renovate/releases/tag/39.116.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.2.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.2.0), 2 days ago) - Contains Helm charts maintained by myself
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-01-16](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-01-16), 3 days ago) - All Backstage plugins created by Roadie.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0](https://github.com/backstage/backstage/releases/tag/v1.35.0), 5 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.117.2](https://github.com/renovatebot/renovate/releases/tag/39.117.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.2.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.2.0), 3 days ago) - Contains Helm charts maintained by myself
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-01-16](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-01-16), 4 days ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.0](https://github.com/backstage/backstage/releases/tag/v1.35.0), 6 days ago) - Backstage is an open framework for building developer portals
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.21.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.21.0), 1 month ago) - A bootstrapping and management tool for k0s clusters.
 - [jpkrohling/otelcol-distributions](https://github.com/jpkrohling/otelcol-distributions) ([v0.115.0](https://github.com/jpkrohling/otelcol-distributions/releases/tag/v0.115.0), 1 month ago)
 
 #### ⭐ Latest projects I've starred
 
-- [restic/restic](https://github.com/restic/restic) 27295⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2123⭐
+- [restic/restic](https://github.com/restic/restic) 27302⭐
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1668⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21278⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27473⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10417⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34551⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 577⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21291⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27476⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10427⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 34739⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 590⭐
 - [grafana/backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) 11⭐
 - [procore-oss/backstage-plugin-announcements](https://github.com/procore-oss/backstage-plugin-announcements) 29⭐
-- [dubinc/dub](https://github.com/dubinc/dub) 19686⭐
 
 
 
