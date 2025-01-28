@@ -12,23 +12,23 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.134.0](https://github.com/renovatebot/renovate/releases/tag/39.134.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.2.3](https://github.com/secustor/helm-charts/releases/tag/immich-0.2.3), 1 day ago) - Contains Helm charts maintained by myself
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 5 days ago) - A bootstrapping and management tool for k0s clusters.
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-01-22](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-01-22), 5 days ago) - All Backstage plugins created by Roadie.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.0), 6 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.137.1](https://github.com/renovatebot/renovate/releases/tag/39.137.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-01-27](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-01-27), 1 day ago) - All Backstage plugins created by Roadie.
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.2.3](https://github.com/secustor/helm-charts/releases/tag/immich-0.2.3), 2 days ago) - Contains Helm charts maintained by myself
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 6 days ago) - A bootstrapping and management tool for k0s clusters.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.0), 1 week ago) - Backstage is an open framework for building developer portals
 
 #### ⭐ Latest projects I've starred
 
-- [immich-app/immich](https://github.com/immich-app/immich) 57075⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2133⭐
-- [restic/restic](https://github.com/restic/restic) 27415⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1674⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21452⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27499⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10494⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35714⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 627⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 57147⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2135⭐
+- [restic/restic](https://github.com/restic/restic) 27423⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1678⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21463⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27509⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10501⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 35748⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 740⭐
 - [grafana/backstage-plugin-grafana-catalog](https://github.com/grafana/backstage-plugin-grafana-catalog) 11⭐
 
 
