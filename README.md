@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.158.1](https://github.com/renovatebot/renovate/releases/tag/39.158.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.2.5](https://github.com/secustor/helm-charts/releases/tag/immich-0.2.5), 6 days ago) - Contains Helm charts maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.35.1](https://github.com/backstage/backstage/releases/tag/v1.35.1), 6 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.160.1](https://github.com/renovatebot/renovate/releases/tag/39.160.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.2.5](https://github.com/secustor/helm-charts/releases/tag/immich-0.2.5), 1 week ago) - Contains Helm charts maintained by myself
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-01-27](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-01-27), 1 week ago) - All Backstage plugins created by Roadie.
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 1 week ago) - A bootstrapping and management tool for k0s clusters.
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 2 weeks ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [bitfield/script](https://github.com/bitfield/script) 6296⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 57528⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2153⭐
-- [restic/restic](https://github.com/restic/restic) 27503⭐
+- [bitfield/script](https://github.com/bitfield/script) 6314⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 57573⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2157⭐
+- [restic/restic](https://github.com/restic/restic) 27513⭐
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1693⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21738⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27552⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10559⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36089⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1130⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21774⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27557⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10567⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 36139⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1207⭐
 
 
 
