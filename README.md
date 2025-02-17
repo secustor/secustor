@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.170.3](https://github.com/renovatebot/renovate/releases/tag/39.170.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.0), 1 day ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.3), 5 days ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.3.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.3.0), 6 days ago) - Contains Helm charts maintained by myself
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-01-27](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-01-27), 2 weeks ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.171.2](https://github.com/renovatebot/renovate/releases/tag/39.171.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.0), 2 days ago) - contains backstage plugins written and maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.3), 6 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.3.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.3.0), 1 week ago) - Contains Helm charts maintained by myself
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-01-27](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-01-27), 3 weeks ago) - All Backstage plugins created by Roadie.
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 3 weeks ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [bitfield/script](https://github.com/bitfield/script) 6386⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 58248⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2178⭐
-- [restic/restic](https://github.com/restic/restic) 27630⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1714⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 21995⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27616⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10692⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37218⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1859⭐
+- [bitfield/script](https://github.com/bitfield/script) 6390⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 58317⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2181⭐
+- [restic/restic](https://github.com/restic/restic) 27636⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1717⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22018⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27625⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10701⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37452⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1869⭐
 
 
 
