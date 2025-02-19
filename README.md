@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.172.1](https://github.com/renovatebot/renovate/releases/tag/39.172.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-02-17](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-02-17), 1 day ago) - All Backstage plugins created by Roadie.
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.0), 3 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.36.0-next.3), 1 week ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.175.1](https://github.com/renovatebot/renovate/releases/tag/39.175.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.0](https://github.com/backstage/backstage/releases/tag/v1.36.0), 1 day ago) - Backstage is an open framework for building developer portals
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-02-17](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-02-17), 2 days ago) - All Backstage plugins created by Roadie.
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.0), 4 days ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.3.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.3.0), 1 week ago) - Contains Helm charts maintained by myself
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 3 weeks ago) - A bootstrapping and management tool for k0s clusters.
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 4 weeks ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [bitfield/script](https://github.com/bitfield/script) 6392⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 58386⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2184⭐
-- [restic/restic](https://github.com/restic/restic) 27644⭐
+- [bitfield/script](https://github.com/bitfield/script) 6394⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 58458⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2188⭐
+- [restic/restic](https://github.com/restic/restic) 27654⭐
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1718⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22038⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27632⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10709⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37837⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1885⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22055⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27641⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10725⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 37950⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1902⭐
 
 
 
