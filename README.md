@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.0.0-next.8](https://github.com/renovatebot/renovate/releases/tag/40.0.0-next.8), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-common@0.8.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-common%400.8.1), 2 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.36.1](https://github.com/backstage/backstage/releases/tag/v1.36.1), 4 days ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-02-21](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-02-21), 4 days ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-02-25](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-02-25), 1 day ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.180.2](https://github.com/renovatebot/renovate/releases/tag/39.180.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-common@0.8.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-common%400.8.1), 3 days ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.3.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.3.0), 2 weeks ago) - Contains Helm charts maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.22.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.22.0), 1 month ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [bitfield/script](https://github.com/bitfield/script) 6422⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 58823⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2202⭐
-- [restic/restic](https://github.com/restic/restic) 27722⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1727⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22193⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27672⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10787⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 38902⭐
-- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1969⭐
+- [bitfield/script](https://github.com/bitfield/script) 6423⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 58883⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2207⭐
+- [restic/restic](https://github.com/restic/restic) 27734⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1729⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22213⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27679⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10795⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39018⭐
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) 1978⭐
 
 
 
