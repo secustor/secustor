@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.0), 2 days ago) - Contains Helm charts maintained by myself
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.185.0](https://github.com/renovatebot/renovate/releases/tag/39.185.0), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 3 days ago) - A bootstrapping and management tool for k0s clusters.
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-02-27](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-02-27), 3 days ago) - All Backstage plugins created by Roadie.
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.15.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.15.3), 3 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.0), 5 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.0), 3 days ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.185.0](https://github.com/renovatebot/renovate/releases/tag/39.185.0), 3 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 4 days ago) - A bootstrapping and management tool for k0s clusters.
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-02-27](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-02-27), 4 days ago) - All Backstage plugins created by Roadie.
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.15.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.15.3), 4 days ago) - contains backstage plugins written and maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.0), 6 days ago) - Backstage is an open framework for building developer portals
 
 #### ⭐ Latest projects I've starred
 
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 2635⭐
-- [bitfield/script](https://github.com/bitfield/script) 6426⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 59106⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2219⭐
-- [restic/restic](https://github.com/restic/restic) 27781⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1738⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22286⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27699⭐
-- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10822⭐
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39265⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3015⭐
+- [bitfield/script](https://github.com/bitfield/script) 6431⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 59308⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2223⭐
+- [restic/restic](https://github.com/restic/restic) 27789⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1742⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22305⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27703⭐
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook) 10826⭐
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) 39319⭐
 
 
 
