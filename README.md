@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.202.0](https://github.com/renovatebot/renovate/releases/tag/39.202.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@0.6.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%400.6.3), 4 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-11](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-11), 4 days ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.203.0](https://github.com/renovatebot/renovate/releases/tag/39.203.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@0.6.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%400.6.3), 5 days ago) - contains backstage plugins written and maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.37.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-11](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-11), 5 days ago) - All Backstage plugins created by Roadie.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.1), 1 week ago) - Contains Helm charts maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 2 weeks ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30061⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3078⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3718⭐
-- [bitfield/script](https://github.com/bitfield/script) 6461⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 61250⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2243⭐
-- [restic/restic](https://github.com/restic/restic) 27899⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1761⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22470⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27805⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30084⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3081⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3737⭐
+- [bitfield/script](https://github.com/bitfield/script) 6463⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 61329⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2244⭐
+- [restic/restic](https://github.com/restic/restic) 27919⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1763⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22480⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27818⭐
 
 
 
