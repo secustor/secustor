@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-20.5](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-20.5), 1 day ago) - All Backstage plugins created by Roadie.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.210.0](https://github.com/renovatebot/renovate/releases/tag/39.210.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0](https://github.com/backstage/backstage/releases/tag/v1.37.0), 3 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@0.6.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%400.6.3), 1 week ago) - contains backstage plugins written and maintained by myself
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.1), 1 week ago) - Contains Helm charts maintained by myself
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.2.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.2.1), 1 day ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.211.0](https://github.com/renovatebot/renovate/releases/tag/39.211.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-21](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-21), 1 day ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.0](https://github.com/backstage/backstage/releases/tag/v1.37.0), 4 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.1), 2 weeks ago) - Contains Helm charts maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 3 weeks ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30211⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3096⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3806⭐
-- [bitfield/script](https://github.com/bitfield/script) 6495⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 61752⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2254⭐
-- [restic/restic](https://github.com/restic/restic) 27954⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1769⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22618⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30222⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3127⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3820⭐
+- [bitfield/script](https://github.com/bitfield/script) 6500⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 61832⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2259⭐
+- [restic/restic](https://github.com/restic/restic) 27959⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1771⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22646⭐
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27861⭐
 
 
