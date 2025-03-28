@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.218.1](https://github.com/renovatebot/renovate/releases/tag/39.218.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-26](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-26), 1 day ago) - All Backstage plugins created by Roadie.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.2](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.2), 2 days ago) - Contains Helm charts maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 2 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.2.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.2.1), 6 days ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.219.2](https://github.com/renovatebot/renovate/releases/tag/39.219.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.3](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.3), 1 day ago) - Contains Helm charts maintained by myself
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-26](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-26), 2 days ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 3 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.2.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.2.1), 1 week ago) - contains backstage plugins written and maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 4 weeks ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30301⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3161⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3886⭐
-- [bitfield/script](https://github.com/bitfield/script) 6511⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 62251⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2274⭐
-- [restic/restic](https://github.com/restic/restic) 28021⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30316⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3167⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3895⭐
+- [bitfield/script](https://github.com/bitfield/script) 6514⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 62324⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2277⭐
+- [restic/restic](https://github.com/restic/restic) 28027⭐
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1779⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22757⭐
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27888⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22768⭐
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27890⭐
 
 
 
