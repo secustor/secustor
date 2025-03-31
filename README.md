@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.220.4](https://github.com/renovatebot/renovate/releases/tag/39.220.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.4), 2 days ago) - Contains Helm charts maintained by myself
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-26](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-26), 4 days ago) - All Backstage plugins created by Roadie.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 5 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.222.1](https://github.com/renovatebot/renovate/releases/tag/39.222.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.4), 3 days ago) - Contains Helm charts maintained by myself
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-03-26](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-03-26), 5 days ago) - All Backstage plugins created by Roadie.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.0), 6 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.2.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.2.1), 1 week ago) - contains backstage plugins written and maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 1 month ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30355⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3173⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3906⭐
-- [bitfield/script](https://github.com/bitfield/script) 6514⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 62467⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30369⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3175⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3915⭐
+- [bitfield/script](https://github.com/bitfield/script) 6515⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 62548⭐
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2280⭐
-- [restic/restic](https://github.com/restic/restic) 28046⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1780⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22791⭐
+- [restic/restic](https://github.com/restic/restic) 28063⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1783⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22808⭐
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) 27898⭐
 
 
