@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.233.0](https://github.com/renovatebot/renovate/releases/tag/39.233.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.1](https://github.com/backstage/backstage/releases/tag/v1.37.1), 1 day ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.3), 2 days ago) - contains backstage plugins written and maintained by myself
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.7), 2 days ago) - Contains Helm charts maintained by myself
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-04-01](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-04-01), 3 days ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.233.3](https://github.com/renovatebot/renovate/releases/tag/39.233.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.1](https://github.com/backstage/backstage/releases/tag/v1.37.1), 2 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.3), 3 days ago) - contains backstage plugins written and maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.7), 3 days ago) - Contains Helm charts maintained by myself
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-04-01](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-04-01), 4 days ago) - All Backstage plugins created by Roadie.
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 1 month ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 157⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30454⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3189⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3929⭐
-- [bitfield/script](https://github.com/bitfield/script) 6520⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 62822⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 159⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30478⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3192⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 3985⭐
+- [bitfield/script](https://github.com/bitfield/script) 6521⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 62889⭐
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2290⭐
-- [restic/restic](https://github.com/restic/restic) 28120⭐
-- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1790⭐
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22874⭐
+- [restic/restic](https://github.com/restic/restic) 28132⭐
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) 1792⭐
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) 22886⭐
 
 
 
