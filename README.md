@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.233.4](https://github.com/renovatebot/renovate/releases/tag/39.233.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.1](https://github.com/backstage/backstage/releases/tag/v1.37.1), 3 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.3), 4 days ago) - contains backstage plugins written and maintained by myself
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.7), 4 days ago) - Contains Helm charts maintained by myself
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-04-01](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-04-01), 5 days ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.233.5](https://github.com/renovatebot/renovate/releases/tag/39.233.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.37.1](https://github.com/backstage/backstage/releases/tag/v1.37.1), 4 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.3), 5 days ago) - contains backstage plugins written and maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.7), 5 days ago) - Contains Helm charts maintained by myself
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-04-01](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-04-01), 6 days ago) - All Backstage plugins created by Roadie.
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 1 month ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 2106⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 2231⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 159⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30492⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3192⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4013⭐
-- [bitfield/script](https://github.com/bitfield/script) 6522⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 62949⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2293⭐
-- [restic/restic](https://github.com/restic/restic) 28145⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 3964⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 2351⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 160⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30519⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3195⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4022⭐
+- [bitfield/script](https://github.com/bitfield/script) 6523⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 63017⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2295⭐
+- [restic/restic](https://github.com/restic/restic) 28149⭐
 
 
 
