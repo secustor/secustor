@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.0.0-next.33](https://github.com/renovatebot/renovate/releases/tag/40.0.0-next.33), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
-- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-04-08.1](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-04-08.1), 3 days ago) - All Backstage plugins created by Roadie.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.239.0](https://github.com/renovatebot/renovate/releases/tag/39.239.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.38.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.38.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-04-08.1](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-04-08.1), 4 days ago) - All Backstage plugins created by Roadie.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-node@0.5.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-node%400.5.3), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.7), 1 week ago) - Contains Helm charts maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.23.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.23.0), 1 month ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 10549⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 2874⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 167⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30610⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3206⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4054⭐
-- [bitfield/script](https://github.com/bitfield/script) 6525⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 63314⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2299⭐
-- [restic/restic](https://github.com/restic/restic) 28197⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 10762⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 2978⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 168⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30631⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3208⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4056⭐
+- [bitfield/script](https://github.com/bitfield/script) 6524⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 63387⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2301⭐
+- [restic/restic](https://github.com/restic/restic) 28211⭐
 
 
 
