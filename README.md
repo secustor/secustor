@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.258.1](https://github.com/renovatebot/renovate/releases/tag/39.258.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.19.6](https://github.com/k0sproject/k0sctl/releases/tag/v0.19.6), 2 days ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.9](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.9), 2 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.132.1](https://github.com/immich-app/immich/releases/tag/v1.132.1), 3 days ago) - High performance self-hosted photo and video management solution.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.0), 4 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.259.0](https://github.com/renovatebot/renovate/releases/tag/39.259.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.19.6](https://github.com/k0sproject/k0sctl/releases/tag/v0.19.6), 3 days ago) - A bootstrapping and management tool for k0s clusters.
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.9](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.9), 3 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.132.1](https://github.com/immich-app/immich/releases/tag/v1.132.1), 4 days ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.0), 5 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.2.2](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.2.2), 1 week ago) - contains backstage plugins written and maintained by myself
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) ([release-2025-04-08.1](https://github.com/RoadieHQ/roadie-backstage-plugins/releases/tag/release-2025-04-08.1), 2 weeks ago) - All Backstage plugins created by Roadie.
 
 #### ⭐ Latest projects I've starred
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 12336⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4015⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 12422⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4065⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 181⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30934⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3248⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4100⭐
-- [bitfield/script](https://github.com/bitfield/script) 6545⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 64383⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2324⭐
-- [restic/restic](https://github.com/restic/restic) 28384⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 30979⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3251⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4105⭐
+- [bitfield/script](https://github.com/bitfield/script) 6546⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 64444⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2326⭐
+- [restic/restic](https://github.com/restic/restic) 28396⭐
 
 
 
