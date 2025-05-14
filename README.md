@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.11.8](https://github.com/renovatebot/renovate/releases/tag/40.11.8), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 day ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.0), 2 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.2), 1 week ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.11.13](https://github.com/renovatebot/renovate/releases/tag/40.11.13), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.3), 1 day ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.24.0-beta.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.24.0-beta.1), 1 day ago) - A bootstrapping and management tool for k0s clusters.
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.0), 3 days ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.10](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.10), 2 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.132.3](https://github.com/immich-app/immich/releases/tag/v1.132.3), 2 weeks ago) - High performance self-hosted photo and video management solution.
 
 #### ⭐ Latest projects I've starred
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 13426⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4771⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 189⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31447⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3303⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4146⭐
-- [bitfield/script](https://github.com/bitfield/script) 6560⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 65714⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2354⭐
-- [restic/restic](https://github.com/restic/restic) 28574⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 13515⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4810⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 190⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31468⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3310⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4149⭐
+- [bitfield/script](https://github.com/bitfield/script) 6561⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 65776⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2356⭐
+- [restic/restic](https://github.com/restic/restic) 28588⭐
 
 
 
