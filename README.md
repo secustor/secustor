@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.13.0](https://github.com/renovatebot/renovate/releases/tag/40.13.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 3 days ago) - A bootstrapping and management tool for k0s clusters.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.3), 4 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.0), 6 days ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.14.3](https://github.com/renovatebot/renovate/releases/tag/40.14.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 4 days ago) - A bootstrapping and management tool for k0s clusters.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.3), 5 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.0), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.10](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.10), 2 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.132.3](https://github.com/immich-app/immich/releases/tag/v1.132.3), 2 weeks ago) - High performance self-hosted photo and video management solution.
 
 #### ⭐ Latest projects I've starred
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 13718⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4905⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 13763⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4919⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 191⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31540⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3319⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4160⭐
-- [bitfield/script](https://github.com/bitfield/script) 6576⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 65922⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2363⭐
-- [restic/restic](https://github.com/restic/restic) 28620⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31562⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3323⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4161⭐
+- [bitfield/script](https://github.com/bitfield/script) 6579⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 65964⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2364⭐
+- [restic/restic](https://github.com/restic/restic) 28628⭐
 
 
 
