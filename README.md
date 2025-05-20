@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.14.6](https://github.com/renovatebot/renovate/releases/tag/40.14.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 5 days ago) - A bootstrapping and management tool for k0s clusters.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.3), 6 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.18.1](https://github.com/renovatebot/renovate/releases/tag/40.18.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 day ago) - A bootstrapping and management tool for k0s clusters.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.39.0-next.3), 1 week ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.0), 1 week ago) - contains backstage plugins written and maintained by myself
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.10](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.10), 2 weeks ago) - Contains Helm charts maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.5.10](https://github.com/secustor/helm-charts/releases/tag/immich-0.5.10), 3 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.132.3](https://github.com/immich-app/immich/releases/tag/v1.132.3), 3 weeks ago) - High performance self-hosted photo and video management solution.
 
 #### ⭐ Latest projects I've starred
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 13816⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4937⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 13895⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 4972⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 191⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31575⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3326⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4162⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31589⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3327⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4168⭐
 - [bitfield/script](https://github.com/bitfield/script) 6580⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 66024⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2366⭐
-- [restic/restic](https://github.com/restic/restic) 28641⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 66096⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2369⭐
+- [restic/restic](https://github.com/restic/restic) 28649⭐
 
 
 
