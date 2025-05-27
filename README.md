@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.0), 1 day ago) - Contains Helm charts maintained by myself
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.31.0](https://github.com/renovatebot/renovate/releases/tag/40.31.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.133.1](https://github.com/immich-app/immich/releases/tag/v1.133.1), 3 days ago) - High performance self-hosted photo and video management solution.
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-common@0.9.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-common%400.9.1), 5 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0](https://github.com/backstage/backstage/releases/tag/v1.39.0), 6 days ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.24.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.24.0), 6 days ago) - A bootstrapping and management tool for k0s clusters.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.32.6](https://github.com/renovatebot/renovate/releases/tag/40.32.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.0), 2 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.133.1](https://github.com/immich-app/immich/releases/tag/v1.133.1), 4 days ago) - High performance self-hosted photo and video management solution.
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-common@0.9.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-common%400.9.1), 6 days ago) - contains backstage plugins written and maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.0](https://github.com/backstage/backstage/releases/tag/v1.39.0), 1 week ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.24.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.24.0), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 14267⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5158⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 14345⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5202⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 196⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31711⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3339⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4174⭐
-- [bitfield/script](https://github.com/bitfield/script) 6590⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 66594⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31729⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3343⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4176⭐
+- [bitfield/script](https://github.com/bitfield/script) 6591⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 66681⭐
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2383⭐
-- [restic/restic](https://github.com/restic/restic) 28708⭐
+- [restic/restic](https://github.com/restic/restic) 28716⭐
 
 
 
