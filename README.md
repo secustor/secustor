@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.37.1](https://github.com/renovatebot/renovate/releases/tag/40.37.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.1), 6 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.134.0](https://github.com/immich-app/immich/releases/tag/v1.134.0), 6 days ago) - High performance self-hosted photo and video management solution.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.40.0-next.0), 6 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.39.2](https://github.com/renovatebot/renovate/releases/tag/40.39.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.1), 1 week ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.134.0](https://github.com/immich-app/immich/releases/tag/v1.134.0), 1 week ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.40.0-next.0), 1 week ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-common@0.9.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-common%400.9.1), 1 week ago) - contains backstage plugins written and maintained by myself
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.24.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.24.0), 1 week ago) - A bootstrapping and management tool for k0s clusters.
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.24.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.24.0), 2 weeks ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14682⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 14746⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5361⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 202⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31848⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3352⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4187⭐
-- [bitfield/script](https://github.com/bitfield/script) 6702⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 67169⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2393⭐
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14692⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 14818⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5385⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 205⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31854⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3353⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4188⭐
+- [bitfield/script](https://github.com/bitfield/script) 6705⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 67260⭐
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2399⭐
 
 
 
