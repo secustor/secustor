@@ -12,8 +12,8 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.40.2](https://github.com/renovatebot/renovate/releases/tag/40.40.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.40.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.41.3](https://github.com/renovatebot/renovate/releases/tag/40.41.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.1](https://github.com/backstage/backstage/releases/tag/v1.39.1), 1 day ago) - Backstage is an open framework for building developer portals
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 day ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.1), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.134.0](https://github.com/immich-app/immich/releases/tag/v1.134.0), 1 week ago) - High performance self-hosted photo and video management solution.
@@ -21,16 +21,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14700⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 14889⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5415⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 206⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31879⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3356⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4190⭐
-- [bitfield/script](https://github.com/bitfield/script) 6708⭐
-- [immich-app/immich](https://github.com/immich-app/immich) 67347⭐
-- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) 2399⭐
+- [cli/cli](https://github.com/cli/cli) 39324⭐
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14704⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 14952⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5456⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 207⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31907⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3358⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4191⭐
+- [bitfield/script](https://github.com/bitfield/script) 6710⭐
+- [immich-app/immich](https://github.com/immich-app/immich) 67419⭐
 
 
 
