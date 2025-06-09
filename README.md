@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.48.1](https://github.com/renovatebot/renovate/releases/tag/40.48.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.25.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.25.1), 2 days ago) - A bootstrapping and management tool for k0s clusters.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.1](https://github.com/backstage/backstage/releases/tag/v1.39.1), 4 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.48.4](https://github.com/renovatebot/renovate/releases/tag/40.48.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.25.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.25.1), 3 days ago) - A bootstrapping and management tool for k0s clusters.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.39.1](https://github.com/backstage/backstage/releases/tag/v1.39.1), 5 days ago) - Backstage is an open framework for building developer portals
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.1), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.134.0](https://github.com/immich-app/immich/releases/tag/v1.134.0), 1 week ago) - High performance self-hosted photo and video management solution.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-common@0.9.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-common%400.9.1), 2 weeks ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [upstash/context7](https://github.com/upstash/context7) 11419⭐
-- [cli/cli](https://github.com/cli/cli) 39344⭐
+- [upstash/context7](https://github.com/upstash/context7) 11577⭐
+- [cli/cli](https://github.com/cli/cli) 39351⭐
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14713⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 15125⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5579⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 15172⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5595⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 211⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 31983⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32011⭐
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) 3362⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4194⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4198⭐
 - [bitfield/script](https://github.com/bitfield/script) 6713⭐
 
 
