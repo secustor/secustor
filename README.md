@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.49.12](https://github.com/renovatebot/renovate/releases/tag/40.49.12), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.40.0-next.3), 1 day ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.25.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.25.1), 6 days ago) - A bootstrapping and management tool for k0s clusters.
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-s3@0.1.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-s3%400.1.0), 1 day ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.51.1](https://github.com/renovatebot/renovate/releases/tag/40.51.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.40.0-next.3), 2 days ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.25.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.25.1), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.1), 2 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.134.0](https://github.com/immich-app/immich/releases/tag/v1.134.0), 2 weeks ago) - High performance self-hosted photo and video management solution.
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-common@0.9.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-common%400.9.1), 3 weeks ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 12108⭐
-- [cli/cli](https://github.com/cli/cli) 39384⭐
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14733⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 15341⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5681⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 213⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32106⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3372⭐
+- [upstash/context7](https://github.com/upstash/context7) 12286⭐
+- [cli/cli](https://github.com/cli/cli) 39395⭐
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14738⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 15454⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5712⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 216⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32145⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3373⭐
 - [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4199⭐
 
 
