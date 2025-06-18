@@ -12,9 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.59.2](https://github.com/renovatebot/renovate/releases/tag/40.59.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-s3@0.1.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-s3%400.1.0), 5 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.40.0-next.3), 6 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.60.1](https://github.com/renovatebot/renovate/releases/tag/40.60.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.3), 1 day ago) - contains backstage plugins written and maintained by myself
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-backend@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-backend%400.2.2), 1 day ago) - AWS plugins for Backstage
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0](https://github.com/backstage/backstage/releases/tag/v1.40.0), 1 day ago) - Backstage is an open framework for building developer portals
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.25.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.25.1), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.1), 3 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.134.0](https://github.com/immich-app/immich/releases/tag/v1.134.0), 3 weeks ago) - High performance self-hosted photo and video management solution.
@@ -22,15 +23,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 12894⭐
-- [cli/cli](https://github.com/cli/cli) 39448⭐
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14746⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 15842⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5803⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 217⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32262⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3384⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4205⭐
+- [upstash/context7](https://github.com/upstash/context7) 13069⭐
+- [cli/cli](https://github.com/cli/cli) 39451⭐
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14745⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 15937⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5834⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 219⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32288⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3387⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4206⭐
 
 
 
