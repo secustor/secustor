@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.60.1](https://github.com/renovatebot/renovate/releases/tag/40.60.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.3), 1 day ago) - contains backstage plugins written and maintained by myself
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-backend@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-backend%400.2.2), 1 day ago) - AWS plugins for Backstage
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0](https://github.com/backstage/backstage/releases/tag/v1.40.0), 1 day ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.2](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.2), 1 day ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.135.0](https://github.com/immich-app/immich/releases/tag/v1.135.0), 1 day ago) - High performance self-hosted photo and video management solution.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([40.61.2](https://github.com/renovatebot/renovate/releases/tag/40.61.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.3), 2 days ago) - contains backstage plugins written and maintained by myself
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-backend@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-backend%400.2.2), 2 days ago) - AWS plugins for Backstage
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.0](https://github.com/backstage/backstage/releases/tag/v1.40.0), 2 days ago) - Backstage is an open framework for building developer portals
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.25.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.25.1), 1 week ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.1](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.1), 3 weeks ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.134.0](https://github.com/immich-app/immich/releases/tag/v1.134.0), 3 weeks ago) - High performance self-hosted photo and video management solution.
 
 #### ⭐ Latest projects I've starred
 
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 13069⭐
-- [cli/cli](https://github.com/cli/cli) 39451⭐
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14745⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 15937⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5834⭐
+- [upstash/context7](https://github.com/upstash/context7) 13292⭐
+- [cli/cli](https://github.com/cli/cli) 39466⭐
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14747⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 16007⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5871⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 219⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32288⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3387⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4206⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32319⭐
+- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3389⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4208⭐
 
 
 
