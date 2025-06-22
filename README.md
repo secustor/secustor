@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.6](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.6), 1 day ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.135.3](https://github.com/immich-app/immich/releases/tag/v1.135.3), 1 day ago) - High performance self-hosted photo and video management solution.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.1.3](https://github.com/renovatebot/renovate/releases/tag/41.1.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.1](https://github.com/backstage/backstage/releases/tag/v1.40.1), 2 days ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 2 days ago) - A bootstrapping and management tool for k0s clusters.
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-config-catalog-module-for-backstage@0.1.8](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-config-catalog-module-for-backstage%400.1.8), 2 days ago) - AWS plugins for Backstage
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.3), 4 days ago) - contains backstage plugins written and maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.6](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.6), 2 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.135.3](https://github.com/immich-app/immich/releases/tag/v1.135.3), 2 days ago) - High performance self-hosted photo and video management solution.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.1.3](https://github.com/renovatebot/renovate/releases/tag/41.1.3), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.40.1](https://github.com/backstage/backstage/releases/tag/v1.40.1), 3 days ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 3 days ago) - A bootstrapping and management tool for k0s clusters.
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-config-catalog-module-for-backstage@0.1.8](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-config-catalog-module-for-backstage%400.1.8), 3 days ago) - AWS plugins for Backstage
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.3), 5 days ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 13817⭐
-- [cli/cli](https://github.com/cli/cli) 39484⭐
+- [upstash/context7](https://github.com/upstash/context7) 14007⭐
+- [cli/cli](https://github.com/cli/cli) 39496⭐
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14768⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 16150⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5935⭐
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 220⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32393⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 16199⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 5948⭐
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 221⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32422⭐
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) 3391⭐
-- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4210⭐
+- [electronicarts/CnC_Generals_Zero_Hour](https://github.com/electronicarts/CnC_Generals_Zero_Hour) 4214⭐
 
 
 
