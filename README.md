@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.16.1](https://github.com/renovatebot/renovate/releases/tag/41.16.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.4.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.4.0), 2 days ago) - AWS plugins for Backstage
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 3 days ago) - A bootstrapping and management tool for k0s clusters.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.0), 5 days ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 6 days ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.17.2](https://github.com/renovatebot/renovate/releases/tag/41.17.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.4.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.4.0), 3 days ago) - AWS plugins for Backstage
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 4 days ago) - A bootstrapping and management tool for k0s clusters.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.0), 6 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.135.3](https://github.com/immich-app/immich/releases/tag/v1.135.3), 1 week ago) - High performance self-hosted photo and video management solution.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.3), 1 week ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 40660⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2701⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 43229⭐
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 15836⭐
-- [cli/cli](https://github.com/cli/cli) 39578⭐
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14794⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 16544⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 6098⭐
+- [upstash/context7](https://github.com/upstash/context7) 16031⭐
+- [cli/cli](https://github.com/cli/cli) 39594⭐
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14797⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 16578⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 6111⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 226⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32680⭐
-- [cyanfish/naps2](https://github.com/cyanfish/naps2) 3405⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32703⭐
 
 
 
