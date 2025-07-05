@@ -12,8 +12,8 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.18.1](https://github.com/renovatebot/renovate/releases/tag/41.18.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.1), 3 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.21.0](https://github.com/renovatebot/renovate/releases/tag/41.21.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.1), 4 days ago) - Backstage is an open framework for building developer portals
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.4.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.4.0), 1 week ago) - AWS plugins for Backstage
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 1 week ago) - Contains Helm charts maintained by myself
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [alecthomas/kong](https://github.com/alecthomas/kong) 2705⭐
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 51521⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2707⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 52737⭐
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 17382⭐
-- [cli/cli](https://github.com/cli/cli) 39693⭐
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14804⭐
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) 16792⭐
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 6211⭐
+- [upstash/context7](https://github.com/upstash/context7) 17658⭐
+- [cli/cli](https://github.com/cli/cli) 39710⭐
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14806⭐
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 16835⭐
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 6227⭐
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) 230⭐
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32858⭐
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) 32881⭐
 
 
 
