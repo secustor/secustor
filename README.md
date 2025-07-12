@@ -12,8 +12,8 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.30.3](https://github.com/renovatebot/renovate/releases/tag/41.30.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.31.1](https://github.com/renovatebot/renovate/releases/tag/41.31.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.4.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.4.0), 2 weeks ago) - AWS plugins for Backstage
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 2 weeks ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 2 weeks ago) - Contains Helm charts maintained by myself
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 4940⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25220⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 298⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 18630⭐
-- [alecthomas/kong](https://github.com/alecthomas/kong) 2714⭐
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 57393⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 755⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 5567⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25268⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 305⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 18882⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2715⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 57901⭐
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 19251⭐
-- [cli/cli](https://github.com/cli/cli) 39797⭐
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) 14855⭐
+- [upstash/context7](https://github.com/upstash/context7) 19471⭐
+- [cli/cli](https://github.com/cli/cli) 39809⭐
 
 
 
