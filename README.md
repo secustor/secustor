@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.31.1](https://github.com/renovatebot/renovate/releases/tag/41.31.1), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.32.1](https://github.com/renovatebot/renovate/releases/tag/41.32.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.41.0-next.2), 6 days ago) - Backstage is an open framework for building developer portals
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.4.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.4.0), 2 weeks ago) - AWS plugins for Backstage
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 2 weeks ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 2 weeks ago) - Contains Helm charts maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 3 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.135.3](https://github.com/immich-app/immich/releases/tag/v1.135.3), 3 weeks ago) - High performance self-hosted photo and video management solution.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@1.0.3](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%401.0.3), 3 weeks ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [stravu/crystal](https://github.com/stravu/crystal) 783⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 5963⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25311⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 306⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 19124⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 805⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 6222⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25348⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 307⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 20173⭐
 - [alecthomas/kong](https://github.com/alecthomas/kong) 2717⭐
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 58371⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 58840⭐
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 19621⭐
-- [cli/cli](https://github.com/cli/cli) 39811⭐
+- [upstash/context7](https://github.com/upstash/context7) 19791⭐
+- [cli/cli](https://github.com/cli/cli) 39817⭐
 
 
 
