@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.35.1](https://github.com/renovatebot/renovate/releases/tag/41.35.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.0](https://github.com/backstage/backstage/releases/tag/v1.41.0), 1 day ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.16.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.16.0), 2 days ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.37.7](https://github.com/renovatebot/renovate/releases/tag/41.37.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.1](https://github.com/backstage/backstage/releases/tag/v1.41.1), 1 day ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.16.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.16.0), 3 days ago) - contains backstage plugins written and maintained by myself
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.4.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.4.0), 2 weeks ago) - AWS plugins for Backstage
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 2 weeks ago) - A bootstrapping and management tool for k0s clusters.
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 3 weeks ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 3 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.135.3](https://github.com/immich-app/immich/releases/tag/v1.135.3), 3 weeks ago) - High performance self-hosted photo and video management solution.
 
 #### ⭐ Latest projects I've starred
 
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3418⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 840⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 6742⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25469⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 312⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 23208⭐
-- [alecthomas/kong](https://github.com/alecthomas/kong) 2717⭐
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 59807⭐
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3419⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 858⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 6902⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25524⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 318⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 23724⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2719⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 60276⭐
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 20196⭐
+- [upstash/context7](https://github.com/upstash/context7) 20385⭐
 
 
 
