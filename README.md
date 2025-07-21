@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.40.0](https://github.com/renovatebot/renovate/releases/tag/41.40.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.4.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.4.1), 3 days ago) - AWS plugins for Backstage
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.1](https://github.com/backstage/backstage/releases/tag/v1.41.1), 4 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.16.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.16.0), 6 days ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.40.0](https://github.com/renovatebot/renovate/releases/tag/41.40.0), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.4.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.4.1), 4 days ago) - AWS plugins for Backstage
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.41.1](https://github.com/backstage/backstage/releases/tag/v1.41.1), 5 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.16.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.16.0), 1 week ago) - contains backstage plugins written and maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 3 weeks ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 3 weeks ago) - Contains Helm charts maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.6.7](https://github.com/secustor/helm-charts/releases/tag/immich-0.6.7), 4 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.135.3](https://github.com/immich-app/immich/releases/tag/v1.135.3), 1 month ago) - High performance self-hosted photo and video management solution.
 
 #### ⭐ Latest projects I've starred
 
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3422⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 902⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 7270⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25645⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 323⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 24644⭐
-- [alecthomas/kong](https://github.com/alecthomas/kong) 2720⭐
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 61404⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 925⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 7363⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 25676⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 324⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 24845⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2722⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 61725⭐
 - [miekg/king](https://github.com/miekg/king) 5⭐
-- [upstash/context7](https://github.com/upstash/context7) 20937⭐
+- [upstash/context7](https://github.com/upstash/context7) 21128⭐
 
 
 
