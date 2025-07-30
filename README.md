@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.43.7](https://github.com/renovatebot/renovate/releases/tag/41.43.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.7.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.7.0), 2 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.136.0](https://github.com/immich-app/immich/releases/tag/v1.136.0), 5 days ago) - High performance self-hosted photo and video management solution.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.42.0-next.0), 1 week ago) - Backstage is an open framework for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.42.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.45.0](https://github.com/renovatebot/renovate/releases/tag/41.45.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.7.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.7.0), 3 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.136.0](https://github.com/immich-app/immich/releases/tag/v1.136.0), 6 days ago) - High performance self-hosted photo and video management solution.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.4.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.4.1), 1 week ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.16.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.16.0), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 month ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 367⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 391⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1157⭐
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3436⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 1148⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 8144⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 26444⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 342⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 26498⭐
-- [alecthomas/kong](https://github.com/alecthomas/kong) 2734⭐
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 65097⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 1166⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 8240⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 26514⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 346⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 26718⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2737⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 65434⭐
 
 
 
