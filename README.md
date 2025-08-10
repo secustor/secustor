@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.60.1](https://github.com/renovatebot/renovate/releases/tag/41.60.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.42.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 5 days ago) - A bootstrapping and management tool for k0s clusters.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.60.3](https://github.com/renovatebot/renovate/releases/tag/41.60.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.42.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 6 days ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.7.2](https://github.com/secustor/helm-charts/releases/tag/immich-0.7.2), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.137.3](https://github.com/immich-app/immich/releases/tag/v1.137.3), 1 week ago) - High performance self-hosted photo and video management solution.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.4.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.4.1), 3 weeks ago) - AWS plugins for Backstage
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 703⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 725⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1158⭐
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3448⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 1311⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 9081⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 27099⭐
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3449⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 1322⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 9103⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 27130⭐
 - [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 373⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 28773⭐
-- [alecthomas/kong](https://github.com/alecthomas/kong) 2740⭐
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 68123⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 28918⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2741⭐
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) 68321⭐
 
 
 
