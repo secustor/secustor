@@ -12,25 +12,25 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.70.2](https://github.com/renovatebot/renovate/releases/tag/41.70.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.42.0-next.3), 2 days ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 2 days ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.7.2](https://github.com/secustor/helm-charts/releases/tag/immich-0.7.2), 1 week ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.137.3](https://github.com/immich-app/immich/releases/tag/v1.137.3), 1 week ago) - High performance self-hosted photo and video management solution.
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.7.3](https://github.com/secustor/helm-charts/releases/tag/immich-0.7.3), 1 day ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.138.0](https://github.com/immich-app/immich/releases/tag/v1.138.0), 1 day ago) - High performance self-hosted photo and video management solution.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.73.1](https://github.com/renovatebot/renovate/releases/tag/41.73.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.42.0-next.3), 3 days ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 3 days ago) - A bootstrapping and management tool for k0s clusters.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.4.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.4.1), 4 weeks ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.16.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.16.0), 1 month ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 19783⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 801⭐
-- [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1156⭐
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3453⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 1357⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 9205⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 27327⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 391⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 29627⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 19786⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 819⭐
+- [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1157⭐
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3457⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 1376⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 9229⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 27388⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 393⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 29808⭐
 - [alecthomas/kong](https://github.com/alecthomas/kong) 2747⭐
 
 
