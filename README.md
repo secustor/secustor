@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.82.1](https://github.com/renovatebot/renovate/releases/tag/41.82.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@2.1.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%402.1.0), 1 day ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.1](https://github.com/backstage/backstage/releases/tag/v1.42.1), 1 day ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.7.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.7.4), 2 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.138.1](https://github.com/immich-app/immich/releases/tag/v1.138.1), 3 days ago) - High performance self-hosted photo and video management solution.
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 6 days ago) - A bootstrapping and management tool for k0s clusters.
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.4.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.4.1), 1 month ago) - AWS plugins for Backstage
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.42.3](https://github.com/backstage/backstage/releases/tag/v1.42.3), 1 day ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.82.3](https://github.com/renovatebot/renovate/releases/tag/41.82.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage@0.3.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage%400.3.0), 1 day ago) - AWS plugins for Backstage
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@2.1.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%402.1.0), 2 days ago) - contains backstage plugins written and maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.7.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.7.4), 3 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.138.1](https://github.com/immich-app/immich/releases/tag/v1.138.1), 4 days ago) - High performance self-hosted photo and video management solution.
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 
 #### ⭐ Latest projects I've starred
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 19832⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 943⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 19840⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 961⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1160⭐
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3470⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 1603⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 9450⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 27671⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 407⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 30680⭐
-- [alecthomas/kong](https://github.com/alecthomas/kong) 2759⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 1614⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 9474⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 27735⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 411⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 30848⭐
+- [alecthomas/kong](https://github.com/alecthomas/kong) 2761⭐
 
 
 
