@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.97.7](https://github.com/renovatebot/renovate/releases/tag/41.97.7), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.43.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.43.0-next.1), 5 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 5 days ago) - contains backstage plugins written and maintained by myself
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.0), 6 days ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.97.9](https://github.com/renovatebot/renovate/releases/tag/41.97.9), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.43.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.43.0-next.1), 6 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 6 days ago) - contains backstage plugins written and maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.0](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.0), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v1.140.1](https://github.com/immich-app/immich/releases/tag/v1.140.1), 1 week ago) - High performance self-hosted photo and video management solution.
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage@0.3.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage%400.3.0), 2 weeks ago) - AWS plugins for Backstage
 
 #### ⭐ Latest projects I've starred
 
-- [github/spec-kit](https://github.com/github/spec-kit) 4006⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 19965⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1045⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 6123⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 19971⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1047⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1164⭐
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3490⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 1796⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 10249⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 28469⭐
-- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 471⭐
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) 32761⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 1803⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 10262⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 28503⭐
+- [chainguard-dev/kaniko](https://github.com/chainguard-dev/kaniko) 473⭐
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) 32815⭐
 
 
 
