@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.116.5](https://github.com/renovatebot/renovate/releases/tag/41.116.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.43.1](https://github.com/backstage/backstage/releases/tag/v1.43.1), 1 day ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.4), 2 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.142.1](https://github.com/immich-app/immich/releases/tag/v1.142.1), 2 days ago) - High performance self-hosted photo and video management solution.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.118.0](https://github.com/renovatebot/renovate/releases/tag/41.118.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.43.1](https://github.com/backstage/backstage/releases/tag/v1.43.1), 2 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.4), 3 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.142.1](https://github.com/immich-app/immich/releases/tag/v1.142.1), 3 days ago) - High performance self-hosted photo and video management solution.
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage@0.3.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage%400.3.0), 4 weeks ago) - AWS plugins for Backstage
@@ -24,14 +24,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [seluard/open-adr](https://github.com/seluard/open-adr) 6⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1031⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 20102⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20081⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1059⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 21411⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20093⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1061⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1165⭐
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3496⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 1888⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 10410⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 28963⭐
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3497⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 1894⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 10429⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 29002⭐
 
 
 
