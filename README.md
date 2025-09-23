@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.122.3](https://github.com/renovatebot/renovate/releases/tag/41.122.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.43.2](https://github.com/backstage/backstage/releases/tag/v1.43.2), 3 days ago) - Backstage is an open framework for building developer portals
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.5.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.5.0), 3 days ago) - AWS plugins for Backstage
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.4), 6 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.142.1](https://github.com/immich-app/immich/releases/tag/v1.142.1), 6 days ago) - High performance self-hosted photo and video management solution.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.125.1](https://github.com/renovatebot/renovate/releases/tag/41.125.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.143.0](https://github.com/immich-app/immich/releases/tag/v1.143.0), 1 day ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.43.2](https://github.com/backstage/backstage/releases/tag/v1.43.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.5.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.5.0), 4 days ago) - AWS plugins for Backstage
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.4](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.4), 1 week ago) - Contains Helm charts maintained by myself
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 week ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 2 weeks ago) - contains backstage plugins written and maintained by myself
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 3 weeks ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1032⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 24045⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20149⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1062⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 24829⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20161⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1064⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1165⭐
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3502⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 1914⭐
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 10572⭐
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) 29086⭐
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3503⭐
+- [stravu/crystal](https://github.com/stravu/crystal) 1945⭐
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) 10604⭐
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) 29126⭐
 
 
 
