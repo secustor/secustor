@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.131.9](https://github.com/renovatebot/renovate/releases/tag/41.131.9), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.44.0-next.1), 5 days ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.6](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.6), 5 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v1.143.1](https://github.com/immich-app/immich/releases/tag/v1.143.1), 6 days ago) - High performance self-hosted photo and video management solution.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.132.2](https://github.com/renovatebot/renovate/releases/tag/41.132.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.44.0-next.1), 6 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-0.9.6](https://github.com/secustor/helm-charts/releases/tag/immich-0.9.6), 6 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v1.143.1](https://github.com/immich-app/immich/releases/tag/v1.143.1), 1 week ago) - High performance self-hosted photo and video management solution.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.5.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.5.0), 1 week ago) - AWS plugins for Backstage
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 2 weeks ago) - A bootstrapping and management tool for k0s clusters.
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 3 weeks ago) - contains backstage plugins written and maintained by myself
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 4 weeks ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 4995⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 11621⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5003⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 4997⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 11874⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1033⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 28490⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20208⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1077⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 29049⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20211⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1081⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1166⭐
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3508⭐
-- [stravu/crystal](https://github.com/stravu/crystal) 2005⭐
 
 
 
