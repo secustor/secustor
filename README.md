@@ -12,24 +12,24 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.138.1](https://github.com/renovatebot/renovate/releases/tag/41.138.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.1), 4 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.0.1](https://github.com/immich-app/immich/releases/tag/v2.0.1), 4 days ago) - High performance self-hosted photo and video management solution.
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 5 days ago) - A bootstrapping and management tool for k0s clusters.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.44.0-next.2), 1 week ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.140.2](https://github.com/renovatebot/renovate/releases/tag/41.140.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.44.0-next.3), 1 day ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 day ago) - A bootstrapping and management tool for k0s clusters.
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.1), 5 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.0.1](https://github.com/immich-app/immich/releases/tag/v2.0.1), 5 days ago) - High performance self-hosted photo and video management solution.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.5.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.5.0), 2 weeks ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.18.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.18.0), 1 month ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5009⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5008⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 12602⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5012⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5011⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 12701⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1033⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 31741⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20250⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1095⭐
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1034⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 32274⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20259⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1098⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1166⭐
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3512⭐
 
