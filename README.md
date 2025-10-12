@@ -24,14 +24,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [errata-ai/vale](https://github.com/errata-ai/vale) 5017⭐
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) 5023⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 13410⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 13563⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1034⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 34349⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20291⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1115⭐
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1035⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 34617⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20296⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1116⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1166⭐
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3517⭐
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3518⭐
 
 
 
