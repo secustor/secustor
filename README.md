@@ -24,10 +24,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [errata-ai/vale](https://github.com/errata-ai/vale) 5017⭐
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) 5023⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 13563⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 13602⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1035⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 34617⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 34649⭐
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20296⭐
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1116⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1166⭐
