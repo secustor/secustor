@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.146.0](https://github.com/renovatebot/renovate/releases/tag/41.146.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.44.0-next.3), 5 days ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 5 days ago) - A bootstrapping and management tool for k0s clusters.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.146.0](https://github.com/renovatebot/renovate/releases/tag/41.146.0), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.44.0-next.3), 6 days ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 6 days ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.1), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.0.1](https://github.com/immich-app/immich/releases/tag/v2.0.1), 1 week ago) - High performance self-hosted photo and video management solution.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.5.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.5.0), 3 weeks ago) - AWS plugins for Backstage
@@ -23,12 +23,12 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [errata-ai/vale](https://github.com/errata-ai/vale) 5017⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5023⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 13602⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5024⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 13660⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1035⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 34649⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20296⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 34707⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20300⭐
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1116⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1166⭐
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) 3518⭐
