@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.157.1](https://github.com/renovatebot/renovate/releases/tag/41.157.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.158.3](https://github.com/renovatebot/renovate/releases/tag/41.158.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.2](https://github.com/backstage/backstage/releases/tag/v1.44.2), 1 day ago) - Backstage is an open framework for building developer portals
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 day ago) - A bootstrapping and management tool for k0s clusters.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.45.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.45.0-next.0), 2 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.3.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.3.0), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.2](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.2), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.1.0](https://github.com/immich-app/immich/releases/tag/v2.1.0), 1 week ago) - High performance self-hosted photo and video management solution.
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 217⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5025⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5041⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 15386⭐
+- [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 218⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5027⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5043⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 15548⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1040⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 40730⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20381⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1141⭐
-- [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1168⭐
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1044⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 41209⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20388⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1143⭐
+- [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1169⭐
 
 
 
