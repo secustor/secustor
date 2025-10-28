@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.159.4](https://github.com/renovatebot/renovate/releases/tag/41.159.4), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.27.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.27.0), 3 days ago) - A bootstrapping and management tool for k0s clusters.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.2](https://github.com/backstage/backstage/releases/tag/v1.44.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([41.163.1](https://github.com/renovatebot/renovate/releases/tag/41.163.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.27.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.27.0), 4 days ago) - A bootstrapping and management tool for k0s clusters.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.44.2](https://github.com/backstage/backstage/releases/tag/v1.44.2), 5 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.3.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.3.0), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.2](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.2), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.1.0](https://github.com/immich-app/immich/releases/tag/v2.1.0), 1 week ago) - High performance self-hosted photo and video management solution.
@@ -23,14 +23,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 219⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5029⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5044⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 15839⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5035⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5046⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 15934⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1047⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 42166⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20415⭐
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1146⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 42514⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20421⭐
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) 1147⭐
 - [shurcooL/githubv4](https://github.com/shurcooL/githubv4) 1169⭐
 
 
