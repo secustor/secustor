@@ -12,27 +12,27 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.18.0](https://github.com/renovatebot/renovate/releases/tag/42.18.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.7](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.7), 1 day ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.19.3](https://github.com/renovatebot/renovate/releases/tag/42.19.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 day ago) - A bootstrapping and management tool for k0s clusters.
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.3.1](https://github.com/immich-app/immich/releases/tag/v2.3.1), 1 day ago) - High performance self-hosted photo and video management solution.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.45.1](https://github.com/backstage/backstage/releases/tag/v1.45.1), 2 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.7](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.7), 2 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.3.1](https://github.com/immich-app/immich/releases/tag/v2.3.1), 2 days ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.45.1](https://github.com/backstage/backstage/releases/tag/v1.45.1), 3 days ago) - Backstage is an open framework for building developer portals
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-node@0.5.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-node%400.5.0), 1 week ago) - AWS plugins for Backstage
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.4.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.4.0), 1 week ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.4.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.4.0), 2 weeks ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.3.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.3.0), 1 month ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [zensical/zensical](https://github.com/zensical/zensical) 1439⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 10978⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 1557⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 10989⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 234⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5096⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5088⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 17366⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5101⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5090⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 17418⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1059⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 50168⭐
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20674⭐
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1060⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 50448⭐
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 20684⭐
 
 
 
