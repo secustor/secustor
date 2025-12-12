@@ -18,7 +18,7 @@ jobs:
           template: "templates/readme.md.tpl"
           writeTo: "README.md"
 
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v6
         with:
           name: README.md
           path: README.md
