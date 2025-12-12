@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.43.0](https://github.com/renovatebot/renovate/releases/tag/42.43.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.46.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.46.0-next.2), 2 days ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.27.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.27.1), 2 days ago) - A bootstrapping and management tool for k0s clusters.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.46.0](https://github.com/renovatebot/renovate/releases/tag/42.46.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.46.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.46.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.27.1](https://github.com/k0sproject/k0sctl/releases/tag/v0.27.1), 3 days ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@3.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%403.0.0), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.6.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.6.0), 2 weeks ago) - AWS plugins for Backstage
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.7](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.7), 3 weeks ago) - Contains Helm charts maintained by myself
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4772⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 1979⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11093⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4776⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 1996⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11099⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 249⭐
 - [errata-ai/vale](https://github.com/errata-ai/vale) 5130⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5131⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18185⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5135⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18216⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1069⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 54602⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 54847⭐
 
 
 
