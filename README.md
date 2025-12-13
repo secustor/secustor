@@ -24,15 +24,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4777⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2017⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11104⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2020⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11105⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 249⭐
 - [errata-ai/vale](https://github.com/errata-ai/vale) 5131⭐
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) 5135⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18254⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18262⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1069⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 55094⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 55114⭐
 
 
 
