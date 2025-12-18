@@ -12,27 +12,27 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.58.3](https://github.com/renovatebot/renovate/releases/tag/42.58.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.46.0](https://github.com/backstage/backstage/releases/tag/v1.46.0), 1 day ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.28.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.28.0), 1 day ago) - A bootstrapping and management tool for k0s clusters.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.59.1](https://github.com/renovatebot/renovate/releases/tag/42.59.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.46.0](https://github.com/backstage/backstage/releases/tag/v1.46.0), 2 days ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([v0.28.0](https://github.com/k0sproject/k0sctl/releases/tag/v0.28.0), 2 days ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@3.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%403.0.0), 3 weeks ago) - contains backstage plugins written and maintained by myself
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.6.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.6.0), 3 weeks ago) - AWS plugins for Backstage
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.7](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.7), 3 weeks ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.3.1](https://github.com/immich-app/immich/releases/tag/v2.3.1), 3 weeks ago) - High performance self-hosted photo and video management solution.
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.7](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.7), 4 weeks ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.3.1](https://github.com/immich-app/immich/releases/tag/v2.3.1), 4 weeks ago) - High performance self-hosted photo and video management solution.
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.4.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.4.0), 1 month ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 
 #### ⭐ Latest projects I've starred
 
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4784⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2077⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11128⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4786⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2094⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11134⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 251⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5137⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5136⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18379⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5138⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5140⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18419⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1073⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 55879⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 56155⭐
 
 
 
