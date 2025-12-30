@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.66.11](https://github.com/renovatebot/renovate/releases/tag/42.66.11), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-client@0.10.9](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-client%400.10.9), 6 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.47.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.47.0-next.0), 6 days ago) - Backstage is an open framework for building developer portals
-- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 week ago) - A bootstrapping and management tool for k0s clusters.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.66.14](https://github.com/renovatebot/renovate/releases/tag/42.66.14), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.46.2](https://github.com/backstage/backstage/releases/tag/v1.46.2), 1 day ago) - Backstage is an open framework for building developer portals
+- [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 day ago) - A bootstrapping and management tool for k0s clusters.
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-client@0.10.9](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-client%400.10.9), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.9](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.9), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.4.1](https://github.com/immich-app/immich/releases/tag/v2.4.1), 1 week ago) - High performance self-hosted photo and video management solution.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/aws-core-plugin-for-backstage-scaffolder-actions@0.6.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/aws-core-plugin-for-backstage-scaffolder-actions%400.6.0), 1 month ago) - AWS plugins for Backstage
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4800⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2245⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11192⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4802⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2266⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11196⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 256⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5161⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5163⭐
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) 5148⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18678⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 18700⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) 1073⭐
-- [github/spec-kit](https://github.com/github/spec-kit) 58276⭐
+- [github/spec-kit](https://github.com/github/spec-kit) 58492⭐
 
 
 
