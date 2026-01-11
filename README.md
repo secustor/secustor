@@ -12,8 +12,8 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.76.4](https://github.com/renovatebot/renovate/releases/tag/42.76.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.47.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.47.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.76.5](https://github.com/renovatebot/renovate/releases/tag/42.76.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.47.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.47.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) ([dev](https://github.com/k0sproject/k0sctl/releases/tag/dev), 1 week ago) - A bootstrapping and management tool for k0s clusters.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-client@0.10.9](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-client%400.10.9), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.9](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.9), 3 weeks ago) - Contains Helm charts maintained by myself
@@ -23,15 +23,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [docling-project/docling](https://github.com/docling-project/docling) 49551⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2642⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4834⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2415⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11230⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 49650⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2652⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4837⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2429⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11233⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 261⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5173⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5174⭐
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) 5166⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19069⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19115⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 
 
