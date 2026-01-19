@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.84.2](https://github.com/renovatebot/renovate/releases/tag/42.84.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.46.3](https://github.com/backstage/backstage/releases/tag/v1.46.3), 3 days ago) - Backstage is an open framework for building developer portals
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0-rc1](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0-rc1), 6 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.84.2](https://github.com/renovatebot/renovate/releases/tag/42.84.2), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.46.3](https://github.com/backstage/backstage/releases/tag/v1.46.3), 4 days ago) - Backstage is an open framework for building developer portals
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0-rc1](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0-rc1), 1 week ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-client@0.10.9](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-client%400.10.9), 3 weeks ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.9](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.9), 1 month ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.4.1](https://github.com/immich-app/immich/releases/tag/v2.4.1), 1 month ago) - High performance self-hosted photo and video management solution.
@@ -22,15 +22,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [docling-project/docling](https://github.com/docling-project/docling) 50366⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2706⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4842⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2521⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11255⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 50456⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2707⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4843⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2531⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11259⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 263⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5186⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5175⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19319⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5187⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5177⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19340⭐
 - [seluard/open-adr](https://github.com/seluard/open-adr) 7⭐
 
 
