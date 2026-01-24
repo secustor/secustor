@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.90.0](https://github.com/renovatebot/renovate/releases/tag/42.90.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.47.1](https://github.com/backstage/backstage/releases/tag/v1.47.1), 2 days ago) - Backstage is an open framework for building developer portals
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0-rc1](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0-rc1), 1 week ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 1 day ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.92.2](https://github.com/renovatebot/renovate/releases/tag/42.92.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.47.1](https://github.com/backstage/backstage/releases/tag/v1.47.1), 3 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-client@0.10.9](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-client%400.10.9), 1 month ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.9](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.9), 1 month ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.4.1](https://github.com/immich-app/immich/releases/tag/v2.4.1), 1 month ago) - High performance self-hosted photo and video management solution.
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [jdx/mise](https://github.com/jdx/mise) 23296⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 50857⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2729⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4853⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2582⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11275⭐
-- [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 263⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5191⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5187⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19423⭐
+- [jdx/mise](https://github.com/jdx/mise) 23415⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 50946⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2731⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4859⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2587⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11282⭐
+- [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 264⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5193⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5190⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19438⭐
 
 
 
