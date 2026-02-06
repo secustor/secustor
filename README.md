@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.95.8](https://github.com/renovatebot/renovate/releases/tag/42.95.8), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 1 day ago) - AWS plugins for Backstage
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.12](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.12), 1 day ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.3](https://github.com/immich-app/immich/releases/tag/v2.5.3), 2 days ago) - High performance self-hosted photo and video management solution.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.48.0-next.1), 2 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.96.0](https://github.com/renovatebot/renovate/releases/tag/42.96.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 2 days ago) - AWS plugins for Backstage
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.12](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.12), 2 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.3](https://github.com/immich-app/immich/releases/tag/v2.5.3), 3 days ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.48.0-next.1), 3 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.17.2](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.17.2), 1 week ago) - contains backstage plugins written and maintained by myself
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 1 week ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 2 weeks ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 
 #### ⭐ Latest projects I've starred
 
-- [jdx/mise](https://github.com/jdx/mise) 24218⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 52129⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2786⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4906⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2867⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11346⭐
+- [jdx/mise](https://github.com/jdx/mise) 24251⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 52226⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2788⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4911⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2880⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11352⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 271⭐
 - [errata-ai/vale](https://github.com/errata-ai/vale) 5222⭐
-- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5214⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19701⭐
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) 5216⭐
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19716⭐
 
 
 
