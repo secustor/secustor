@@ -12,27 +12,27 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.8.1](https://github.com/renovatebot/renovate/releases/tag/43.8.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.14](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.14), 1 day ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 1 day ago) - High performance self-hosted photo and video management solution.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.48.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
-- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 5 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.99.0](https://github.com/renovatebot/renovate/releases/tag/42.99.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.14](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.14), 2 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 2 days ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.48.0-next.2), 2 days ago) - Backstage is an open framework for building developer portals
+- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 6 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 1 week ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.17.2](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.17.2), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 2 weeks ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 
 #### ⭐ Latest projects I've starred
 
-- [jdx/mise](https://github.com/jdx/mise) 24409⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 52671⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2803⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4928⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2951⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11376⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 21216⭐
+- [jdx/mise](https://github.com/jdx/mise) 24463⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 52766⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2808⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4934⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 2965⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11379⭐
 - [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 276⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5231⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5234⭐
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) 5233⭐
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) 19841⭐
 
 
 
