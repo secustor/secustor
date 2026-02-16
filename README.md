@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.15.0](https://github.com/renovatebot/renovate/releases/tag/43.15.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.14](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.14), 5 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 5 days ago) - High performance self-hosted photo and video management solution.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.48.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.15.1](https://github.com/renovatebot/renovate/releases/tag/43.15.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.0.14](https://github.com/secustor/helm-charts/releases/tag/immich-1.0.14), 6 days ago) - Contains Helm charts maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 6 days ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.48.0-next.2), 6 days ago) - Backstage is an open framework for building developer portals
 - [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 1 week ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 1 week ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.17.2](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.17.2), 3 weeks ago) - contains backstage plugins written and maintained by myself
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [github/gh-aw](https://github.com/github/gh-aw) 2414⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 21519⭐
-- [jdx/mise](https://github.com/jdx/mise) 24561⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 53051⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2829⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4940⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 2991⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11396⭐
-- [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 277⭐
-- [errata-ai/vale](https://github.com/errata-ai/vale) 5237⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 2722⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 21578⭐
+- [jdx/mise](https://github.com/jdx/mise) 24584⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 53135⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2881⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4943⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 3001⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11399⭐
+- [aws-samples/anthropic-on-aws](https://github.com/aws-samples/anthropic-on-aws) 278⭐
+- [errata-ai/vale](https://github.com/errata-ai/vale) 5239⭐
 
 
 
