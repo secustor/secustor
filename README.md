@@ -12,8 +12,8 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.39.2](https://github.com/renovatebot/renovate/releases/tag/43.39.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.49.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.49.0-next.0), 2 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.43.0](https://github.com/renovatebot/renovate/releases/tag/43.43.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.3](https://github.com/backstage/backstage/releases/tag/v1.48.3), today) - Backstage is an open framework for building developer portals
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 4 days ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 2 weeks ago) - High performance self-hosted photo and video management solution.
 - [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 2 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 133⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 136⭐
 - [jdx/usage](https://github.com/jdx/usage) 536⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 3631⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22325⭐
-- [jdx/mise](https://github.com/jdx/mise) 25029⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 54152⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2935⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4962⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 3184⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11444⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 3641⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22376⭐
+- [jdx/mise](https://github.com/jdx/mise) 25067⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 54240⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2940⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4967⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 3206⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11452⭐
 
 
 
