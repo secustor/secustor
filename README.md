@@ -12,7 +12,7 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.43.0](https://github.com/renovatebot/renovate/releases/tag/43.43.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.43.2](https://github.com/renovatebot/renovate/releases/tag/43.43.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.3](https://github.com/backstage/backstage/releases/tag/v1.48.3), 1 day ago) - Backstage is an open framework for building developer portals
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 5 days ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 2 weeks ago) - High performance self-hosted photo and video management solution.
@@ -23,15 +23,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 136⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 137⭐
 - [jdx/usage](https://github.com/jdx/usage) 537⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 3645⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22382⭐
-- [jdx/mise](https://github.com/jdx/mise) 25068⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 54263⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2942⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 3648⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22395⭐
+- [jdx/mise](https://github.com/jdx/mise) 25073⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 54280⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2943⭐
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4967⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 3211⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 3216⭐
 - [changesets/changesets](https://github.com/changesets/changesets) 11454⭐
 
 
