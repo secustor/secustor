@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.43.0](https://github.com/renovatebot/renovate/releases/tag/43.43.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.3](https://github.com/backstage/backstage/releases/tag/v1.48.3), today) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 4 days ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.43.0](https://github.com/renovatebot/renovate/releases/tag/43.43.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.3](https://github.com/backstage/backstage/releases/tag/v1.48.3), 1 day ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 5 days ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 2 weeks ago) - High performance self-hosted photo and video management solution.
-- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 2 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 3 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 3 weeks ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend@0.17.2](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend%400.17.2), 1 month ago) - contains backstage plugins written and maintained by myself
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 1 month ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
@@ -24,15 +24,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 136⭐
-- [jdx/usage](https://github.com/jdx/usage) 536⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 3641⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22376⭐
-- [jdx/mise](https://github.com/jdx/mise) 25067⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 54240⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2940⭐
+- [jdx/usage](https://github.com/jdx/usage) 537⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 3645⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22382⭐
+- [jdx/mise](https://github.com/jdx/mise) 25068⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 54263⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2942⭐
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4967⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 3206⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11452⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 3211⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11454⭐
 
 
 
