@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.46.6](https://github.com/renovatebot/renovate/releases/tag/43.46.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 2 days ago) - contains backstage plugins written and maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.3](https://github.com/backstage/backstage/releases/tag/v1.48.3), 4 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.48.4](https://github.com/renovatebot/renovate/releases/tag/43.48.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 3 days ago) - contains backstage plugins written and maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.3](https://github.com/backstage/backstage/releases/tag/v1.48.3), 5 days ago) - Backstage is an open framework for building developer portals
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 1 week ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 2 weeks ago) - High performance self-hosted photo and video management solution.
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 3 weeks ago) - High performance self-hosted photo and video management solution.
 - [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 3 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 3 weeks ago) - AWS plugins for Backstage
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 1 month ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
@@ -24,15 +24,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 142⭐
-- [jdx/usage](https://github.com/jdx/usage) 537⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 3697⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22590⭐
-- [jdx/mise](https://github.com/jdx/mise) 25147⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 54521⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2950⭐
+- [jdx/usage](https://github.com/jdx/usage) 538⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 3712⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22658⭐
+- [jdx/mise](https://github.com/jdx/mise) 25177⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 54623⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2952⭐
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4972⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 3307⭐
-- [changesets/changesets](https://github.com/changesets/changesets) 11467⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 3335⭐
+- [changesets/changesets](https://github.com/changesets/changesets) 11470⭐
 
 
 
