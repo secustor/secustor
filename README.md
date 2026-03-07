@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.56.1](https://github.com/renovatebot/renovate/releases/tag/43.56.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.4](https://github.com/backstage/backstage/releases/tag/v1.48.4), 2 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 6 days ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.59.2](https://github.com/renovatebot/renovate/releases/tag/43.59.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.4](https://github.com/backstage/backstage/releases/tag/v1.48.4), 3 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 1 week ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 3 weeks ago) - High performance self-hosted photo and video management solution.
 - [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 4 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 11776⭐
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 205⭐
-- [jdx/usage](https://github.com/jdx/usage) 542⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 3819⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22825⭐
-- [jdx/mise](https://github.com/jdx/mise) 25303⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 54995⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2958⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4979⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 3396⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 14251⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 210⭐
+- [jdx/usage](https://github.com/jdx/usage) 546⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 3867⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22877⭐
+- [jdx/mise](https://github.com/jdx/mise) 25338⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 55089⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2960⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4981⭐
+- [zensical/zensical](https://github.com/zensical/zensical) 3419⭐
 
 
 
