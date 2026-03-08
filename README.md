@@ -12,27 +12,27 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.59.2](https://github.com/renovatebot/renovate/releases/tag/43.59.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.4](https://github.com/backstage/backstage/releases/tag/v1.48.4), 3 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.59.3](https://github.com/renovatebot/renovate/releases/tag/43.59.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.4](https://github.com/backstage/backstage/releases/tag/v1.48.4), 4 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 1 week ago) - contains backstage plugins written and maintained by myself
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 1 week ago) - Contains Helm charts maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 2 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 3 weeks ago) - High performance self-hosted photo and video management solution.
-- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 4 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.13.1](https://github.com/errata-ai/vale/releases/tag/v3.13.1), 1 month ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 1 month ago) - AWS plugins for Backstage
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 1 month ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 
 #### ⭐ Latest projects I've starred
 
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 14251⭐
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 210⭐
-- [jdx/usage](https://github.com/jdx/usage) 546⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 3867⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22877⭐
-- [jdx/mise](https://github.com/jdx/mise) 25338⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 55089⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2960⭐
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4981⭐
-- [zensical/zensical](https://github.com/zensical/zensical) 3419⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10785⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 15307⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 214⭐
+- [jdx/usage](https://github.com/jdx/usage) 552⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 3905⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22901⭐
+- [jdx/mise](https://github.com/jdx/mise) 25371⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 55142⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2962⭐
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) 4982⭐
 
 
 
