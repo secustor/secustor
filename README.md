@@ -12,8 +12,8 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.60.4](https://github.com/renovatebot/renovate/releases/tag/43.60.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.4](https://github.com/backstage/backstage/releases/tag/v1.48.4), 6 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.61.6](https://github.com/renovatebot/renovate/releases/tag/43.61.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.49.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.49.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 2 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 4 weeks ago) - High performance self-hosted photo and video management solution.
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 14289⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10791⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 17249⭐
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 224⭐
-- [jdx/usage](https://github.com/jdx/usage) 572⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 3971⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 22967⭐
-- [jdx/mise](https://github.com/jdx/mise) 25462⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 55346⭐
-- [pamburus/hl](https://github.com/pamburus/hl) 2966⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 16321⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10802⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 18239⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 227⭐
+- [jdx/usage](https://github.com/jdx/usage) 573⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4019⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 23019⭐
+- [jdx/mise](https://github.com/jdx/mise) 25490⭐
+- [docling-project/docling](https://github.com/docling-project/docling) 55497⭐
+- [pamburus/hl](https://github.com/pamburus/hl) 2969⭐
 
 
 
