@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.66.1](https://github.com/renovatebot/renovate/releases/tag/43.66.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.14.0](https://github.com/errata-ai/vale/releases/tag/v3.14.0), today) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.5](https://github.com/backstage/backstage/releases/tag/v1.48.5), 2 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 1 week ago) - contains backstage plugins written and maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.73.1](https://github.com/renovatebot/renovate/releases/tag/43.73.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.14.0](https://github.com/errata-ai/vale/releases/tag/v3.14.0), 1 day ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.5](https://github.com/backstage/backstage/releases/tag/v1.48.5), 3 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.1), 2 weeks ago) - Contains Helm charts maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.5.6](https://github.com/immich-app/immich/releases/tag/v2.5.6), 1 month ago) - High performance self-hosted photo and video management solution.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 1 month ago) - AWS plugins for Backstage
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 947⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 20829⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10822⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 19603⭐
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 238⭐
-- [jdx/usage](https://github.com/jdx/usage) 578⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 4073⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 23125⭐
-- [jdx/mise](https://github.com/jdx/mise) 25575⭐
-- [docling-project/docling](https://github.com/docling-project/docling) 55673⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 15295⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 956⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 22413⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10831⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 19997⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 239⭐
+- [jdx/usage](https://github.com/jdx/usage) 582⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4077⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 23169⭐
+- [jdx/mise](https://github.com/jdx/mise) 25610⭐
 
 
 
