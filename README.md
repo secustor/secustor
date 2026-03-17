@@ -12,7 +12,7 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.76.5](https://github.com/renovatebot/renovate/releases/tag/43.76.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.77.2](https://github.com/renovatebot/renovate/releases/tag/43.77.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [errata-ai/vale](https://github.com/errata-ai/vale) ([v3.14.0](https://github.com/errata-ai/vale/releases/tag/v3.14.0), 4 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [backstage/backstage](https://github.com/backstage/backstage) ([v1.48.5](https://github.com/backstage/backstage/releases/tag/v1.48.5), 6 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 2 weeks ago) - contains backstage plugins written and maintained by myself
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 16847⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 971⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 26915⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10853⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 20949⭐
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 244⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 16959⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 972⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 27367⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10854⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 21031⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 245⭐
 - [jdx/usage](https://github.com/jdx/usage) 587⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 4105⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 23305⭐
-- [jdx/mise](https://github.com/jdx/mise) 25707⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4111⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 23318⭐
+- [jdx/mise](https://github.com/jdx/mise) 25720⭐
 
 
 
