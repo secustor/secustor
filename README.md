@@ -12,27 +12,27 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.84.2](https://github.com/renovatebot/renovate/releases/tag/43.84.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.1](https://github.com/vale-cli/vale/releases/tag/v3.14.1), 2 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.49.1](https://github.com/backstage/backstage/releases/tag/v1.49.1), 2 days ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.1.3](https://github.com/secustor/helm-charts/releases/tag/immich-1.1.3), 2 days ago) - Contains Helm charts maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.6.1](https://github.com/immich-app/immich/releases/tag/v2.6.1), 3 days ago) - High performance self-hosted photo and video management solution.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.49.2](https://github.com/backstage/backstage/releases/tag/v1.49.2), 1 day ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.86.0](https://github.com/renovatebot/renovate/releases/tag/43.86.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.0](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.0), 1 day ago) - Contains Helm charts maintained by myself
+- [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.1](https://github.com/vale-cli/vale/releases/tag/v3.14.1), 3 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.6.1](https://github.com/immich-app/immich/releases/tag/v2.6.1), 4 days ago) - High performance self-hosted photo and video management solution.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-docker@4.0.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-docker%404.0.0), 3 weeks ago) - contains backstage plugins written and maintained by myself
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 1 month ago) - AWS plugins for Backstage
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 1 month ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 
 #### ⭐ Latest projects I've starred
 
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 18031⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 992⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 31177⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10885⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 21932⭐
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 257⭐
-- [jdx/usage](https://github.com/jdx/usage) 587⭐
-- [github/gh-aw](https://github.com/github/gh-aw) 4145⭐
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) 23581⭐
-- [jdx/mise](https://github.com/jdx/mise) 25906⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 18174⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1000⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 31657⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10890⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 22095⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 259⭐
+- [jdx/usage](https://github.com/jdx/usage) 588⭐
+- [github/gh-aw](https://github.com/github/gh-aw) 4147⭐
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) 23621⭐
+- [jdx/mise](https://github.com/jdx/mise) 25938⭐
 
 
 
