@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.99.1](https://github.com/renovatebot/renovate/releases/tag/43.99.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.49.3](https://github.com/backstage/backstage/releases/tag/v1.49.3), 2 days ago) - Backstage is an open framework for building developer portals
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@4.0.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%404.0.1), 4 days ago) - contains backstage plugins written and maintained by myself
-- [immich-app/immich](https://github.com/immich-app/immich) ([v2.6.3](https://github.com/immich-app/immich/releases/tag/v2.6.3), 4 days ago) - High performance self-hosted photo and video management solution.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.1), 6 days ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.101.2](https://github.com/renovatebot/renovate/releases/tag/43.101.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.49.3](https://github.com/backstage/backstage/releases/tag/v1.49.3), 3 days ago) - Backstage is an open framework for building developer portals
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@4.0.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%404.0.1), 5 days ago) - contains backstage plugins written and maintained by myself
+- [immich-app/immich](https://github.com/immich-app/immich) ([v2.6.3](https://github.com/immich-app/immich/releases/tag/v2.6.3), 5 days ago) - High performance self-hosted photo and video management solution.
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.1](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.1), 1 week ago) - Contains Helm charts maintained by myself
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.1](https://github.com/vale-cli/vale/releases/tag/v3.14.1), 1 week ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-langgraph-agent-for-backstage@0.7.1](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-langgraph-agent-for-backstage%400.7.1), 1 month ago) - AWS plugins for Backstage
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 2 months ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
@@ -25,14 +25,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [canonical/chisel](https://github.com/canonical/chisel) 395⭐
 - [werf/nelm](https://github.com/werf/nelm) 1043⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2286⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19386⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 18739⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1174⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 39154⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10937⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 23068⭐
-- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 440⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2288⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19389⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 18813⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1148⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 41182⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10942⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 23218⭐
+- [awslabs/agent-plugins](https://github.com/awslabs/agent-plugins) 448⭐
 
 
 
