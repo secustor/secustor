@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.104.1](https://github.com/renovatebot/renovate/releases/tag/43.104.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.50.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.50.0-next.1), 3 days ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.2](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.2), 3 days ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.104.2](https://github.com/renovatebot/renovate/releases/tag/43.104.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.50.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.50.0-next.1), 4 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.2](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.2), 4 days ago) - Contains Helm charts maintained by myself
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-backend-module-runtime-direct@4.0.1](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-backend-module-runtime-direct%404.0.1), 1 week ago) - contains backstage plugins written and maintained by myself
 - [immich-app/immich](https://github.com/immich-app/immich) ([v2.6.3](https://github.com/immich-app/immich/releases/tag/v2.6.3), 1 week ago) - High performance self-hosted photo and video management solution.
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.1](https://github.com/vale-cli/vale/releases/tag/v3.14.1), 2 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 151196⭐
-- [canonical/chisel](https://github.com/canonical/chisel) 395⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 162483⭐
+- [canonical/chisel](https://github.com/canonical/chisel) 392⭐
 - [werf/nelm](https://github.com/werf/nelm) 1044⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2299⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19408⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 19184⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1220⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 45163⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10961⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 23610⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2301⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19410⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 19298⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1229⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 46218⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 10972⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 23724⭐
 
 
 
