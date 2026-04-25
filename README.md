@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.140.0](https://github.com/renovatebot/renovate/releases/tag/43.140.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/amazon-ecr-plugin-for-backstage@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/amazon-ecr-plugin-for-backstage%400.2.2), 1 day ago) - AWS plugins for Backstage
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.50.3](https://github.com/backstage/backstage/releases/tag/v1.50.3), 2 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.141.5](https://github.com/renovatebot/renovate/releases/tag/43.141.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/amazon-ecr-plugin-for-backstage@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/amazon-ecr-plugin-for-backstage%400.2.2), 2 days ago) - AWS plugins for Backstage
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.50.3](https://github.com/backstage/backstage/releases/tag/v1.50.3), 3 days ago) - Backstage is an open framework for building developer portals
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.4](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.4), 1 week ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.6](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.6), 1 week ago) - Contains Helm charts maintained by myself
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.1](https://github.com/vale-cli/vale/releases/tag/v3.14.1), 1 month ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 187898⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 188155⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 395⭐
-- [werf/nelm](https://github.com/werf/nelm) 1049⭐
+- [werf/nelm](https://github.com/werf/nelm) 1050⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2324⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19483⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 20496⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1313⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 58207⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11112⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 25282⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19491⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 20542⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1317⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 58556⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11122⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 25332⭐
 
 
 
