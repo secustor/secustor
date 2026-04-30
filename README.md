@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.51.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.51.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.152.0](https://github.com/renovatebot/renovate/releases/tag/43.152.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/amazon-ecr-plugin-for-backstage@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/amazon-ecr-plugin-for-backstage%400.2.2), 6 days ago) - AWS plugins for Backstage
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.4](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.4), 1 week ago) - contains backstage plugins written and maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.50.4](https://github.com/backstage/backstage/releases/tag/v1.50.4), 1 day ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.158.0](https://github.com/renovatebot/renovate/releases/tag/43.158.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/amazon-ecr-plugin-for-backstage@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/amazon-ecr-plugin-for-backstage%400.2.2), 1 week ago) - AWS plugins for Backstage
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.4](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.4), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.6](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.6), 2 weeks ago) - Contains Helm charts maintained by myself
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.1](https://github.com/vale-cli/vale/releases/tag/v3.14.1), 1 month ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.5.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.5.0), 3 months ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 189070⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 189257⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 397⭐
-- [werf/nelm](https://github.com/werf/nelm) 1050⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2327⭐
+- [werf/nelm](https://github.com/werf/nelm) 1051⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2330⭐
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19502⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 20675⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1350⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 60270⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11145⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 25525⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 20718⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1354⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 60696⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11155⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 25556⭐
 
 
 
