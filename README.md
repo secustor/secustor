@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.160.2](https://github.com/renovatebot/renovate/releases/tag/43.160.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.6.0-rc1](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.6.0-rc1), 1 day ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.50.4](https://github.com/backstage/backstage/releases/tag/v1.50.4), 2 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.160.4](https://github.com/renovatebot/renovate/releases/tag/43.160.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.6.0-rc1](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.6.0-rc1), 2 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.50.4](https://github.com/backstage/backstage/releases/tag/v1.50.4), 3 days ago) - Backstage is an open framework for building developer portals
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/amazon-ecr-plugin-for-backstage@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/amazon-ecr-plugin-for-backstage%400.2.2), 1 week ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.4](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.4), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.6](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.6), 2 weeks ago) - Contains Helm charts maintained by myself
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 189417⭐
-- [canonical/chisel](https://github.com/canonical/chisel) 397⭐
-- [werf/nelm](https://github.com/werf/nelm) 1051⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2331⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19504⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 20751⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1359⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 61065⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11161⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 25594⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 189549⭐
+- [canonical/chisel](https://github.com/canonical/chisel) 398⭐
+- [werf/nelm](https://github.com/werf/nelm) 1052⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2332⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19506⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 20775⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1363⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 61436⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11166⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 25637⭐
 
 
 
