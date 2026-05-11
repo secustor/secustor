@@ -12,26 +12,26 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.5](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.5), 1 day ago) - contains backstage plugins written and maintained by myself
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.170.18](https://github.com/renovatebot/renovate/releases/tag/43.170.18), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.51.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.51.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.6.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.6.0), 5 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.170.20](https://github.com/renovatebot/renovate/releases/tag/43.170.20), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.5](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.5), 2 days ago) - contains backstage plugins written and maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.51.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.51.0-next.2), 5 days ago) - Backstage is an open framework for building developer portals
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.6.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.6.0), 6 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/amazon-ecr-plugin-for-backstage@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/amazon-ecr-plugin-for-backstage%400.2.2), 2 weeks ago) - AWS plugins for Backstage
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.6](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.6), 3 weeks ago) - Contains Helm charts maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-1.2.6](https://github.com/secustor/helm-charts/releases/tag/immich-1.2.6), 4 weeks ago) - Contains Helm charts maintained by myself
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.1](https://github.com/vale-cli/vale/releases/tag/v3.14.1), 1 month ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 190867⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 190979⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 400⭐
 - [werf/nelm](https://github.com/werf/nelm) 1055⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2343⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19542⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 21072⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1393⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 63803⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11230⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 25999⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2345⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19543⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 21109⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1395⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 64051⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11236⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 26039⭐
 
 
 
