@@ -12,8 +12,8 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.195.6](https://github.com/renovatebot/renovate/releases/tag/43.195.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.51.0](https://github.com/backstage/backstage/releases/tag/v1.51.0), 1 week ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.196.0](https://github.com/renovatebot/renovate/releases/tag/43.196.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.52.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.52.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.2](https://github.com/vale-cli/vale/releases/tag/v3.14.2), 1 week ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.5](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.5), 2 weeks ago) - contains backstage plugins written and maintained by myself
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.6.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.6.0), 3 weeks ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
@@ -22,16 +22,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 192506⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 192604⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 405⭐
-- [werf/nelm](https://github.com/werf/nelm) 1074⭐
+- [werf/nelm](https://github.com/werf/nelm) 1075⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2369⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19599⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 21594⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1459⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 67640⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11321⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 26568⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19607⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 21630⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1464⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 67819⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11323⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 26593⭐
 
 
 
