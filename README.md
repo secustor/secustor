@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.207.4](https://github.com/renovatebot/renovate/releases/tag/43.207.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([apps_v1.68.0](https://github.com/oxc-project/oxc/releases/tag/apps_v1.68.0), 1 day ago) - ⚓ A collection of high-performance JavaScript tools.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.51.1](https://github.com/backstage/backstage/releases/tag/v1.51.1), 4 days ago) - Backstage is an open framework for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.52.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.52.0-next.1), 1 day ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.209.1](https://github.com/renovatebot/renovate/releases/tag/43.209.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([apps_v1.68.0](https://github.com/oxc-project/oxc/releases/tag/apps_v1.68.0), 2 days ago) - ⚓ A collection of high-performance JavaScript tools.
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.14.2](https://github.com/vale-cli/vale/releases/tag/v3.14.2), 2 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.5](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.5), 3 weeks ago) - contains backstage plugins written and maintained by myself
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v0.6.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v0.6.0), 4 weeks ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 193098⭐
-- [canonical/chisel](https://github.com/canonical/chisel) 407⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 193177⭐
+- [canonical/chisel](https://github.com/canonical/chisel) 408⭐
 - [werf/nelm](https://github.com/werf/nelm) 1076⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2378⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19634⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 21789⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1481⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 68679⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11356⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 26738⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2381⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19640⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 21816⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1486⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 68827⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11363⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 26786⭐
 
 
 
