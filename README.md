@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.241.5](https://github.com/renovatebot/renovate/releases/tag/43.241.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.53.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.53.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v1.0.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v1.0.0), 1 day ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([apps_v1.71.0](https://github.com/oxc-project/oxc/releases/tag/apps_v1.71.0), 2 days ago) - ⚓ A collection of high-performance JavaScript tools.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.242.0](https://github.com/renovatebot/renovate/releases/tag/43.242.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.53.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.53.0-next.0), 2 days ago) - Backstage is an open framework for building developer portals
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v1.0.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v1.0.0), 2 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([apps_v1.71.0](https://github.com/oxc-project/oxc/releases/tag/apps_v1.71.0), 3 days ago) - ⚓ A collection of high-performance JavaScript tools.
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.15.1](https://github.com/vale-cli/vale/releases/tag/v3.15.1), 1 week ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.5](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.5), 1 month ago) - contains backstage plugins written and maintained by myself
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/amazon-ecr-plugin-for-backstage@0.2.2](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/amazon-ecr-plugin-for-backstage%400.2.2), 2 months ago) - AWS plugins for Backstage
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194219⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194267⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 411⭐
 - [werf/nelm](https://github.com/werf/nelm) 1089⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2407⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19750⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 22520⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2408⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19762⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 22563⭐
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1568⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 71366⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11461⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 27436⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 71459⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11470⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 28381⭐
 
 
 
