@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.0](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.0), 1 day ago) - Contains Helm charts maintained by myself
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.251.0](https://github.com/renovatebot/renovate/releases/tag/43.251.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.53.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.53.0-next.1), 3 days ago) - Backstage is an open framework for building developer portals
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([apps_v1.72.0](https://github.com/oxc-project/oxc/releases/tag/apps_v1.72.0), 4 days ago) - ⚓ A collection of high-performance JavaScript tools.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.251.3](https://github.com/renovatebot/renovate/releases/tag/43.251.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.0](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.0), 2 days ago) - Contains Helm charts maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.53.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.53.0-next.1), 4 days ago) - Backstage is an open framework for building developer portals
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([apps_v1.72.0](https://github.com/oxc-project/oxc/releases/tag/apps_v1.72.0), 5 days ago) - ⚓ A collection of high-performance JavaScript tools.
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v1.0.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v1.0.0), 1 week ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.15.1](https://github.com/vale-cli/vale/releases/tag/v3.15.1), 3 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.5](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.5), 1 month ago) - contains backstage plugins written and maintained by myself
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194521⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194533⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 410⭐
-- [werf/nelm](https://github.com/werf/nelm) 1090⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2415⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19811⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 22866⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1586⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 72593⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11498⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 29319⭐
+- [werf/nelm](https://github.com/werf/nelm) 1091⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2417⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19813⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 22897⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1587⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 72670⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11497⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 29362⭐
 
 
 
