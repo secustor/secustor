@@ -4,7 +4,7 @@ I’m Sebastian, a software engineer and opensource enthusiast specialising in d
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-poxhofer/)](https://www.linkedin.com/in/sebastian-poxhofer/)
 
-Mostly working right now on building a Platform @Stedi and these OSS projects:
+Mostly working right now on building an IDP @n26 and these OSS projects:
 - [Renovate](https://github.com/renovatebot/renovate)
 - [OpenTelemetry](https://github.com/open-telemetry)
 
@@ -12,7 +12,7 @@ Mostly working right now on building a Platform @Stedi and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.256.0](https://github.com/renovatebot/renovate/releases/tag/43.256.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.256.1](https://github.com/renovatebot/renovate/releases/tag/43.256.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [backstage/backstage](https://github.com/backstage/backstage) ([v1.53.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.53.0-next.2), 2 days ago) - Backstage is an open framework for building developer portals
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) ([crates_v0.139.0](https://github.com/oxc-project/oxc/releases/tag/crates_v0.139.0), 3 days ago) - ⚓ A collection of high-performance JavaScript tools.
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.0](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.0), 1 week ago) - Contains Helm charts maintained by myself
@@ -23,16 +23,16 @@ Mostly working right now on building a Platform @Stedi and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194664⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194675⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 411⭐
-- [werf/nelm](https://github.com/werf/nelm) 1092⭐
+- [werf/nelm](https://github.com/werf/nelm) 1093⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2425⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19838⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 23055⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1608⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 73112⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11523⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 29525⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19840⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 23079⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1610⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 73157⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11526⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 29542⭐
 
 
 
