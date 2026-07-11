@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.257.2](https://github.com/renovatebot/renovate/releases/tag/43.257.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.53.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.53.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([crates_v0.139.0](https://github.com/oxc-project/oxc/releases/tag/crates_v0.139.0), 4 days ago) - ⚓ A collection of high-performance JavaScript tools.
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.0](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.0), 1 week ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([43.257.8](https://github.com/renovatebot/renovate/releases/tag/43.257.8), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.1](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.1), 1 day ago) - Contains Helm charts maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.53.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.53.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([crates_v0.139.0](https://github.com/oxc-project/oxc/releases/tag/crates_v0.139.0), 5 days ago) - ⚓ A collection of high-performance JavaScript tools.
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) ([v1.0.0](https://github.com/envoyproxy/ai-gateway/releases/tag/v1.0.0), 2 weeks ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.15.1](https://github.com/vale-cli/vale/releases/tag/v3.15.1), 4 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate@0.20.5](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate%400.20.5), 2 months ago) - contains backstage plugins written and maintained by myself
@@ -23,16 +23,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194674⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194697⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 411⭐
 - [werf/nelm](https://github.com/werf/nelm) 1093⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2427⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19845⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 23097⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1612⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 73205⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11528⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 29557⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2428⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 19849⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 23133⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1618⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 73332⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11533⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 29590⭐
 
 
 
