@@ -24,14 +24,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195285⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195281⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 425⭐
 - [werf/nelm](https://github.com/werf/nelm) 1106⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2544⭐
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20197⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25351⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25353⭐
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1762⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 81233⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 81237⭐
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11857⭐
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) 31090⭐
 
