@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.13](https://github.com/renovatebot/renovate/releases/tag/44.115.13), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.23.0](https://github.com/vale-cli/vale/releases/tag/v3.23.0), 3 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.55.2](https://github.com/backstage/backstage/releases/tag/v1.55.2), 3 days ago) - Backstage is an open framework for building developer portals
-- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.0](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.0), 4 days ago) - Validate and visiualize how your Renovate configurations merge
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.85.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.85.0), 1 week ago) - ⚓ A collection of high-performance JavaScript tools.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.117.0](https://github.com/renovatebot/renovate/releases/tag/44.117.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.86.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.86.0), 1 day ago) - ⚓ A collection of high-performance JavaScript tools.
+- [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.23.0](https://github.com/vale-cli/vale/releases/tag/v3.23.0), 4 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.55.2](https://github.com/backstage/backstage/releases/tag/v1.55.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.0](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.0), 5 days ago) - Validate and visiualize how your Renovate configurations merge
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.6](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.6), 1 week ago) - Contains Helm charts maintained by myself
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.1.0](https://github.com/theagentrouter/agent-router/releases/tag/v1.1.0), 1 month ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-backend@0.8.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-backend%400.8.0), 1 month ago) - AWS plugins for Backstage
@@ -24,16 +24,16 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195292⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195288⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 427⭐
 - [werf/nelm](https://github.com/werf/nelm) 1106⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2559⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20215⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25504⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20220⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25538⭐
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1778⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 90162⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11876⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 31172⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 92753⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11877⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 31186⭐
 
 
 
