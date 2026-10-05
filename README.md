@@ -12,28 +12,28 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.131.3](https://github.com/renovatebot/renovate/releases/tag/44.131.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.24.0](https://github.com/vale-cli/vale/releases/tag/v3.24.0), 1 day ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.55.3](https://github.com/backstage/backstage/releases/tag/v1.55.3), 3 days ago) - Backstage is an open framework for building developer portals
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.7](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.7), 3 days ago) - Contains Helm charts maintained by myself
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.86.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.86.0), 4 days ago) - ⚓ A collection of high-performance JavaScript tools.
-- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.0](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.0), 1 week ago) - Validate and visiualize how your Renovate configurations merge
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.133.0](https://github.com/renovatebot/renovate/releases/tag/44.133.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.1](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.1), 1 day ago) - Validate and visiualize how your Renovate configurations merge
+- [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.24.0](https://github.com/vale-cli/vale/releases/tag/v3.24.0), 4 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.55.3](https://github.com/backstage/backstage/releases/tag/v1.55.3), 6 days ago) - Backstage is an open framework for building developer portals
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.7](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.7), 6 days ago) - Contains Helm charts maintained by myself
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.86.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.86.0), 1 week ago) - ⚓ A collection of high-performance JavaScript tools.
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.1.0](https://github.com/theagentrouter/agent-router/releases/tag/v1.1.0), 1 month ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-backend@0.8.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-backend%400.8.0), 1 month ago) - AWS plugins for Backstage
+- [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-backend@0.8.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-backend%400.8.0), 2 months ago) - AWS plugins for Backstage
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-renovate-client@0.11.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-renovate-client%400.11.0), 2 months ago) - contains backstage plugins written and maintained by myself
 
 #### ⭐ Latest projects I've starred
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195279⭐
-- [canonical/chisel](https://github.com/canonical/chisel) 427⭐
-- [werf/nelm](https://github.com/werf/nelm) 1107⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2563⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20233⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25631⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1780⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 95838⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11893⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 31231⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195219⭐
+- [canonical/chisel](https://github.com/canonical/chisel) 426⭐
+- [werf/nelm](https://github.com/werf/nelm) 1108⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2569⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20236⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25705⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1782⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 97179⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11897⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 31248⭐
 
 
 
