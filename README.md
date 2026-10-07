@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.143.0](https://github.com/renovatebot/renovate/releases/tag/44.143.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.2.0](https://github.com/theagentrouter/agent-router/releases/tag/v1.2.0), today) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.56.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.141.0](https://github.com/renovatebot/renovate/releases/tag/44.141.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.2.0-rc1](https://github.com/theagentrouter/agent-router/releases/tag/v1.2.0-rc1), 1 day ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.87.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.87.0), 2 days ago) - ⚓ A collection of high-performance JavaScript tools.
 - [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.1](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.1), 3 days ago) - Validate and visiualize how your Renovate configurations merge
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.24.0](https://github.com/vale-cli/vale/releases/tag/v3.24.0), 6 days ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -25,15 +25,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195192⭐
-- [canonical/chisel](https://github.com/canonical/chisel) 427⭐
+- [canonical/chisel](https://github.com/canonical/chisel) 428⭐
 - [werf/nelm](https://github.com/werf/nelm) 1109⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2572⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20242⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25763⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2573⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20244⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25784⭐
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1785⭐
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 98060⭐
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11902⭐
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) 31263⭐
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) 98263⭐
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) 11903⭐
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) 31268⭐
 
 
 
