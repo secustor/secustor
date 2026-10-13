@@ -12,10 +12,10 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.151.0](https://github.com/renovatebot/renovate/releases/tag/44.151.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.9](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.9), 3 days ago) - Contains Helm charts maintained by myself
-- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.2.0](https://github.com/theagentrouter/agent-router/releases/tag/v1.2.0), 5 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.56.0-next.2), 6 days ago) - Backstage is an open framework for building developer portals
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.1](https://github.com/renovatebot/renovate/releases/tag/44.155.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.9](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.9), 4 days ago) - Contains Helm charts maintained by myself
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.2.0](https://github.com/theagentrouter/agent-router/releases/tag/v1.2.0), 6 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.56.0-next.2), 1 week ago) - Backstage is an open framework for building developer portals
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.87.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.87.0), 1 week ago) - ⚓ A collection of high-performance JavaScript tools.
 - [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.1](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.1), 1 week ago) - Validate and visiualize how your Renovate configurations merge
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.24.0](https://github.com/vale-cli/vale/releases/tag/v3.24.0), 1 week ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -25,15 +25,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 349⭐
-- [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) 248⭐
+- [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) 249⭐
 - [CycloneDX/transparency-exchange-api](https://github.com/CycloneDX/transparency-exchange-api) 120⭐
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194974⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194967⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 430⭐
 - [werf/nelm](https://github.com/werf/nelm) 1111⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2577⭐
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20256⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25902⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1798⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 25944⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1800⭐
 
 
 
