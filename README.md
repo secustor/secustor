@@ -12,11 +12,11 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.167.5](https://github.com/renovatebot/renovate/releases/tag/44.167.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.5.0), 3 days ago) - contains backstage plugins written and maintained by myself
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.10](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.10), 5 days ago) - Contains Helm charts maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.56.0-next.3), 6 days ago) - Backstage is an open framework for building developer portals
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.88.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.88.0), 6 days ago) - ⚓ A collection of high-performance JavaScript tools.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.171.1](https://github.com/renovatebot/renovate/releases/tag/44.171.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.89.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.89.0), 1 day ago) - ⚓ A collection of high-performance JavaScript tools.
+- [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.5.0), 4 days ago) - contains backstage plugins written and maintained by myself
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.10](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.10), 6 days ago) - Contains Helm charts maintained by myself
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.0-next.3](https://github.com/backstage/backstage/releases/tag/v1.56.0-next.3), 1 week ago) - Backstage is an open framework for building developer portals
 - [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.2.0](https://github.com/theagentrouter/agent-router/releases/tag/v1.2.0), 1 week ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.1](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.1), 2 weeks ago) - Validate and visiualize how your Renovate configurations merge
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.24.0](https://github.com/vale-cli/vale/releases/tag/v3.24.0), 2 weeks ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -26,14 +26,14 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 350⭐
 - [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) 255⭐
-- [CycloneDX/transparency-exchange-api](https://github.com/CycloneDX/transparency-exchange-api) 120⭐
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194912⭐
+- [CycloneDX/transparency-exchange-api](https://github.com/CycloneDX/transparency-exchange-api) 121⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194905⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 429⭐
 - [werf/nelm](https://github.com/werf/nelm) 1113⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2582⭐
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20278⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 26113⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1821⭐
+- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20283⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 26154⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1823⭐
 
 
 
