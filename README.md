@@ -12,9 +12,9 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.176.3](https://github.com/renovatebot/renovate/releases/tag/44.176.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.178.0](https://github.com/renovatebot/renovate/releases/tag/44.178.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.2](https://github.com/backstage/backstage/releases/tag/v1.56.2), today) - Backstage is an open framework for building developer portals
 - [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.12](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.12), today) - Contains Helm charts maintained by myself
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.54.10](https://github.com/backstage/backstage/releases/tag/v1.54.10), 1 day ago) - Backstage is an open framework for building developer portals
 - [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.2](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.2), 2 days ago) - Validate and visiualize how your Renovate configurations merge
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.89.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.89.0), 3 days ago) - ⚓ A collection of high-performance JavaScript tools.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.5.0), 6 days ago) - contains backstage plugins written and maintained by myself
@@ -25,15 +25,15 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 #### ⭐ Latest projects I've starred
 
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 351⭐
-- [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) 255⭐
+- [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) 256⭐
 - [CycloneDX/transparency-exchange-api](https://github.com/CycloneDX/transparency-exchange-api) 121⭐
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195073⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 195074⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 429⭐
 - [werf/nelm](https://github.com/werf/nelm) 1114⭐
 - [spiffe/spire](https://github.com/spiffe/spire) 2585⭐
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) 20296⭐
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 26261⭐
-- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1828⭐
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) 26286⭐
+- [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) 1830⭐
 
 
 
