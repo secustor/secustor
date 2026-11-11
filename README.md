@@ -12,28 +12,28 @@ Mostly working right now on building an IDP @n26 and these OSS projects:
 
 #### 🚀 Latest releases I've contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.4](https://github.com/backstage/backstage/releases/tag/v1.56.4), 1 day ago) - Backstage is an open framework for building developer portals
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.224.2](https://github.com/renovatebot/renovate/releases/tag/44.224.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.93.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.93.0), 1 day ago) - ⚓ A collection of high-performance JavaScript tools.
-- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.5](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.5), 1 day ago) - Validate and visiualize how your Renovate configurations merge
-- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.2.1](https://github.com/theagentrouter/agent-router/releases/tag/v1.2.1), 4 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.13](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.13), 6 days ago) - Contains Helm charts maintained by myself
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.227.4](https://github.com/renovatebot/renovate/releases/tag/44.227.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.56.4](https://github.com/backstage/backstage/releases/tag/v1.56.4), 2 days ago) - Backstage is an open framework for building developer portals
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) ([oxlint_v1.93.0](https://github.com/oxc-project/oxc/releases/tag/oxlint_v1.93.0), 2 days ago) - ⚓ A collection of high-performance JavaScript tools.
+- [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger) ([v0.4.5](https://github.com/secustor/renovate-config-debugger/releases/tag/v0.4.5), 2 days ago) - Validate and visiualize how your Renovate configurations merge
+- [theagentrouter/agent-router](https://github.com/theagentrouter/agent-router) ([v1.2.1](https://github.com/theagentrouter/agent-router/releases/tag/v1.2.1), 5 days ago) - Manages Unified Access to Generative AI Services built on Envoy Gateway
+- [secustor/helm-charts](https://github.com/secustor/helm-charts) ([immich-2.0.13](https://github.com/secustor/helm-charts/releases/tag/immich-2.0.13), 1 week ago) - Contains Helm charts maintained by myself
 - [vale-cli/vale](https://github.com/vale-cli/vale) ([v3.26.0](https://github.com/vale-cli/vale/releases/tag/v3.26.0), 1 week ago) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [secustor/backstage-plugins](https://github.com/secustor/backstage-plugins) ([@secustor/backstage-plugin-scaffolder-backend-module-filter-utilities@0.5.0](https://github.com/secustor/backstage-plugins/releases/tag/%40secustor/backstage-plugin-scaffolder-backend-module-filter-utilities%400.5.0), 3 weeks ago) - contains backstage plugins written and maintained by myself
 - [awslabs/backstage-plugins-for-aws](https://github.com/awslabs/backstage-plugins-for-aws) ([@aws/genai-plugin-for-backstage-backend@0.8.0](https://github.com/awslabs/backstage-plugins-for-aws/releases/tag/%40aws/genai-plugin-for-backstage-backend%400.8.0), 3 months ago) - AWS plugins for Backstage
 
 #### ⭐ Latest projects I've starred
 
-- [github/gh-actions-lock](https://github.com/github/gh-actions-lock) 311⭐
+- [github/gh-actions-lock](https://github.com/github/gh-actions-lock) 313⭐
 - [redhat-developer/rhdh-plugins](https://github.com/redhat-developer/rhdh-plugins) 53⭐
-- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) 587⭐
+- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) 588⭐
 - [meiji163/gh-notify](https://github.com/meiji163/gh-notify) 351⭐
 - [alpha-omega-security/scrutineer](https://github.com/alpha-omega-security/scrutineer) 267⭐
 - [CycloneDX/transparency-exchange-api](https://github.com/CycloneDX/transparency-exchange-api) 122⭐
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194804⭐
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) 194798⭐
 - [canonical/chisel](https://github.com/canonical/chisel) 431⭐
 - [werf/nelm](https://github.com/werf/nelm) 1121⭐
-- [spiffe/spire](https://github.com/spiffe/spire) 2614⭐
+- [spiffe/spire](https://github.com/spiffe/spire) 2616⭐
 
 
 
